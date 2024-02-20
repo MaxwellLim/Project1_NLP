@@ -1,0 +1,805 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="http://gmpg.org/xfn/11">
+
+<meta name='robots' content='index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1' />
+
+	<!-- This site is optimized with the Yoast SEO Premium plugin v21.8 (Yoast SEO v21.8) - https://yoast.com/wordpress/plugins/seo/ -->
+	<title>Know your influencer: For CaptainSparklez, gaming is not a game - Digiday</title>
+	<meta name="description" content="Jordan Maron, who goes by the name &#039;CaptainSparklez,&#039; is a YouTube gamer with 9 million subscribers, several brand deals and a new company under his belt." />
+	<link rel="canonical" href="https://digiday.com/media/know-influencer-jordan-maron-aka-captainsparklez/" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="Know your influencer: For CaptainSparklez, gaming is not a game" />
+	<meta property="og:description" content="Jordan Maron, who goes by the name &#039;CaptainSparklez,&#039; is a YouTube gamer with 9 million subscribers, several brand deals and a new company under his belt." />
+	<meta property="og:url" content="https://digiday.com/media/know-influencer-jordan-maron-aka-captainsparklez/" />
+	<meta property="og:site_name" content="Digiday" />
+	<meta property="article:publisher" content="https://www.facebook.com/digiday/" />
+	<meta property="article:published_time" content="2015-08-24T04:04:30+00:00" />
+	<meta property="article:modified_time" content="2015-08-24T00:39:58+00:00" />
+	<meta property="og:image" content="https://digiday.com/wp-content/uploads/sites/3/2015/08/Influencer-CaptainSparklez-Featured.jpg" />
+	<meta property="og:image:width" content="1600" />
+	<meta property="og:image:height" content="440" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="twitter:card" content="summary_large_image" />
+	<meta name="twitter:creator" content="@digiday" />
+	<meta name="twitter:site" content="@digiday" />
+	<meta name="twitter:label1" content="Written by" />
+	<meta name="twitter:data1" content="Sahil Patel" />
+	<meta name="twitter:label2" content="Est. reading time" />
+	<meta name="twitter:data2" content="4 minutes" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"NewsArticle","@id":"https://digiday.com/media/know-influencer-jordan-maron-aka-captainsparklez/#article","isPartOf":{"@id":"https://digiday.com/media/know-influencer-jordan-maron-aka-captainsparklez/"},"author":{"@id":"https://digiday.com/#/schema/person/image/bddd29e5bec70fc0c1053bb3bcdcbadf"},"headline":"Know your influencer: For CaptainSparklez, gaming is not a game","datePublished":"2015-08-24T04:04:30+00:00","dateModified":"2015-08-24T00:39:58+00:00","mainEntityOfPage":{"@id":"https://digiday.com/media/know-influencer-jordan-maron-aka-captainsparklez/"},"wordCount":909,"commentCount":0,"publisher":{"@id":"https://digiday.com/#organization"},"image":{"@id":"https://digiday.com/media/know-influencer-jordan-maron-aka-captainsparklez/#primaryimage"},"thumbnailUrl":"https://digiday.com/wp-content/uploads/sites/3/2015/08/Influencer-CaptainSparklez-Featured.jpg","articleSection":["Media"],"inLanguage":"en-US","copyrightYear":"2015","copyrightHolder":{"@id":"https://digiday.com/#organization"}},{"@type":"WebPage","@id":"https://digiday.com/media/know-influencer-jordan-maron-aka-captainsparklez/","url":"https://digiday.com/media/know-influencer-jordan-maron-aka-captainsparklez/","name":"Know your influencer: For CaptainSparklez, gaming is not a game - Digiday","isPartOf":{"@id":"https://digiday.com/#website"},"primaryImageOfPage":{"@id":"https://digiday.com/media/know-influencer-jordan-maron-aka-captainsparklez/#primaryimage"},"image":{"@id":"https://digiday.com/media/know-influencer-jordan-maron-aka-captainsparklez/#primaryimage"},"thumbnailUrl":"https://digiday.com/wp-content/uploads/sites/3/2015/08/Influencer-CaptainSparklez-Featured.jpg","datePublished":"2015-08-24T04:04:30+00:00","dateModified":"2015-08-24T00:39:58+00:00","description":"Jordan Maron, who goes by the name 'CaptainSparklez,' is a YouTube gamer with 9 million subscribers, several brand deals and a new company under his belt.","breadcrumb":{"@id":"https://digiday.com/media/know-influencer-jordan-maron-aka-captainsparklez/#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["https://digiday.com/media/know-influencer-jordan-maron-aka-captainsparklez/"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"https://digiday.com/media/know-influencer-jordan-maron-aka-captainsparklez/#primaryimage","url":"https://digiday.com/wp-content/uploads/sites/3/2015/08/Influencer-CaptainSparklez-Featured.jpg","contentUrl":"https://digiday.com/wp-content/uploads/sites/3/2015/08/Influencer-CaptainSparklez-Featured.jpg","width":1600,"height":440},{"@type":"BreadcrumbList","@id":"https://digiday.com/media/know-influencer-jordan-maron-aka-captainsparklez/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"https://digiday.com/"},{"@type":"ListItem","position":2,"name":"Know your influencer: For CaptainSparklez, gaming is not a game"}]},{"@type":"WebSite","@id":"https://digiday.com/#website","url":"https://digiday.com/","name":"Digiday","description":"Digital Content, Digital Advertising, Digital Marketing","publisher":{"@id":"https://digiday.com/#organization"},"potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://digiday.com/search?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Organization","@id":"https://digiday.com/#organization","name":"Digiday","url":"https://digiday.com/","logo":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://digiday.com/#/schema/logo/image/","url":"https://digiday.com/wp-content/uploads/sites/3/2017/06/Digiday_logo.png","contentUrl":"https://digiday.com/wp-content/uploads/sites/3/2017/06/Digiday_logo.png","width":1814,"height":1018,"caption":"Digiday"},"image":{"@id":"https://digiday.com/#/schema/logo/image/"},"sameAs":["https://www.facebook.com/digiday/","https://twitter.com/digiday","https://www.instagram.com/digiday/","https://www.linkedin.com/company/digiday/","https://en.wikipedia.org/wiki/Digiday"]},{"@type":"Person","@id":"https://digiday.com/#/schema/person/image/bddd29e5bec70fc0c1053bb3bcdcbadf","name":"Sahil Patel","image":{"@type":"ImageObject","inLanguage":"en-US","@id":"https://digiday.com/#/schema/person/image/1b07145edcc176164bb0c247cb4f767d","url":"https://secure.gravatar.com/avatar/27871edb97d1929a7d6f22d161c7a2cb?s=96&d=mm&r=pg","contentUrl":"https://secure.gravatar.com/avatar/27871edb97d1929a7d6f22d161c7a2cb?s=96&d=mm&r=pg","width":"","height":"","caption":"Sahil Patel"},"url":"https://digiday.com/author/sahil-patel/"}]}</script>
+	<!-- / Yoast SEO Premium plugin. -->
+
+
+<link rel='dns-prefetch' href='//www.lightboxcdn.com' />
+<link rel='dns-prefetch' href='//cdn.parsely.com' />
+<link rel='dns-prefetch' href='//js.createsend1.com' />
+<link rel='dns-prefetch' href='//experience.tinypass.com' />
+<link rel='dns-prefetch' href='//cdn.viafoura.net' />
+<link rel='dns-prefetch' href='//stats.wp.com' />
+<link rel="alternate" type="application/rss+xml" title="Digiday &raquo; Feed" href="https://digiday.com/feed/" />
+<link rel='stylesheet' id='all-css-0' href='https://digiday.com/_static/??-eJyNi1EOQDAQBS+klhDiQ5yl2pKNtZpuRXp7RCI+fc6bN3B4ZTaOjiN42mdkAW0V6eSCgJEPKTv5/Foy+N+8f2RDu3WPtigRRtrMogjHoEMCiYlcviLfxbD2ZVs0TV2VVXcCOrA6yw==' type='text/css' media='all' />
+<style id='wp-block-library-inline-css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<style id='wp-parsely-recommendations-style-inline-css'>
+.parsely-recommendations-list-title{font-size:1.2em}.parsely-recommendations-list{list-style:none;padding:unset}.parsely-recommendations-cardbody{overflow:hidden;padding:.8em;text-overflow:ellipsis;white-space:nowrap}.parsely-recommendations-cardmedia{padding:.8em .8em 0}
+
+</style>
+<link rel='stylesheet' id='all-css-4' href='https://digiday.com/_static/??-eJzTLy/QzcxLzilNSS3WzyrWz01NyUxMzUnNTc0rQeEU5CRWphbp5qSmJyZX6uVm5uklFxfr6OPTDpRD5sM02efaGpobmJmZGBuaGAAARKsu2w==' type='text/css' media='all' />
+<style id='elasticpress-facet-style-inline-css'>
+.widget_ep-facet input[type=search],.wp-block-elasticpress-facet input[type=search]{margin-bottom:1rem}.widget_ep-facet .searchable .inner,.wp-block-elasticpress-facet .searchable .inner{max-height:20em;overflow:scroll}.widget_ep-facet .term.hide,.wp-block-elasticpress-facet .term.hide{display:none}.widget_ep-facet .empty-term,.wp-block-elasticpress-facet .empty-term{opacity:.5;position:relative}.widget_ep-facet .empty-term:after,.wp-block-elasticpress-facet .empty-term:after{bottom:0;content:" ";display:block;left:0;position:absolute;right:0;top:0;width:100%;z-index:2}.widget_ep-facet .level-1,.wp-block-elasticpress-facet .level-1{padding-left:20px}.widget_ep-facet .level-2,.wp-block-elasticpress-facet .level-2{padding-left:40px}.widget_ep-facet .level-3,.wp-block-elasticpress-facet .level-3{padding-left:60px}.widget_ep-facet .level-4,.wp-block-elasticpress-facet .level-4{padding-left:5pc}.widget_ep-facet .level-5,.wp-block-elasticpress-facet .level-5{padding-left:75pt}.widget_ep-facet input[disabled],.wp-block-elasticpress-facet input[disabled]{cursor:pointer;opacity:1}.widget_ep-facet .term a,.wp-block-elasticpress-facet .term a{-webkit-box-align:center;-ms-flex-align:center;align-items:center;display:-webkit-box;display:-ms-flexbox;display:flex;position:relative}.widget_ep-facet .term a:hover .ep-checkbox,.wp-block-elasticpress-facet .term a:hover .ep-checkbox{background-color:#ccc}.ep-checkbox{-webkit-box-align:center;-ms-flex-align:center;-ms-flex-negative:0;-webkit-box-pack:center;-ms-flex-pack:center;align-items:center;background-color:#eee;display:-webkit-box;display:-ms-flexbox;display:flex;flex-shrink:0;height:1em;justify-content:center;margin-right:.25em;width:1em}.ep-checkbox:after{border:solid #fff;border-width:0 .125em .125em 0;content:"";display:none;height:.5em;-webkit-transform:rotate(45deg);transform:rotate(45deg);width:.25em}.ep-checkbox.checked{background-color:#5e5e5e}.ep-checkbox.checked:after{display:block}
+
+</style>
+<link rel='stylesheet' id='all-css-6' href='https://digiday.com/wp-content/mu-plugins/search/elasticpress-next/dist/css/related-posts-block-styles.min.css?m=1707840209g' type='text/css' media='all' />
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css'>
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}body .is-layout-grid{display: grid;}body .is-layout-grid > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='all-css-10' href='https://digiday.com/_static/??-eJydj9EKwjAMRX/ILjrEPonfEtq4Bdu0LB1lf29xKio+iK+5OfckULNxSQpJgTJSJAXPA3tcQKgaLVjYgVOFc9tSExJ6mrrI0rXhBn7G1U1E8hXMYR5YnqSJ5BmNUKlpupg1BRYHMfk5NEVmlASoSkVv5RmXiiGYe8ObpYFh9rQuetSRm1f/P+Tlp0fyoT3F485ubd/3+4O9AlidhAA=' type='text/css' media='all' />
+
+	<!-- dataLayer variable -->
+	<script>var dataLayer = window.dataLayer || []; dataLayer.push({"postDetails":{"publishDate":"2015\/08\/24","author":"","tags":[],"categories":["Media"]}});</script>
+
+	<!-- Google Tag Manager script -->
+	<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+	})(window,document,'script','dataLayer','GTM-K62HL6S');</script>
+
+	<script type="text/javascript" id="ad-layers-dfp-js-extra">
+/* <![CDATA[ */
+var adLayersDFP = {"layerDebugLabel":"Current ad layer","consoleDebugLabel":"Switch to Google console","adUnitPrefix":"div-gpt-ad-"};
+/* ]]> */
+</script>
+<script type="text/javascript" id="ad-layers-js-extra">
+/* <![CDATA[ */
+var adLayersAdServer = {"jsAPIClass":"AdLayersDFPAPI"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://digiday.com/_static/??-eJzTLy/QzcxLzilNSS3WzwKiwtLUokoopZebmaeXVayjj0+Rbm5melFiSSqy4uT8vJLUvBL9gpzS9My8Yv3EFN2cxMrUIrBuOEc3Ja2ANB1A1fa5tobmBmZmJsaGJgZZAN8cRac=" ></script><script type="text/javascript" defer="defer" async="async" src="https://www.lightboxcdn.com/vendor/5a9c5a6f-b8c1-47bb-829a-55322a8adccd/lightbox_speed.js" id="digioh-low-impact-js"></script>
+<script type="text/javascript" id="piano-integration-js-extra">
+/* <![CDATA[ */
+var pianoSettings = {"aid":"6LaRkvUre6","sandbox":"","debug":"","env":"production","rids":{"plus":null},"rest_endpoints":{"term_info":"https:\/\/digiday.com\/wp-json\/piano\/v1\/term\/info","admin_base":"https:\/\/digiday.ddm.vipdev.lndo.site\/wp-admin\/admin-ajax.php"},"deepDive":"1","brand":"digiday"};
+var tag_vars = {"post_tags":"media,article"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://digiday.com/wp-content/plugins/digiday-media-network-plugin/inc/modules/piano/assets/js/piano-integration.min.js?m=1705080690g" ></script><script type="text/javascript" defer="defer" src="https://experience.tinypass.com/xbuilder/experience/load?aid=6LaRkvUre6&amp;ver=2.1" id="tinypass-js"></script>
+<script type="text/javascript" defer="defer" src="//cdn.viafoura.net/entry/index.js?ver=9.11.1" id="viafoura-cdn-js"></script>
+<!-- Stream WordPress user activity plugin v4.0.0 -->
+	<style>img#wpstats{display:none}</style>
+		<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"NewsArticle","headline":"Know your influencer: For CaptainSparklez, gaming is not a game","url":"http:\/\/digiday.com\/media\/know-influencer-jordan-maron-aka-captainsparklez\/","mainEntityOfPage":{"@type":"WebPage","@id":"http:\/\/digiday.com\/media\/know-influencer-jordan-maron-aka-captainsparklez\/"},"thumbnailUrl":"https:\/\/digiday.com\/wp-content\/uploads\/sites\/3\/2015\/08\/Influencer-CaptainSparklez-Featured.jpg?w=150&h=150&crop=1","image":{"@type":"ImageObject","url":"https:\/\/digiday.com\/wp-content\/uploads\/sites\/3\/2015\/08\/Influencer-CaptainSparklez-Featured.jpg"},"articleSection":"Media","author":[],"creator":[],"publisher":{"@type":"Organization","name":"Digiday","logo":"https:\/\/digiday.com\/wp-content\/uploads\/sites\/3\/2018\/01\/digiday-email-logo.png"},"keywords":[],"dateCreated":"2015-08-24T04:04:30Z","datePublished":"2015-08-24T04:04:30Z","dateModified":"2015-08-24T04:04:30Z"}</script>	<link rel="apple-touch-icon" href="https://digiday.com/wp-content/themes/digiday/static/images/favicons/apple-touch-icon.png" />
+	<link rel="apple-touch-icon" sizes="57x57" href="https://digiday.com/wp-content/themes/digiday/static/images/favicons/apple/apple-touch-icon-57x57.png" />
+	<link rel="apple-touch-icon" sizes="60x60" href="https://digiday.com/wp-content/themes/digiday/static/images/favicons/apple/apple-touch-icon-60x60.png" />
+	<link rel="apple-touch-icon" sizes="72x72" href="https://digiday.com/wp-content/themes/digiday/static/images/favicons/apple/apple-touch-icon-72x72.png" />
+	<link rel="apple-touch-icon" sizes="76x76" href="https://digiday.com/wp-content/themes/digiday/static/images/favicons/apple/apple-touch-icon-76x76.png" />
+	<link rel="apple-touch-icon" sizes="114x114" href="https://digiday.com/wp-content/themes/digiday/static/images/favicons/apple/apple-touch-icon-114x114.png" />
+	<link rel="apple-touch-icon" sizes="120x120" href="https://digiday.com/wp-content/themes/digiday/static/images/favicons/apple/apple-touch-icon-120x120.png" />
+	<link rel="apple-touch-icon" sizes="144x144" href="https://digiday.com/wp-content/themes/digiday/static/images/favicons/apple/apple-touch-icon-144x144.png" />
+	<link rel="apple-touch-icon" sizes="152x152" href="https://digiday.com/wp-content/themes/digiday/static/images/favicons/apple/apple-touch-icon-152x152.png" />
+	<link rel="apple-touch-icon" sizes="180x180" href="https://digiday.com/wp-content/themes/digiday/static/images/favicons/apple/apple-touch-icon-180x180.png" />
+
+	<link rel="apple-touch-icon-precomposed" href="https://digiday.com/wp-content/themes/digiday/static/images/favicons/apple-touch-icon.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="57x57" href="https://digiday.com/wp-content/themes/digiday/static/images/favicons/apple/apple-touch-icon-57x57.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="60x60" href="https://digiday.com/wp-content/themes/digiday/static/images/favicons/apple/apple-touch-icon-60x60.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://digiday.com/wp-content/themes/digiday/static/images/favicons/apple/apple-touch-icon-72x72.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="76x76" href="https://digiday.com/wp-content/themes/digiday/static/images/favicons/apple/apple-touch-icon-76x76.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://digiday.com/wp-content/themes/digiday/static/images/favicons/apple/apple-touch-icon-114x114.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="120x120" href="https://digiday.com/wp-content/themes/digiday/static/images/favicons/apple/apple-touch-icon-120x120.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://digiday.com/wp-content/themes/digiday/static/images/favicons/apple/apple-touch-icon-144x144.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="152x152" href="https://digiday.com/wp-content/themes/digiday/static/images/favicons/apple/apple-touch-icon-152x152.png" />
+	<link rel="apple-touch-icon-precomposed" sizes="180x180" href="https://digiday.com/wp-content/themes/digiday/static/images/favicons/apple/apple-touch-icon-180x180.png" />
+
+	<link rel="manifest" href="https://digiday.com/wp-content/themes/digiday/static/images/favicons/manifest.json">
+	<link rel="mask-icon" href="https://digiday.com/wp-content/themes/digiday/static/images/favicons/safari-pinned-tab.svg" color="#000000">
+	<meta name="apple-mobile-web-app-title" content="Digiday">
+	<meta name="application-name" content="Digiday">
+	<meta name="theme-color" content="#ffffff">
+
+	<link rel="shortcut icon" href="https://digiday.com/wp-content/themes/digiday/static/images/favicons/favicon-96x96.png" />
+	<link rel="icon" type="image/png" href="https://digiday.com/wp-content/themes/digiday/static/images/favicons/favicon-196x196.png" sizes="196x196" />
+	<link rel="icon" type="image/png" href="https://digiday.com/wp-content/themes/digiday/static/images/favicons/favicon-96x96.png" sizes="96x96" />
+	<link rel="icon" type="image/png" href="https://digiday.com/wp-content/themes/digiday/static/images/favicons/favicon-48x48.png" sizes="48x48" />
+	<link rel="icon" type="image/png" href="https://digiday.com/wp-content/themes/digiday/static/images/favicons/favicon-32x32.png" sizes="32x32" />
+	<link rel="icon" type="image/png" href="https://digiday.com/wp-content/themes/digiday/static/images/favicons/favicon-16x16.png" sizes="16x16" />
+	<link rel="icon" type="image/png" href="https://digiday.com/wp-content/themes/digiday/static/images/favicons/favicon-128.png" sizes="128x128" />
+
+	<meta name="apple-mobile-web-app-title" content="Digiday" />
+	<meta name="msapplication-config" content="https://digiday.com/wp-content/themes/digiday/static/images/favicons/browserconfig.xml">
+	<meta name="msapplication-TileColor" content="#FFFFFF" />
+	<meta name="msapplication-TileImage" content="https://digiday.com/wp-content/themes/digiday/static/images/favicons/mstile-144x144.png" />
+	<meta name="msapplication-square70x70logo" content="https://digiday.com/wp-content/themes/digiday/static/images/favicons/mstile-70x70.png" />
+	<meta name="msapplication-square150x150logo" content="https://digiday.com/wp-content/themes/digiday/static/images/favicons/mstile-150x150.png" />
+	<meta name="msapplication-wide310x150logo" content="https://digiday.com/wp-content/themes/digiday/static/images/favicons/mstile-310x150.png" />
+	<meta name="msapplication-square310x310logo" content="https://digiday.com/wp-content/themes/digiday/static/images/favicons/mstile-310x310.png" />
+
+								<script type='text/javascript'>
+				var dfpAdUnits = {};
+				var googletag = googletag || {};
+				googletag.cmd = googletag.cmd || [];
+				(function() {
+				var gads = document.createElement('script');
+				gads.async = true;
+				gads.type = 'text/javascript';
+				var useSSL = 'https:' == document.location.protocol;
+				gads.src = (useSSL ? 'https:' : 'http:') +
+				'//www.googletagservices.com/tag/js/gpt.js';
+				var node = document.getElementsByTagName('script')[0];
+				node.parentNode.insertBefore(gads, node);
+				})();
+				</script>
+									<script type="text/javascript">
+			var dfpBuiltMappings = {}, dfpAdUnits = {};
+			googletag.cmd.push(function() {
+				dfpBuiltMappings["web_leaderboard"] = googletag.sizeMapping().addSize([1400,1],[[970,90],[970,250]]).addSize([992,1],[[970,90],[970,250]]).addSize([740,1],[[728,90],[970,90]]).addSize([1,1],[[970,90],[300,50],[320,50]]).build();
+dfpBuiltMappings["web_bfu"] = googletag.sizeMapping().addSize([1400,1],[[1440,706]]).addSize([992,1],[[320,640]]).addSize([740,1],[[320,640]]).addSize([1,1],[[320,640]]).build();
+dfpBuiltMappings["web_rightrail_pos1"] = googletag.sizeMapping().addSize([1400,1],[[300,600]]).addSize([992,1],[[300,600]]).addSize([740,1],[[300,600]]).addSize([1,1],[[300,600]]).build();
+dfpBuiltMappings["web_rightrail_pos2"] = googletag.sizeMapping().addSize([1400,1],[[300,600],[300,250]]).addSize([992,1],[[300,600],[300,250]]).addSize([740,1],[[300,250]]).addSize([1,1],[[300,250]]).build();
+dfpBuiltMappings["web_incontent_pos1"] = googletag.sizeMapping().addSize([1400,1],[]).addSize([992,1],[]).addSize([740,1],[[320,50],[300,50]]).addSize([1,1],[[320,50],[300,50]]).build();
+dfpBuiltMappings["web_incontent_pos2"] = googletag.sizeMapping().addSize([1400,1],[]).addSize([992,1],[]).addSize([740,1],[[320,50],[300,50]]).addSize([1,1],[[320,50],[300,50]]).build();
+dfpAdUnits["web_leaderboard"] = googletag.defineSlot("\/77046769\/digiday.com\/web_leaderboard",[970,90],"div-gpt-ad-web_leaderboard").defineSizeMapping(dfpBuiltMappings["web_leaderboard"]).setTargeting("categories",["media"]).setTargeting("aid",[132391]).setTargeting("author",["Sahil Patel"]).setTargeting("environment",["production"]).addService(googletag.pubads());
+dfpAdUnits["web_bfu"] = googletag.defineSlot("\/77046769\/digiday.com\/web_bfu",[1440,706],"div-gpt-ad-web_bfu").defineSizeMapping(dfpBuiltMappings["web_bfu"]).setTargeting("categories",["media"]).setTargeting("aid",[132391]).setTargeting("author",["Sahil Patel"]).setTargeting("environment",["production"]).addService(googletag.pubads());
+dfpAdUnits["web_rightrail_pos1"] = googletag.defineSlot("\/77046769\/digiday.com\/web_rightrail_pos1",[300,600],"div-gpt-ad-web_rightrail_pos1").defineSizeMapping(dfpBuiltMappings["web_rightrail_pos1"]).setTargeting("categories",["media"]).setTargeting("aid",[132391]).setTargeting("author",["Sahil Patel"]).setTargeting("environment",["production"]).addService(googletag.pubads());
+dfpAdUnits["web_rightrail_pos2"] = googletag.defineSlot("\/77046769\/digiday.com\/web_rightrail_pos2",[300,600],"div-gpt-ad-web_rightrail_pos2").defineSizeMapping(dfpBuiltMappings["web_rightrail_pos2"]).setTargeting("categories",["media"]).setTargeting("aid",[132391]).setTargeting("author",["Sahil Patel"]).setTargeting("environment",["production"]).addService(googletag.pubads());
+dfpAdUnits["web_incontent_pos1"] = googletag.defineSlot("\/77046769\/digiday.com\/web_incontent_pos1",[320,50],"div-gpt-ad-web_incontent_pos1").defineSizeMapping(dfpBuiltMappings["web_incontent_pos1"]).setTargeting("categories",["media"]).setTargeting("aid",[132391]).setTargeting("author",["Sahil Patel"]).setTargeting("environment",["production"]).addService(googletag.pubads());
+dfpAdUnits["web_incontent_pos2"] = googletag.defineSlot("\/77046769\/digiday.com\/web_incontent_pos2",[320,50],"div-gpt-ad-web_incontent_pos2").defineSizeMapping(dfpBuiltMappings["web_incontent_pos2"]).setTargeting("categories",["media"]).setTargeting("aid",[132391]).setTargeting("author",["Sahil Patel"]).setTargeting("environment",["production"]).addService(googletag.pubads());
+googletag.pubads().setTargeting("categories",["media"]).setTargeting("aid",[132391]).setTargeting("author",["Sahil Patel"]).setTargeting("environment",["production"]);
+	googletag.pubads().setTargeting( 'breakpoint', ( window.innerWidth < 992 ) ? 'mobile' : 'desktop' );
+	googletag.pubads().addEventListener('slotOnload', function(event) {
+		var slot = event.slot;
+		document.getElementById(slot.getSlotElementId()).classList.add("advertisement-label");
+	});
+	googletag.pubads().enableAsyncRendering();
+googletag.pubads().enableLazyLoad({renderMarginPercent: 0, fetchMarginPercent: 0});
+googletag.pubads().enableSingleRequest();
+
+				if ( typeof AdLayersAPI === 'undefined' || ! AdLayersAPI.isDebug() ) {
+					googletag.enableServices();
+				}
+			});
+						var dfpSizeMapping = {"web_leaderboard":[[[1400,1],[[970,90],[970,250]]],[[992,1],[[970,90],[970,250]]],[[740,1],[[728,90],[970,90]]],[[1,1],[[970,90],[300,50],[320,50]]]],"web_bfu":[[[1400,1],[[1440,706]]],[[992,1],[[320,640]]],[[740,1],[[320,640]]],[[1,1],[[320,640]]]],"web_rightrail_pos1":[[[1400,1],[[300,600]]],[[992,1],[[300,600]]],[[740,1],[[300,600]]],[[1,1],[[300,600]]]],"web_rightrail_pos2":[[[1400,1],[[300,600],[300,250]]],[[992,1],[[300,600],[300,250]]],[[740,1],[[300,250]]],[[1,1],[[300,250]]]],"web_incontent_pos1":[[[1400,1],[]],[[992,1],[]],[[740,1],[[320,50],[300,50]]],[[1,1],[[320,50],[300,50]]]],"web_incontent_pos2":[[[1400,1],[]],[[992,1],[]],[[740,1],[[320,50],[300,50]]],[[1,1],[[320,50],[300,50]]]]};
+			var dfpAdLayer = {"post_id":"180789","title":"Post Layer"};
+			var dfpAdDetails = {"web_leaderboard":{"path":"\/77046769\/digiday.com\/web_leaderboard","sizes":[970,90],"targeting":{"categories":["media"],"aid":[132391],"author":["Sahil Patel"],"environment":["production"]}},"web_bfu":{"path":"\/77046769\/digiday.com\/web_bfu","sizes":[1440,706],"targeting":{"categories":["media"],"aid":[132391],"author":["Sahil Patel"],"environment":["production"]}},"web_rightrail_pos1":{"path":"\/77046769\/digiday.com\/web_rightrail_pos1","sizes":[300,600],"targeting":{"categories":["media"],"aid":[132391],"author":["Sahil Patel"],"environment":["production"]}},"web_rightrail_pos2":{"path":"\/77046769\/digiday.com\/web_rightrail_pos2","sizes":[300,600],"targeting":{"categories":["media"],"aid":[132391],"author":["Sahil Patel"],"environment":["production"]}},"web_incontent_pos1":{"path":"\/77046769\/digiday.com\/web_incontent_pos1","sizes":[320,50],"targeting":{"categories":["media"],"aid":[132391],"author":["Sahil Patel"],"environment":["production"]}},"web_incontent_pos2":{"path":"\/77046769\/digiday.com\/web_incontent_pos2","sizes":[320,50],"targeting":{"categories":["media"],"aid":[132391],"author":["Sahil Patel"],"environment":["production"]}}};
+			</script>
+			<link rel="icon" href="https://digiday.com/wp-content/uploads/sites/3/2020/11/mstile-310x310-1.png?w=32" sizes="32x32" />
+<link rel="icon" href="https://digiday.com/wp-content/uploads/sites/3/2020/11/mstile-310x310-1.png?w=192" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://digiday.com/wp-content/uploads/sites/3/2020/11/mstile-310x310-1.png?w=180" />
+<meta name="msapplication-TileImage" content="https://digiday.com/wp-content/uploads/sites/3/2020/11/mstile-310x310-1.png?w=270" />
+</head>
+
+<body class="post-template-default single single-post postid-132391 single-format-standard wp-embed-responsive digiday tp-level-false">
+	<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-K62HL6S"
+	height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>		<div class="ad_960">
+            <div class="leaderboard_center">
+				<div id="div-gpt-ad-web_leaderboard" class="dfp-ad dfp-web_leaderboard" data-ad-unit="web_leaderboard">
+					<script type="text/javascript">
+						if ( "undefined" !== typeof googletag ) {
+							googletag.cmd.push( function() { googletag.display("div-gpt-ad-web_leaderboard"); } );
+						}
+					</script>
+				</div>            </div>
+		</div>
+				<div class="wrapper	">
+			<div id="content" class="site-content">
+				<div id="primary" class="content-area">
+					<main id="main" class="site-main" role="main">
+						<div id="header">
+	<div id="sticky-header-wrapper">
+		<nav class="" id="site-navigation">
+			<div class="nav-wrapper top-head">
+				<div class="top_row">
+					<div class="left">
+						<a class="icon btn_menu" href="#" title="">
+							<div></div>
+							<div></div>
+							<div></div>
+						</a>
+
+						<a class="icon logo-mobile mobile-visible" href="https://digiday.com/">
+							<img alt="Digiday" src="https://digiday.com/wp-content/themes/digiday/client/new-assets/images/digiday_logo.svg">
+						</a>
+
+
+						<div class="search_wrapper desktop-visible">
+							<form action="https://digiday.com/search/" class="search-form" method="get" role="search">
+								<input type="search" class="input_search" placeholder="Search &hellip;" value="" name="s" size="30"/>
+							</form>
+							<a class="icon btn_search" href="#">
+								<img class="icon-search" src="https://digiday.com/wp-content/themes/digiday/client/new-assets/images/icon_search.svg" alt="Search">
+								<img class="icon-close" src="https://digiday.com/wp-content/themes/digiday/client/new-assets/images/icon_close-black-alt.svg" alt="Close Search">
+							</a>
+						</div>
+
+						
+					</div>
+
+					<a class="icon logo desktop-visible" href="https://digiday.com/">
+						<img src="https://digiday.com/wp-content/themes/digiday/client/new-assets/images/digiday_logo.svg" alt="Digiday">
+					</a>
+
+
+
+					<div class="right">
+						<a class="icon subscribe_envelope desktop-visible" href="https://digiday.com/newsletters/" title="Subscribe">
+							<img alt="Digiday" src="https://digiday.com/wp-content/themes/digiday/client/new-assets/images/icon_envelope-black.svg">
+						</a>
+						
+						<div class="tinypass-menu">
+							<div class="logged-out nav-logged-out">
+								<a class="subscribe"
+									href="https://digiday.com/subscribe/?utm_source=digiday.com&#038;utm_medium=direct&#038;utm_campaign=digidaydis&#038;subscribe_button">Subscribe</a> |
+								<a class="login tp-login-button" href="#">Login</a>
+							</div>
+							<div class="logged-in nav-logged-in">
+								<!-- Nicer arrow coming -->
+								<a class="menu_toggle dropdown-toggle" href="#"><span>Reader</span></a>
+								<ul class="my_menu nav-dropdown-menu">
+									<li class="who member-title">
+                                        <span class="avatar"></span>
+                                        <span class="full-name"></span>
+                                        <span class="tp-hide-if-free">Digiday+ Member</span>
+                                        <a class="nav-subscribe tp-hide-if-paid" href="/subscribe"><span>Subscribe Now</span></a>
+                                    </li>
+									<li class="plus"><a href="/plus">Digiday+ homepage</a></li>
+									<li><a href="/frequently-asked-questions/">FAQ</a></li>
+									<li><a href="/my-account/" class="account-overview">Account Overview</a></li>
+									<li><a href="" class="logout tp-logout-button">Logout</a></li>
+								</ul>
+							</div>
+						</div>
+
+					</div>
+				</div>
+
+				
+					
+                    <div class="bottom_row">
+                        <a class="btn_dropdown" href="#">News</a>
+                        <a href="https://digiday.com/plus/">Digiday +</a>
+<a href="/podcasts/">Podcasts</a>
+<a href="/events">Events</a>
+<a href="/awards/">Awards</a>
+                    </div>
+							</div>
+
+			<div class="mobile_menu">
+				<div class="mobile_menu_wrapper">
+					<div class="close">
+						<a href="#" class="btn_close"><img src="https://digiday.com/wp-content/themes/digiday/client/new-assets/images/icon_close-white.svg"></a>
+					</div>
+					<div class="sections">
+						<div class="section nav-sections">
+							<ul id="menu-main-menu-1" class="menu"><li><a href="/">News</a></li><li class="menu-nav_pulse menu-item menu-item-type-custom menu-item-object-custom menu-item-223951"><a href="https://digiday.com/plus/">Digiday +</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-276493"><a href="/podcasts/">Podcasts</a></li>
+<li class="menu-nav_events menu-item menu-item-type-custom menu-item-object-custom menu-item-223952"><a href="/events">Events</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-249063"><a href="/awards/">Awards</a></li>
+</ul>
+							<div class="mobile_search">
+								<form role="search" method="get" action="https://digiday.com/search/">
+									<div class="search-wrapper">
+										<input type="text" placeholder="Search" value="" name="s" size="30"/>
+									</div>
+								</form>
+							</div>
+						</div>
+
+						<div class="section nav-hot-topics">
+							<h4>Hot Topics</h4>
+							<ul id="menu-hot-topic-menu" class="menu"><li id="menu-item-475391" class="menu-item menu-item-type-taxonomy menu-item-object-topics menu-item-475391"><a href="https://digiday.com/topic/programmatic-publisher/">The Programmatic Publisher</a></li>
+<li id="menu-item-475396" class="menu-item menu-item-type-taxonomy menu-item-object-topics menu-item-475396"><a href="https://digiday.com/topic/programmatic-luxury/">The Programmatic Marketer</a></li>
+<li id="menu-item-475390" class="menu-item menu-item-type-taxonomy menu-item-object-topics menu-item-475390"><a href="https://digiday.com/topic/marketing-on-platforms/">Marketing on Platforms</a></li>
+<li id="menu-item-475392" class="menu-item menu-item-type-taxonomy menu-item-object-topics menu-item-475392"><a href="https://digiday.com/topic/life-beyond-the-cookie/">Life Beyond the Cookie</a></li>
+<li id="menu-item-475394" class="menu-item menu-item-type-taxonomy menu-item-object-topics menu-item-475394"><a href="https://digiday.com/topic/brands-in-culture/">Brands in Culture</a></li>
+<li id="menu-item-475395" class="menu-item menu-item-type-taxonomy menu-item-object-topics menu-item-475395"><a href="https://digiday.com/topic/gaming-esports/">Gaming &amp; Esports</a></li>
+<li id="menu-item-475398" class="menu-item menu-item-type-taxonomy menu-item-object-topics menu-item-475398"><a href="https://digiday.com/topic/modern-newsroom/">Modern Newsroom</a></li>
+<li id="menu-item-479499" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-479499"><a href="/topics/">All Topics</a></li>
+</ul>						</div>
+
+						<div class="section nav-categories">
+							<div class="tinypass-menu">
+								<div class="logged-out tp-hide-if-subscriber">
+									<a href="#" class="login tp-login-button">Login</a>
+									<a href="https://digiday.com/subscribe/" class="subscribe">Subscribe</a>
+								</div>
+								<div class="logged-in tp-hide-if-guest">
+									<a href="/my-account/" class="account-overview">My Account</a>
+									<a href="#" class="logout tp-logout-button">Logout</a>
+								</div>
+							</div>
+
+							<div class="mm"><ul id="menu-main-dropdown-rt" class="menu"><li id="menu-item-483405" class="menu-item menu-item-type-taxonomy menu-item-object-series menu-item-483405"><a href="https://digiday.com/series/special-projects/">Special Projects</a></li>
+<li id="menu-item-483404" class="menu-item menu-item-type-taxonomy menu-item-object-series menu-item-483404"><a href="https://digiday.com/series/research/">Digiday+ Research</a></li>
+<li id="menu-item-483406" class="menu-item menu-item-type-taxonomy menu-item-object-series menu-item-483406"><a href="https://digiday.com/series/wtf/">WTF Series</a></li>
+<li id="menu-item-522346" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-522346"><a href="/newsletters/">Newsletters</a></li>
+</ul></div>						</div>
+					</div>
+				</div>
+			</div> <!-- .mobile-menu -->
+
+			<div class="dropdown-content">
+				<div class="drop-wrapper dropdown_wrapper">
+											<div class="feature_story">
+															<div>
+									<img width="160" height="100" src="https://digiday.com/wp-content/uploads/sites/3/2020/10/election-03.jpg?w=160&amp;h=100&amp;crop=1" class="attachment-nav_feature_story size-nav_feature_story wp-post-image" alt="election" decoding="async" srcset="https://digiday.com/wp-content/uploads/sites/3/2020/10/election-03.jpg?resize=439,277 439w, https://digiday.com/wp-content/uploads/sites/3/2020/10/election-03.jpg?resize=555,350 555w, https://digiday.com/wp-content/uploads/sites/3/2020/10/election-03.jpg?resize=160,100 160w" sizes="(max-width: 160px) 100vw, 160px" />								</div>
+														<a href="https://digiday.com/media/tech-companies-make-more-commitments-to-address-ai-generated-election-misinformation/" title="Tech companies make more commitments to address AI-generated election misinformation">
+								Tech companies make more commitments to address AI-generated election misinformation							</a>
+						</div>
+					
+					<div class="hot-topics"><ul id="menu-main-dropdown-right" class="menu"><li id="menu-item-223961" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-223961"><a href="https://digiday.com/media/">Media</a></li>
+<li id="menu-item-223960" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-223960"><a href="https://digiday.com/marketing/">Marketing</a></li>
+<li id="menu-item-479498" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-479498"><a href="https://digiday.com/media-buying/">Media Buying</a></li>
+<li id="menu-item-362952" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-362952"><a href="https://digiday.com/future-of-tv/">Future of TV</a></li>
+<li id="menu-item-461928" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-461928"><a href="https://digiday.com/es/">Español</a></li>
+</ul></div><div class="mm"><ul id="menu-main-dropdown-rt-1" class="menu"><li class="menu-item menu-item-type-taxonomy menu-item-object-series menu-item-483405"><a href="https://digiday.com/series/special-projects/">Special Projects</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-series menu-item-483404"><a href="https://digiday.com/series/research/">Digiday+ Research</a></li>
+<li class="menu-item menu-item-type-taxonomy menu-item-object-series menu-item-483406"><a href="https://digiday.com/series/wtf/">WTF Series</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-522346"><a href="/newsletters/">Newsletters</a></li>
+</ul></div>				</div><!-- .drop-wrapper -->
+			</div><!-- .dropdown-content -->
+		</nav>
+	</div>
+	</div>
+
+<div id="article-wrapper">
+	
+<div class="article-name-block">
+	<div class="article-name-block-wrapper">
+				<div class="article-title-block post">
+			<div class="eyebrow regular-eyebrow upper-title"><a href="https://digiday.com/media/">Media</a></div>			<h1>
+                Know your influencer: For CaptainSparklez, gaming is not a game			</h1>
+			<div class="article-info"><span class="author">By <a href='https://digiday.com/author/sahil-patel/'>Sahil Patel</a></span> &nbsp;&bull;&nbsp; <span class="date">August 24, 2015&nbsp;&nbsp;&bull;&nbsp;&nbsp;4 min read</span> &nbsp;&bull;<div id="social-share-icons" class="">
+	<ul>
+				<li><a target="popup" title="Share on Facebook" onclick="window.open('https://www.facebook.com/dialog/share?app_id=610029874501691&#038;display=popup&#038;href=https%3A%2F%2Fdigiday.com%2Fmedia%2Fknow-influencer-jordan-maron-aka-captainsparklez%2F%3Futm_medium%3Dsocial%26utm_campaign%3Ddigidaysiteshare&#038;utm_source=facebook&#038;redirect_uri=','popup','width=600,height=600'); return false;" href="https://www.facebook.com/dialog/share?app_id=610029874501691&#038;display=popup&#038;href=https%3A%2F%2Fdigiday.com%2Fmedia%2Fknow-influencer-jordan-maron-aka-captainsparklez%2F%3Futm_medium%3Dsocial%26utm_campaign%3Ddigidaysiteshare&#038;utm_source=facebook&#038;redirect_uri="><span class="dashicons dashicons-facebook">Facebook</span></a></li>
+				<li><a target="popup" title="Share on Twitter" onclick="window.open('https://twitter.com/intent/tweet?url=https%3A%2F%2Fdigiday.com%2Fmedia%2Fknow-influencer-jordan-maron-aka-captainsparklez%2F%3Futm_medium%3Dsocial%26utm_campaign%3Ddigidaysiteshare%26utm_source%3Dtwitter&#038;text=Know%20your%20influencer%3A%20For%20CaptainSparklez%2C%20gaming%20is%20not%20a%20game','popup','width=600,height=600'); return false;" href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fdigiday.com%2Fmedia%2Fknow-influencer-jordan-maron-aka-captainsparklez%2F%3Futm_medium%3Dsocial%26utm_campaign%3Ddigidaysiteshare%26utm_source%3Dtwitter&#038;text=Know%20your%20influencer%3A%20For%20CaptainSparklez%2C%20gaming%20is%20not%20a%20game"><span class="dashicons dashicons-twitter">Twitter</span></a></li>
+		<li><a target="popup" title="Share on LinkedIn" onclick="window.open('https://www.linkedin.com/shareArticle?mini=true&#038;url=https%3A%2F%2Fdigiday.com%2Fmedia%2Fknow-influencer-jordan-maron-aka-captainsparklez%2F%3Futm_medium%3Dsocial%26utm_campaign%3Ddigidaysiteshare%26utm_source%3Dlinkedin&#038;title=Know%20your%20influencer%3A%20For%20CaptainSparklez%2C%20gaming%20is%20not%20a%20game','popup','width=600,height=600'); return false;" href="https://www.linkedin.com/shareArticle?mini=true&#038;url=https%3A%2F%2Fdigiday.com%2Fmedia%2Fknow-influencer-jordan-maron-aka-captainsparklez%2F%3Futm_medium%3Dsocial%26utm_campaign%3Ddigidaysiteshare%26utm_source%3Dlinkedin&#038;title=Know%20your%20influencer%3A%20For%20CaptainSparklez%2C%20gaming%20is%20not%20a%20game"><span class="dashicons dashicons-linkedin">LinkedIn</span></a></li>
+		<li><a target="popup" title="Share on Reddit" onclick="window.open('http://www.reddit.com/submit?url=https%3A%2F%2Fdigiday.com%2Fmedia%2Fknow-influencer-jordan-maron-aka-captainsparklez%2F%3Futm_medium%3Dsocial%26utm_campaign%3Ddigidaysiteshare%26utm_source%3Dreddit&#038;title=Know%20your%20influencer%3A%20For%20CaptainSparklez%2C%20gaming%20is%20not%20a%20game','popup','width=600,height=600'); return false;" href="http://www.reddit.com/submit?url=https%3A%2F%2Fdigiday.com%2Fmedia%2Fknow-influencer-jordan-maron-aka-captainsparklez%2F%3Futm_medium%3Dsocial%26utm_campaign%3Ddigidaysiteshare%26utm_source%3Dreddit&#038;title=Know%20your%20influencer%3A%20For%20CaptainSparklez%2C%20gaming%20is%20not%20a%20game"><span class="dashicons dashicons-reddit">Reddit</span></a></li>
+	</ul>
+</div>
+
+
+
+
+
+
+
+
+</div>		</div>
+        <div class="article-featured-art">
+            <img width="1030" height="440" src="https://digiday.com/wp-content/uploads/sites/3/2015/08/Influencer-CaptainSparklez-Featured.jpg?w=1030&amp;h=440&amp;crop=1" class="article-featured wp-post-image" alt="" decoding="async" />        </div>
+    </div>
+</div>
+	<div class="article article-columns-wrapper ">
+		<div class="content-column-wrapper">
+			<div class="content-column">
+				<p><em>As part of a new series, called &#8220;Know Your Influencer,&#8221; we will be spotlighting some of the top personalities on YouTube, Vine, Snapchat, Instagram and other online video platforms &#8212; and looking at the different ways they work with brands and publishers.</em></p>
+<figure id="attachment_132521" aria-describedby="caption-attachment-132521" style="width: 440px" class="wp-caption alignright"><a href="https://digiday.com/wp-content/uploads/sites/3/2015/08/JordanMaron-Baseball-Card.jpeg"><img fetchpriority="high" decoding="async" class="wp-image-132521" src="https://digiday.com/wp-content/uploads/sites/3/2015/08/JordanMaron-Baseball-Card-300x171.jpeg" alt="JordanMaron Baseball Card" width="440" height="251" /></a><figcaption id="caption-attachment-132521" class="wp-caption-text">Shine on, you CaptainSparklez</figcaption></figure>
+<div id="piano-meter-offer">
+<p>PewDiePie may be the biggest gamer on YouTube, but Jordan Maron is no slouch. Maron, known by his fans as “<a href="https://www.youtube.com/user/CaptainSparklez/featured">CaptainSparklez</a>” (we’ll get to that), has 9 million subscribers across two channels on the video platform. He also posts content to Amazon’s live streaming gaming platform Twitch, where has more than 1.1 million followers.</p>
+<p>An avid gamer, Maron uploads gameplay videos, particularly of the popular building-block game “Minecraft.” He also produces animations, parody music videos and other types of video content that mix gaming and comedy, and is affiliated with Maker Studios.</p>
+<p>Now, Maron wants to use the fan base he has cultivated to start his own gaming company. He has partnered with Activision co-founder and gaming legend Howard Marks to launch XReal, which is raising capital by crowdfunding investments from fans and aspiring investors on StartEngine, a crowdfunding platform where Marks serves as executive chairman and managing partner.</p>
+<div id="incontent_1" class="ad incontent"><div id="div-gpt-ad-web_incontent_pos1" class="dfp-ad dfp-web_incontent_pos1" data-ad-unit="web_incontent_pos1">
+					<script type="text/javascript">
+						if ( "undefined" !== typeof googletag ) {
+							googletag.cmd.push( function() { googletag.display("div-gpt-ad-web_incontent_pos1"); } );
+						}
+					</script>
+				</div></div>
+<p>Maron’s move to start his own company is representative of what many online video stars are doing in the hopes of diversifying their businesses beyond the “YouTube star” label. He has worked with brands, too, all of which we cover in the following interview, which has been lightly edited for clarity:</p>
+<p><strong>On the alias:</strong><br />
+“It was a dare from another YouTuber friend of mine. My previous channel name wasn’t super-friendly for any other forms of media that don’t like swear words. When I started on YouTube, I didn’t think anything of it. By the time I was realizing this wasn’t the best name to go by, I didn’t have a substantial audience &#8212; 10,000 views per video &#8212; but hey, it might be a good idea to change it before it gets bigger. So my friend dared me to change it to ‘CaptainSparklez,’ and I was like, whatever, it’s probably not going anywhere, and now that’s what everyone calls me.”<strong></strong><strong> </strong></p>
+<p><strong>On launching XReal:</strong><br />
+“The idea was that if I’m playing games and uploading footage to my YouTube channel, the next logical step would be to try and make one of those games, so I&#8217;m playing my own game. Obviously, everyone who watches my channel also plays video games &#8212; it’d be a bit strange if they didn’t. So if I can put together a good game, hopefully they’d be interested in it.”</p>
+<div id="incontent_2" class="ad incontent"><div id="div-gpt-ad-web_incontent_pos2" class="dfp-ad dfp-web_incontent_pos2" data-ad-unit="web_incontent_pos2">
+					<script type="text/javascript">
+						if ( "undefined" !== typeof googletag ) {
+							googletag.cmd.push( function() { googletag.display("div-gpt-ad-web_incontent_pos2"); } );
+						}
+					</script>
+				</div></div>
+<p>His fans were. XReal’s first game, “Fortress Fury,” has been downloaded more than 2 million times on iOS and Android since its launch in May.</p>
+<p><strong>On going the “crowd-equity” route:</strong><br />
+“I think it presents a cool opportunity for people who play games and people who want to get more involved in the gaming space &#8212; now they have the ability to own a piece of one of these companies. Working with StartEngine, I also have the opportunity to reach bigger investors who aren’t necessarily looking to invest in companies on Kickstarter.”<strong></strong><strong> </strong></p>
+<p>Since XReal’s campaign launched on StartEngine on June 19, the company has collected $1.9 million in “reservations,” which are non-binding indications of interest. The company’s goal is $2 million and will start collecting once its filing is approved by the SEC.</p>
+<p><strong>On his approach to working with brands:</strong><br />
+Maron favors integrations, which is easier when he works with video-game companies and plays one of their titles. Though sometimes an interesting opportunity will come up that he just can’t pass up &#8212; like his recent partnership with Pizza Hut, in which he created a pizza<b> </b>topped with pepperoni, bacon, salami and tomatoes <a href="https://order.pizzahut.com/site/menu/pizza/41">that is sold in stores across the country</a>.</p>
+<p>“I put together a pizza with toppings of my choice, and then they hosted it on their sites. It was the CaptainSparkles Pizza. Part of the reason I did it was because of how absurd it sounds that a YouTuber has a pizza. It was something silly that I knew people were going to laugh at and enjoy. I’ve had thousands of people send tweets of the pizza after ordering it.”</p>
+<p><center><iframe src="https://www.youtube.com/embed/hZWrn0xa898" width="504" height="284" frameborder="0" allowfullscreen="allowfullscreen"></iframe></center>&nbsp;</p>
+<p><strong>On the challenges of working with brands:</strong><br />
+“I stay away from: ‘Hey can you record a video where you sit in front of a camera and you talk about this brand thing here?’ It doesn’t add anything, and it doesn’t fit my normal content style.”</p>
+<p><span style="font-weight: 400;">“It’s getting better as working with YouTubers becomes more commonplace. Most brands and ad agencies understand creators need to be able reserve their creative freedom; several years ago, it wasn’t like that.&#8221;</span></p>
+<p><strong>On his video platforms of choice:</strong><br />
+“YouTube, because that’s where the audience is. For live content, I use Twitch. YouTube is also making a push in live, so I’ll be checking out the product to see what it has to offer. Obviously, I don’t think anyone questions that YouTube is the home for online video. You have Facebook saying they are doing more views than YouTube, except their metric for views is different. And without a way to monetize content on Facebook, it’s not something you can do as a way to sustain yourself.”</div>
+		<div class="bottom-article-links-bar">
+				<div id="social-share-icons" class="large">
+	<ul>
+				<li><a target="popup" title="Share on Facebook" onclick="window.open('https://www.facebook.com/dialog/share?app_id=610029874501691&#038;display=popup&#038;href=https%3A%2F%2Fdigiday.com%2Fmedia%2Fknow-influencer-jordan-maron-aka-captainsparklez%2F%3Futm_medium%3Dsocial%26utm_campaign%3Ddigidaysiteshare&#038;utm_source=facebook&#038;redirect_uri=','popup','width=600,height=600'); return false;" href="https://www.facebook.com/dialog/share?app_id=610029874501691&#038;display=popup&#038;href=https%3A%2F%2Fdigiday.com%2Fmedia%2Fknow-influencer-jordan-maron-aka-captainsparklez%2F%3Futm_medium%3Dsocial%26utm_campaign%3Ddigidaysiteshare&#038;utm_source=facebook&#038;redirect_uri="><span class="dashicons dashicons-facebook">Facebook</span></a></li>
+				<li><a target="popup" title="Share on Twitter" onclick="window.open('https://twitter.com/intent/tweet?url=https%3A%2F%2Fdigiday.com%2Fmedia%2Fknow-influencer-jordan-maron-aka-captainsparklez%2F%3Futm_medium%3Dsocial%26utm_campaign%3Ddigidaysiteshare%26utm_source%3Dtwitter&#038;text=Know%20your%20influencer%3A%20For%20CaptainSparklez%2C%20gaming%20is%20not%20a%20game','popup','width=600,height=600'); return false;" href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fdigiday.com%2Fmedia%2Fknow-influencer-jordan-maron-aka-captainsparklez%2F%3Futm_medium%3Dsocial%26utm_campaign%3Ddigidaysiteshare%26utm_source%3Dtwitter&#038;text=Know%20your%20influencer%3A%20For%20CaptainSparklez%2C%20gaming%20is%20not%20a%20game"><span class="dashicons dashicons-twitter">Twitter</span></a></li>
+		<li><a target="popup" title="Share on LinkedIn" onclick="window.open('https://www.linkedin.com/shareArticle?mini=true&#038;url=https%3A%2F%2Fdigiday.com%2Fmedia%2Fknow-influencer-jordan-maron-aka-captainsparklez%2F%3Futm_medium%3Dsocial%26utm_campaign%3Ddigidaysiteshare%26utm_source%3Dlinkedin&#038;title=Know%20your%20influencer%3A%20For%20CaptainSparklez%2C%20gaming%20is%20not%20a%20game','popup','width=600,height=600'); return false;" href="https://www.linkedin.com/shareArticle?mini=true&#038;url=https%3A%2F%2Fdigiday.com%2Fmedia%2Fknow-influencer-jordan-maron-aka-captainsparklez%2F%3Futm_medium%3Dsocial%26utm_campaign%3Ddigidaysiteshare%26utm_source%3Dlinkedin&#038;title=Know%20your%20influencer%3A%20For%20CaptainSparklez%2C%20gaming%20is%20not%20a%20game"><span class="dashicons dashicons-linkedin">LinkedIn</span></a></li>
+		<li><a target="popup" title="Share on Reddit" onclick="window.open('http://www.reddit.com/submit?url=https%3A%2F%2Fdigiday.com%2Fmedia%2Fknow-influencer-jordan-maron-aka-captainsparklez%2F%3Futm_medium%3Dsocial%26utm_campaign%3Ddigidaysiteshare%26utm_source%3Dreddit&#038;title=Know%20your%20influencer%3A%20For%20CaptainSparklez%2C%20gaming%20is%20not%20a%20game','popup','width=600,height=600'); return false;" href="http://www.reddit.com/submit?url=https%3A%2F%2Fdigiday.com%2Fmedia%2Fknow-influencer-jordan-maron-aka-captainsparklez%2F%3Futm_medium%3Dsocial%26utm_campaign%3Ddigidaysiteshare%26utm_source%3Dreddit&#038;title=Know%20your%20influencer%3A%20For%20CaptainSparklez%2C%20gaming%20is%20not%20a%20game"><span class="dashicons dashicons-reddit">Reddit</span></a></li>
+	</ul>
+</div>
+
+
+
+
+
+
+
+
+				<div class="copy-url">https://digiday.com/?p=132391</div>
+		</div>
+				</div><!-- .content-column -->
+		</div><!-- .content-column-wrapper -->
+
+		<div class="sidebar-column fly-sidebar-column">
+			<div class="fly-module-holder"><div class="sidebar-module fly-module sidebar-promo" id="">
+            <div class="sidebar-google-promo">
+            <div id="div-gpt-ad-web_rightrail_pos1" class="dfp-ad dfp-web_rightrail_pos1" data-ad-unit="web_rightrail_pos1">
+					<script type="text/javascript">
+						if ( "undefined" !== typeof googletag ) {
+							googletag.cmd.push( function() { googletag.display("div-gpt-ad-web_rightrail_pos1"); } );
+						}
+					</script>
+				</div>        </div>
+        </div>
+</div><div class="fly-module-holder">    <div class="sidebar-module most-read-module fly-module">
+        <div class="module-title">Trending in </div>
+        <ul class="news-list">
+            <li class="most-read-item">
+	<div class="news-content">
+		<div class="number">01</div>
+		<div class="title-wrapper">
+			<div class="eyebrow regular-eyebrow upper-title"><a href="https://digiday.com/topic/navigating-economic-instability/">Navigating Economic Instability</a></div>			<a href="https://digiday.com/media/why-new-york-magazines-the-cut-is-expanding-at-a-time-when-many-media-companies-are-cutting-costs/" title="Why New York Magazine’s the Cut is expanding at a time when many media companies are cutting costs" class="link" id="sidebar-trending">
+				Why New York Magazine’s the Cut is expanding at a time when many media companies are cutting costs			</a>
+		</div>
+					<a class="thumb" href="https://digiday.com/media/why-new-york-magazines-the-cut-is-expanding-at-a-time-when-many-media-companies-are-cutting-costs/">
+				<img width="68" height="68" src="https://digiday.com/wp-content/uploads/sites/3/2024/02/positive-growth-digiday.gif?w=68&amp;h=68&amp;crop=1" class="attachment-sidebar_row size-sidebar_row wp-post-image" alt="" decoding="async" loading="lazy" />			</a>
+			</div>
+</li>
+<li class="most-read-item">
+	<div class="news-content">
+		<div class="number">02</div>
+		<div class="title-wrapper">
+			<div class="eyebrow regular-eyebrow upper-title"><a href="https://digiday.com/topic/gaming-esports/">Gaming &amp; Esports</a></div>			<a href="https://digiday.com/marketing/why-disneys-1-5-billion-stake-in-epic-games-has-implications-far-beyond-gaming/" title="Why Disney&#8217;s $1.5 billion stake in Epic Games has implications far beyond gaming" class="link" id="sidebar-trending">
+				Why Disney&#8217;s $1.5 billion stake in Epic Games has implications far beyond gaming			</a>
+		</div>
+					<a class="thumb" href="https://digiday.com/marketing/why-disneys-1-5-billion-stake-in-epic-games-has-implications-far-beyond-gaming/">
+				<img width="68" height="68" src="https://digiday.com/wp-content/uploads/sites/3/2022/08/disney-streaming-wars.jpg?w=68&amp;h=68&amp;crop=1" class="attachment-sidebar_row size-sidebar_row wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://digiday.com/wp-content/uploads/sites/3/2022/08/disney-streaming-wars.jpg?resize=150,150 150w, https://digiday.com/wp-content/uploads/sites/3/2022/08/disney-streaming-wars.jpg?resize=49,49 49w, https://digiday.com/wp-content/uploads/sites/3/2022/08/disney-streaming-wars.jpg?resize=200,200 200w, https://digiday.com/wp-content/uploads/sites/3/2022/08/disney-streaming-wars.jpg?resize=555,555 555w, https://digiday.com/wp-content/uploads/sites/3/2022/08/disney-streaming-wars.jpg?resize=300,300 300w, https://digiday.com/wp-content/uploads/sites/3/2022/08/disney-streaming-wars.jpg?resize=53,53 53w, https://digiday.com/wp-content/uploads/sites/3/2022/08/disney-streaming-wars.jpg?resize=163,163 163w, https://digiday.com/wp-content/uploads/sites/3/2022/08/disney-streaming-wars.jpg?resize=68,68 68w, https://digiday.com/wp-content/uploads/sites/3/2022/08/disney-streaming-wars.jpg?resize=83,83 83w" sizes="(max-width: 68px) 100vw, 68px" />			</a>
+			</div>
+</li>
+<li class="most-read-item">
+	<div class="news-content">
+		<div class="number"></div>
+		<div class="title-wrapper">
+			<div class="eyebrow blue sponsored-eyebrow upper-title"><a href="https://digiday.com/sponsored/">Sponsored</a></div>			<a href="https://digiday.com/sponsored/how-the-digital-ad-industry-is-forging-a-path-to-privacy-safe-data/" title="How the digital ad industry is forging a path to privacy-safe data " class="link" id="sidebar-trending">
+				How the digital ad industry is forging a path to privacy-safe data 			</a>
+		</div>
+					<a class="thumb" href="https://digiday.com/sponsored/how-the-digital-ad-industry-is-forging-a-path-to-privacy-safe-data/">
+				<img width="68" height="68" src="https://digiday.com/wp-content/uploads/sites/3/2024/02/Optable-interoperability.png?w=68&amp;h=68&amp;crop=1" class="attachment-sidebar_row size-sidebar_row wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://digiday.com/wp-content/uploads/sites/3/2024/02/Optable-interoperability.png?resize=150,150 150w, https://digiday.com/wp-content/uploads/sites/3/2024/02/Optable-interoperability.png?resize=49,49 49w, https://digiday.com/wp-content/uploads/sites/3/2024/02/Optable-interoperability.png?resize=200,200 200w, https://digiday.com/wp-content/uploads/sites/3/2024/02/Optable-interoperability.png?resize=555,555 555w, https://digiday.com/wp-content/uploads/sites/3/2024/02/Optable-interoperability.png?resize=300,300 300w, https://digiday.com/wp-content/uploads/sites/3/2024/02/Optable-interoperability.png?resize=53,53 53w, https://digiday.com/wp-content/uploads/sites/3/2024/02/Optable-interoperability.png?resize=163,163 163w, https://digiday.com/wp-content/uploads/sites/3/2024/02/Optable-interoperability.png?resize=68,68 68w, https://digiday.com/wp-content/uploads/sites/3/2024/02/Optable-interoperability.png?resize=83,83 83w" sizes="(max-width: 68px) 100vw, 68px" />			</a>
+			</div>
+</li>
+<li class="most-read-item">
+	<div class="news-content">
+		<div class="number">03</div>
+		<div class="title-wrapper">
+			<div class="eyebrow regular-eyebrow upper-title"><a href="https://digiday.com/topic/programmatic-publisher/">The Programmatic Publisher</a></div>			<a href="https://digiday.com/media-buying/the-trade-desk-is-rolling-out-openpath-to-ctv/" title="The Trade Desk is rolling out OpenPath to CTV" class="link" id="sidebar-trending">
+				The Trade Desk is rolling out OpenPath to CTV			</a>
+		</div>
+					<a class="thumb" href="https://digiday.com/media-buying/the-trade-desk-is-rolling-out-openpath-to-ctv/">
+				<img width="68" height="68" src="https://digiday.com/wp-content/uploads/sites/3/2023/03/trade-desk-digiday.jpg?w=68&amp;h=68&amp;crop=1" class="attachment-sidebar_row size-sidebar_row wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://digiday.com/wp-content/uploads/sites/3/2023/03/trade-desk-digiday.jpg?resize=150,150 150w, https://digiday.com/wp-content/uploads/sites/3/2023/03/trade-desk-digiday.jpg?resize=49,49 49w, https://digiday.com/wp-content/uploads/sites/3/2023/03/trade-desk-digiday.jpg?resize=200,200 200w, https://digiday.com/wp-content/uploads/sites/3/2023/03/trade-desk-digiday.jpg?resize=555,555 555w, https://digiday.com/wp-content/uploads/sites/3/2023/03/trade-desk-digiday.jpg?resize=300,300 300w, https://digiday.com/wp-content/uploads/sites/3/2023/03/trade-desk-digiday.jpg?resize=53,53 53w, https://digiday.com/wp-content/uploads/sites/3/2023/03/trade-desk-digiday.jpg?resize=163,163 163w, https://digiday.com/wp-content/uploads/sites/3/2023/03/trade-desk-digiday.jpg?resize=68,68 68w, https://digiday.com/wp-content/uploads/sites/3/2023/03/trade-desk-digiday.jpg?resize=83,83 83w" sizes="(max-width: 68px) 100vw, 68px" />			</a>
+			</div>
+</li>
+        </ul>
+    </div>
+</div><div class="fly-module-holder"><div class="sidebar-module fly-module sidebar-promo" id="">
+            <div class="sidebar-google-promo">
+            <div id="div-gpt-ad-web_rightrail_pos2" class="dfp-ad dfp-web_rightrail_pos2" data-ad-unit="web_rightrail_pos2">
+					<script type="text/javascript">
+						if ( "undefined" !== typeof googletag ) {
+							googletag.cmd.push( function() { googletag.display("div-gpt-ad-web_rightrail_pos2"); } );
+						}
+					</script>
+				</div>        </div>
+        </div>
+</div><div class="fly-module-holder">    <div class="sidebar-module most-read-module fly-module">
+        <div class="module-title">Most Read</div>
+        <ul class="news-list">
+            <li class="most-read-item">
+	<div class="news-content">
+		<div class="number">01</div>
+		<div class="title-wrapper">
+			<div class="eyebrow regular-eyebrow upper-title"><a href="https://digiday.com/topic/navigating-economic-instability/">Navigating Economic Instability</a></div>			<a href="https://digiday.com/media/why-new-york-magazines-the-cut-is-expanding-at-a-time-when-many-media-companies-are-cutting-costs/" title="Why New York Magazine’s the Cut is expanding at a time when many media companies are cutting costs" class="link" id="sidebar-most-read">
+				Why New York Magazine’s the Cut is expanding at a time when many media companies are cutting costs			</a>
+		</div>
+					<a class="thumb" href="https://digiday.com/media/why-new-york-magazines-the-cut-is-expanding-at-a-time-when-many-media-companies-are-cutting-costs/">
+				<img width="68" height="68" src="https://digiday.com/wp-content/uploads/sites/3/2024/02/positive-growth-digiday.gif?w=68&amp;h=68&amp;crop=1" class="attachment-sidebar_row size-sidebar_row wp-post-image" alt="" decoding="async" loading="lazy" />			</a>
+			</div>
+</li>
+<li class="most-read-item">
+	<div class="news-content">
+		<div class="number">02</div>
+		<div class="title-wrapper">
+			<div class="eyebrow regular-eyebrow upper-title"><a href="https://digiday.com/topic/gaming-esports/">Gaming &amp; Esports</a></div>			<a href="https://digiday.com/marketing/why-disneys-1-5-billion-stake-in-epic-games-has-implications-far-beyond-gaming/" title="Why Disney&#8217;s $1.5 billion stake in Epic Games has implications far beyond gaming" class="link" id="sidebar-most-read">
+				Why Disney&#8217;s $1.5 billion stake in Epic Games has implications far beyond gaming			</a>
+		</div>
+					<a class="thumb" href="https://digiday.com/marketing/why-disneys-1-5-billion-stake-in-epic-games-has-implications-far-beyond-gaming/">
+				<img width="68" height="68" src="https://digiday.com/wp-content/uploads/sites/3/2022/08/disney-streaming-wars.jpg?w=68&amp;h=68&amp;crop=1" class="attachment-sidebar_row size-sidebar_row wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://digiday.com/wp-content/uploads/sites/3/2022/08/disney-streaming-wars.jpg?resize=150,150 150w, https://digiday.com/wp-content/uploads/sites/3/2022/08/disney-streaming-wars.jpg?resize=49,49 49w, https://digiday.com/wp-content/uploads/sites/3/2022/08/disney-streaming-wars.jpg?resize=200,200 200w, https://digiday.com/wp-content/uploads/sites/3/2022/08/disney-streaming-wars.jpg?resize=555,555 555w, https://digiday.com/wp-content/uploads/sites/3/2022/08/disney-streaming-wars.jpg?resize=300,300 300w, https://digiday.com/wp-content/uploads/sites/3/2022/08/disney-streaming-wars.jpg?resize=53,53 53w, https://digiday.com/wp-content/uploads/sites/3/2022/08/disney-streaming-wars.jpg?resize=163,163 163w, https://digiday.com/wp-content/uploads/sites/3/2022/08/disney-streaming-wars.jpg?resize=68,68 68w, https://digiday.com/wp-content/uploads/sites/3/2022/08/disney-streaming-wars.jpg?resize=83,83 83w" sizes="(max-width: 68px) 100vw, 68px" />			</a>
+			</div>
+</li>
+<li class="most-read-item">
+	<div class="news-content">
+		<div class="number">03</div>
+		<div class="title-wrapper">
+			<div class="eyebrow regular-eyebrow upper-title"><a href="https://digiday.com/topic/programmatic-publisher/">The Programmatic Publisher</a></div>			<a href="https://digiday.com/media-buying/the-trade-desk-is-rolling-out-openpath-to-ctv/" title="The Trade Desk is rolling out OpenPath to CTV" class="link" id="sidebar-most-read">
+				The Trade Desk is rolling out OpenPath to CTV			</a>
+		</div>
+					<a class="thumb" href="https://digiday.com/media-buying/the-trade-desk-is-rolling-out-openpath-to-ctv/">
+				<img width="68" height="68" src="https://digiday.com/wp-content/uploads/sites/3/2023/03/trade-desk-digiday.jpg?w=68&amp;h=68&amp;crop=1" class="attachment-sidebar_row size-sidebar_row wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://digiday.com/wp-content/uploads/sites/3/2023/03/trade-desk-digiday.jpg?resize=150,150 150w, https://digiday.com/wp-content/uploads/sites/3/2023/03/trade-desk-digiday.jpg?resize=49,49 49w, https://digiday.com/wp-content/uploads/sites/3/2023/03/trade-desk-digiday.jpg?resize=200,200 200w, https://digiday.com/wp-content/uploads/sites/3/2023/03/trade-desk-digiday.jpg?resize=555,555 555w, https://digiday.com/wp-content/uploads/sites/3/2023/03/trade-desk-digiday.jpg?resize=300,300 300w, https://digiday.com/wp-content/uploads/sites/3/2023/03/trade-desk-digiday.jpg?resize=53,53 53w, https://digiday.com/wp-content/uploads/sites/3/2023/03/trade-desk-digiday.jpg?resize=163,163 163w, https://digiday.com/wp-content/uploads/sites/3/2023/03/trade-desk-digiday.jpg?resize=68,68 68w, https://digiday.com/wp-content/uploads/sites/3/2023/03/trade-desk-digiday.jpg?resize=83,83 83w" sizes="(max-width: 68px) 100vw, 68px" />			</a>
+			</div>
+</li>
+<li class="most-read-item">
+	<div class="news-content">
+		<div class="number">04</div>
+		<div class="title-wrapper">
+			<div class="eyebrow regular-eyebrow upper-title"><a href="https://digiday.com/topic/life-beyond-the-cookie/">Life Beyond the Cookie</a></div>			<a href="https://digiday.com/marketing/googles-wrangling-of-third-party-cookies-is-getting-lost-in-transition/" title="Google’s wrangling of third-party cookies is getting lost in transition" class="link" id="sidebar-most-read">
+				Google’s wrangling of third-party cookies is getting lost in transition			</a>
+		</div>
+					<a class="thumb" href="https://digiday.com/marketing/googles-wrangling-of-third-party-cookies-is-getting-lost-in-transition/">
+				<img width="68" height="68" src="https://digiday.com/wp-content/uploads/sites/3/2022/04/google-screensaver-gif.gif?w=68&amp;h=68&amp;crop=1" class="attachment-sidebar_row size-sidebar_row wp-post-image" alt="" decoding="async" loading="lazy" />			</a>
+			</div>
+</li>
+<li class="most-read-item">
+	<div class="news-content">
+		<div class="number">05</div>
+		<div class="title-wrapper">
+			<div class="eyebrow regular-eyebrow upper-title"><a href="https://digiday.com/topic/brands-in-culture/">Brands in Culture</a></div>			<a href="https://digiday.com/marketing/why-snapchat-is-pitching-its-platform-as-an-alternative-to-social-media/" title="Why Snapchat is pitching its platform as an alternative to social media" class="link" id="sidebar-most-read">
+				Why Snapchat is pitching its platform as an alternative to social media			</a>
+		</div>
+					<a class="thumb" href="https://digiday.com/marketing/why-snapchat-is-pitching-its-platform-as-an-alternative-to-social-media/">
+				<img width="68" height="68" src="https://digiday.com/wp-content/uploads/sites/3/2021/02/snapchat-money.jpg?w=68&amp;h=68&amp;crop=1" class="attachment-sidebar_row size-sidebar_row wp-post-image" alt="The header image features an illustration with a dollar bill that has the Snapchat logo in the center." decoding="async" loading="lazy" srcset="https://digiday.com/wp-content/uploads/sites/3/2021/02/snapchat-money.jpg?resize=150,150 150w, https://digiday.com/wp-content/uploads/sites/3/2021/02/snapchat-money.jpg?resize=49,49 49w, https://digiday.com/wp-content/uploads/sites/3/2021/02/snapchat-money.jpg?resize=200,200 200w, https://digiday.com/wp-content/uploads/sites/3/2021/02/snapchat-money.jpg?resize=555,555 555w, https://digiday.com/wp-content/uploads/sites/3/2021/02/snapchat-money.jpg?resize=300,300 300w, https://digiday.com/wp-content/uploads/sites/3/2021/02/snapchat-money.jpg?resize=53,53 53w, https://digiday.com/wp-content/uploads/sites/3/2021/02/snapchat-money.jpg?resize=163,163 163w, https://digiday.com/wp-content/uploads/sites/3/2021/02/snapchat-money.jpg?resize=68,68 68w, https://digiday.com/wp-content/uploads/sites/3/2021/02/snapchat-money.jpg?resize=83,83 83w" sizes="(max-width: 68px) 100vw, 68px" />			</a>
+			</div>
+</li>
+        </ul>
+    </div>
+</div>		</div><!-- .sidebar-column -->
+
+	</div><!-- .article-columns-wrapper -->
+
+        <section id="latest_stories" class="">
+        <div class="container">
+            <div class="section-title-contain">
+                                        <h3 class="home-section-title">
+                            <span>More in Media</span>
+                        </h3>
+                                                    <div class="section-view-more"><a href="https://digiday.com/media/">View More</a></div>
+                                    </div>
+            <div class="flex-container">
+                
+<div class="block-text">
+	<img width="439" height="277" src="https://digiday.com/wp-content/uploads/sites/3/2023/05/retail-media-shop-digiday.jpg?w=439&amp;h=277&amp;crop=1" class="attachment-cat-block-thumbs size-cat-block-thumbs wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://digiday.com/wp-content/uploads/sites/3/2023/05/retail-media-shop-digiday.jpg?resize=439,277 439w, https://digiday.com/wp-content/uploads/sites/3/2023/05/retail-media-shop-digiday.jpg?resize=555,350 555w, https://digiday.com/wp-content/uploads/sites/3/2023/05/retail-media-shop-digiday.jpg?resize=160,100 160w" sizes="(max-width: 439px) 100vw, 439px" />    <div class="news-content">
+        <div class="eyebrow regular-eyebrow upper-title"><a href="https://digiday.com/topic/generative-ai/">Generative AI</a></div>        <h4>
+            <a id="" class="title" href="https://digiday.com/media/ai-briefing-how-priceline-and-other-e-commerce-companies-are-approaching-generative-ai/" title="AI Briefing: How Priceline and other e-commerce companies are approaching generative AI">
+                AI Briefing: How Priceline and other e-commerce companies are approaching generative AI            </a>
+        </h4>
+        <div class="article-info"><span class="date">February 19, 2024&nbsp;&nbsp;&bull;&nbsp;&nbsp;4 min read</span><div id="social-share-icons" class="">
+	<ul>
+				<li><a target="popup" title="Share on Facebook" onclick="window.open('https://www.facebook.com/dialog/share?app_id=610029874501691&#038;display=popup&#038;href=https%3A%2F%2Fdigiday.com%2Fmedia%2Fai-briefing-how-priceline-and-other-e-commerce-companies-are-approaching-generative-ai%2F%3Futm_medium%3Dsocial%26utm_campaign%3Ddigidaysiteshare&#038;utm_source=facebook&#038;redirect_uri=','popup','width=600,height=600'); return false;" href="https://www.facebook.com/dialog/share?app_id=610029874501691&#038;display=popup&#038;href=https%3A%2F%2Fdigiday.com%2Fmedia%2Fai-briefing-how-priceline-and-other-e-commerce-companies-are-approaching-generative-ai%2F%3Futm_medium%3Dsocial%26utm_campaign%3Ddigidaysiteshare&#038;utm_source=facebook&#038;redirect_uri="><span class="dashicons dashicons-facebook">Facebook</span></a></li>
+				<li><a target="popup" title="Share on Twitter" onclick="window.open('https://twitter.com/intent/tweet?url=https%3A%2F%2Fdigiday.com%2Fmedia%2Fai-briefing-how-priceline-and-other-e-commerce-companies-are-approaching-generative-ai%2F%3Futm_medium%3Dsocial%26utm_campaign%3Ddigidaysiteshare%26utm_source%3Dtwitter&#038;text=AI%20Briefing%3A%20How%20Priceline%20and%20other%20e-commerce%20companies%20are%20approaching%20generative%20AI','popup','width=600,height=600'); return false;" href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fdigiday.com%2Fmedia%2Fai-briefing-how-priceline-and-other-e-commerce-companies-are-approaching-generative-ai%2F%3Futm_medium%3Dsocial%26utm_campaign%3Ddigidaysiteshare%26utm_source%3Dtwitter&#038;text=AI%20Briefing%3A%20How%20Priceline%20and%20other%20e-commerce%20companies%20are%20approaching%20generative%20AI"><span class="dashicons dashicons-twitter">Twitter</span></a></li>
+		<li><a target="popup" title="Share on LinkedIn" onclick="window.open('https://www.linkedin.com/shareArticle?mini=true&#038;url=https%3A%2F%2Fdigiday.com%2Fmedia%2Fai-briefing-how-priceline-and-other-e-commerce-companies-are-approaching-generative-ai%2F%3Futm_medium%3Dsocial%26utm_campaign%3Ddigidaysiteshare%26utm_source%3Dlinkedin&#038;title=AI%20Briefing%3A%20How%20Priceline%20and%20other%20e-commerce%20companies%20are%20approaching%20generative%20AI','popup','width=600,height=600'); return false;" href="https://www.linkedin.com/shareArticle?mini=true&#038;url=https%3A%2F%2Fdigiday.com%2Fmedia%2Fai-briefing-how-priceline-and-other-e-commerce-companies-are-approaching-generative-ai%2F%3Futm_medium%3Dsocial%26utm_campaign%3Ddigidaysiteshare%26utm_source%3Dlinkedin&#038;title=AI%20Briefing%3A%20How%20Priceline%20and%20other%20e-commerce%20companies%20are%20approaching%20generative%20AI"><span class="dashicons dashicons-linkedin">LinkedIn</span></a></li>
+		<li><a target="popup" title="Share on Reddit" onclick="window.open('http://www.reddit.com/submit?url=https%3A%2F%2Fdigiday.com%2Fmedia%2Fai-briefing-how-priceline-and-other-e-commerce-companies-are-approaching-generative-ai%2F%3Futm_medium%3Dsocial%26utm_campaign%3Ddigidaysiteshare%26utm_source%3Dreddit&#038;title=AI%20Briefing%3A%20How%20Priceline%20and%20other%20e-commerce%20companies%20are%20approaching%20generative%20AI','popup','width=600,height=600'); return false;" href="http://www.reddit.com/submit?url=https%3A%2F%2Fdigiday.com%2Fmedia%2Fai-briefing-how-priceline-and-other-e-commerce-companies-are-approaching-generative-ai%2F%3Futm_medium%3Dsocial%26utm_campaign%3Ddigidaysiteshare%26utm_source%3Dreddit&#038;title=AI%20Briefing%3A%20How%20Priceline%20and%20other%20e-commerce%20companies%20are%20approaching%20generative%20AI"><span class="dashicons dashicons-reddit">Reddit</span></a></li>
+	</ul>
+</div>
+
+
+
+
+
+
+
+
+</div>        <!-- The Excerpt -->
+        <p>Companies like Priceline and various Amazon vendors are using large language models to update their e-commerce platforms.</p>
+    </div>
+</div>
+
+<div class="block-text">
+	<img width="439" height="277" src="https://digiday.com/wp-content/uploads/sites/3/2020/10/election-03.jpg?w=439&amp;h=277&amp;crop=1" class="attachment-cat-block-thumbs size-cat-block-thumbs wp-post-image" alt="election" decoding="async" loading="lazy" srcset="https://digiday.com/wp-content/uploads/sites/3/2020/10/election-03.jpg?resize=439,277 439w, https://digiday.com/wp-content/uploads/sites/3/2020/10/election-03.jpg?resize=555,350 555w, https://digiday.com/wp-content/uploads/sites/3/2020/10/election-03.jpg?resize=160,100 160w" sizes="(max-width: 439px) 100vw, 439px" />    <div class="news-content">
+        <div class="eyebrow regular-eyebrow upper-title"><a href="https://digiday.com/topic/generative-ai/">Generative AI</a></div>        <h4>
+            <a id="" class="title" href="https://digiday.com/media/tech-companies-make-more-commitments-to-address-ai-generated-election-misinformation/" title="Tech companies make more commitments to address AI-generated election misinformation">
+                Tech companies make more commitments to address AI-generated election misinformation            </a>
+        </h4>
+        <div class="article-info"><span class="date">February 16, 2024&nbsp;&nbsp;&bull;&nbsp;&nbsp;3 min read</span><div id="social-share-icons" class="">
+	<ul>
+				<li><a target="popup" title="Share on Facebook" onclick="window.open('https://www.facebook.com/dialog/share?app_id=610029874501691&#038;display=popup&#038;href=https%3A%2F%2Fdigiday.com%2Fmedia%2Ftech-companies-make-more-commitments-to-address-ai-generated-election-misinformation%2F%3Futm_medium%3Dsocial%26utm_campaign%3Ddigidaysiteshare&#038;utm_source=facebook&#038;redirect_uri=','popup','width=600,height=600'); return false;" href="https://www.facebook.com/dialog/share?app_id=610029874501691&#038;display=popup&#038;href=https%3A%2F%2Fdigiday.com%2Fmedia%2Ftech-companies-make-more-commitments-to-address-ai-generated-election-misinformation%2F%3Futm_medium%3Dsocial%26utm_campaign%3Ddigidaysiteshare&#038;utm_source=facebook&#038;redirect_uri="><span class="dashicons dashicons-facebook">Facebook</span></a></li>
+				<li><a target="popup" title="Share on Twitter" onclick="window.open('https://twitter.com/intent/tweet?url=https%3A%2F%2Fdigiday.com%2Fmedia%2Ftech-companies-make-more-commitments-to-address-ai-generated-election-misinformation%2F%3Futm_medium%3Dsocial%26utm_campaign%3Ddigidaysiteshare%26utm_source%3Dtwitter&#038;text=Tech%20companies%20make%20more%20commitments%20to%20address%20AI-generated%20election%20misinformation','popup','width=600,height=600'); return false;" href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fdigiday.com%2Fmedia%2Ftech-companies-make-more-commitments-to-address-ai-generated-election-misinformation%2F%3Futm_medium%3Dsocial%26utm_campaign%3Ddigidaysiteshare%26utm_source%3Dtwitter&#038;text=Tech%20companies%20make%20more%20commitments%20to%20address%20AI-generated%20election%20misinformation"><span class="dashicons dashicons-twitter">Twitter</span></a></li>
+		<li><a target="popup" title="Share on LinkedIn" onclick="window.open('https://www.linkedin.com/shareArticle?mini=true&#038;url=https%3A%2F%2Fdigiday.com%2Fmedia%2Ftech-companies-make-more-commitments-to-address-ai-generated-election-misinformation%2F%3Futm_medium%3Dsocial%26utm_campaign%3Ddigidaysiteshare%26utm_source%3Dlinkedin&#038;title=Tech%20companies%20make%20more%20commitments%20to%20address%20AI-generated%20election%20misinformation','popup','width=600,height=600'); return false;" href="https://www.linkedin.com/shareArticle?mini=true&#038;url=https%3A%2F%2Fdigiday.com%2Fmedia%2Ftech-companies-make-more-commitments-to-address-ai-generated-election-misinformation%2F%3Futm_medium%3Dsocial%26utm_campaign%3Ddigidaysiteshare%26utm_source%3Dlinkedin&#038;title=Tech%20companies%20make%20more%20commitments%20to%20address%20AI-generated%20election%20misinformation"><span class="dashicons dashicons-linkedin">LinkedIn</span></a></li>
+		<li><a target="popup" title="Share on Reddit" onclick="window.open('http://www.reddit.com/submit?url=https%3A%2F%2Fdigiday.com%2Fmedia%2Ftech-companies-make-more-commitments-to-address-ai-generated-election-misinformation%2F%3Futm_medium%3Dsocial%26utm_campaign%3Ddigidaysiteshare%26utm_source%3Dreddit&#038;title=Tech%20companies%20make%20more%20commitments%20to%20address%20AI-generated%20election%20misinformation','popup','width=600,height=600'); return false;" href="http://www.reddit.com/submit?url=https%3A%2F%2Fdigiday.com%2Fmedia%2Ftech-companies-make-more-commitments-to-address-ai-generated-election-misinformation%2F%3Futm_medium%3Dsocial%26utm_campaign%3Ddigidaysiteshare%26utm_source%3Dreddit&#038;title=Tech%20companies%20make%20more%20commitments%20to%20address%20AI-generated%20election%20misinformation"><span class="dashicons dashicons-reddit">Reddit</span></a></li>
+	</ul>
+</div>
+
+
+
+
+
+
+
+
+</div>        <!-- The Excerpt -->
+        <p>Major AI providers and online platforms have a new agreement detecting and preventing AI-generated misinformation. </p>
+    </div>
+</div>
+
+<div class="block-text">
+	<img width="439" height="277" src="https://digiday.com/wp-content/uploads/sites/3/2023/11/industry-layoffs-digiday.jpg?w=439&amp;h=277&amp;crop=1" class="attachment-cat-block-thumbs size-cat-block-thumbs wp-post-image" alt="" decoding="async" loading="lazy" srcset="https://digiday.com/wp-content/uploads/sites/3/2023/11/industry-layoffs-digiday.jpg?resize=439,277 439w, https://digiday.com/wp-content/uploads/sites/3/2023/11/industry-layoffs-digiday.jpg?resize=555,350 555w, https://digiday.com/wp-content/uploads/sites/3/2023/11/industry-layoffs-digiday.jpg?resize=160,100 160w" sizes="(max-width: 439px) 100vw, 439px" />    <div class="news-content">
+        <div class="eyebrow regular-eyebrow upper-title"><a href="https://digiday.com/topic/future-of-work/">Future of Work</a></div>        <h4>
+            <a id="" class="title" href="https://digiday.com/media/feeling-betrayed-after-layoffs-spree-more-workers-flock-to-freelance/" title="Feeling betrayed after layoffs spree, more workers flock to freelance">
+                Feeling betrayed after layoffs spree, more workers flock to freelance            </a>
+        </h4>
+        <div class="article-info"><span class="date">February 16, 2024&nbsp;&nbsp;&bull;&nbsp;&nbsp;2 min read</span><div id="social-share-icons" class="">
+	<ul>
+				<li><a target="popup" title="Share on Facebook" onclick="window.open('https://www.facebook.com/dialog/share?app_id=610029874501691&#038;display=popup&#038;href=https%3A%2F%2Fdigiday.com%2Fmedia%2Ffeeling-betrayed-after-layoffs-spree-more-workers-flock-to-freelance%2F%3Futm_medium%3Dsocial%26utm_campaign%3Ddigidaysiteshare&#038;utm_source=facebook&#038;redirect_uri=','popup','width=600,height=600'); return false;" href="https://www.facebook.com/dialog/share?app_id=610029874501691&#038;display=popup&#038;href=https%3A%2F%2Fdigiday.com%2Fmedia%2Ffeeling-betrayed-after-layoffs-spree-more-workers-flock-to-freelance%2F%3Futm_medium%3Dsocial%26utm_campaign%3Ddigidaysiteshare&#038;utm_source=facebook&#038;redirect_uri="><span class="dashicons dashicons-facebook">Facebook</span></a></li>
+				<li><a target="popup" title="Share on Twitter" onclick="window.open('https://twitter.com/intent/tweet?url=https%3A%2F%2Fdigiday.com%2Fmedia%2Ffeeling-betrayed-after-layoffs-spree-more-workers-flock-to-freelance%2F%3Futm_medium%3Dsocial%26utm_campaign%3Ddigidaysiteshare%26utm_source%3Dtwitter&#038;text=Feeling%20betrayed%20after%20layoffs%20spree%2C%20more%20workers%20flock%20to%20freelance','popup','width=600,height=600'); return false;" href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fdigiday.com%2Fmedia%2Ffeeling-betrayed-after-layoffs-spree-more-workers-flock-to-freelance%2F%3Futm_medium%3Dsocial%26utm_campaign%3Ddigidaysiteshare%26utm_source%3Dtwitter&#038;text=Feeling%20betrayed%20after%20layoffs%20spree%2C%20more%20workers%20flock%20to%20freelance"><span class="dashicons dashicons-twitter">Twitter</span></a></li>
+		<li><a target="popup" title="Share on LinkedIn" onclick="window.open('https://www.linkedin.com/shareArticle?mini=true&#038;url=https%3A%2F%2Fdigiday.com%2Fmedia%2Ffeeling-betrayed-after-layoffs-spree-more-workers-flock-to-freelance%2F%3Futm_medium%3Dsocial%26utm_campaign%3Ddigidaysiteshare%26utm_source%3Dlinkedin&#038;title=Feeling%20betrayed%20after%20layoffs%20spree%2C%20more%20workers%20flock%20to%20freelance','popup','width=600,height=600'); return false;" href="https://www.linkedin.com/shareArticle?mini=true&#038;url=https%3A%2F%2Fdigiday.com%2Fmedia%2Ffeeling-betrayed-after-layoffs-spree-more-workers-flock-to-freelance%2F%3Futm_medium%3Dsocial%26utm_campaign%3Ddigidaysiteshare%26utm_source%3Dlinkedin&#038;title=Feeling%20betrayed%20after%20layoffs%20spree%2C%20more%20workers%20flock%20to%20freelance"><span class="dashicons dashicons-linkedin">LinkedIn</span></a></li>
+		<li><a target="popup" title="Share on Reddit" onclick="window.open('http://www.reddit.com/submit?url=https%3A%2F%2Fdigiday.com%2Fmedia%2Ffeeling-betrayed-after-layoffs-spree-more-workers-flock-to-freelance%2F%3Futm_medium%3Dsocial%26utm_campaign%3Ddigidaysiteshare%26utm_source%3Dreddit&#038;title=Feeling%20betrayed%20after%20layoffs%20spree%2C%20more%20workers%20flock%20to%20freelance','popup','width=600,height=600'); return false;" href="http://www.reddit.com/submit?url=https%3A%2F%2Fdigiday.com%2Fmedia%2Ffeeling-betrayed-after-layoffs-spree-more-workers-flock-to-freelance%2F%3Futm_medium%3Dsocial%26utm_campaign%3Ddigidaysiteshare%26utm_source%3Dreddit&#038;title=Feeling%20betrayed%20after%20layoffs%20spree%2C%20more%20workers%20flock%20to%20freelance"><span class="dashicons dashicons-reddit">Reddit</span></a></li>
+	</ul>
+</div>
+
+
+
+
+
+
+
+
+</div>        <!-- The Excerpt -->
+        <p>The uncertainty created by continued mass layoffs is causing more employees to move into freelance work or start their own businesses. And the rise of generative AI is making that an even more attractive prospect for them.  </p>
+    </div>
+</div>
+            </div>
+            <div id="tp-member-exclusives-text" class="subscribe-text">
+                <div class="subscribe-contain">
+                    <div class="piano-logged-in">
+                                            </div>
+                    <div class="piano-logged-out">
+                                            </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!--
+    <div class="top-stories-module">
+        <div class="container">
+            <div class="module-title">Digiday Top Stories</div>
+			        </div>
+    </div>
+    -->
+
+    <div class="article_sponsored_content">
+		<div id="div-gpt-ad-web_bfu" class="dfp-ad dfp-web_bfu" data-ad-unit="web_bfu">
+					<script type="text/javascript">
+						if ( "undefined" !== typeof googletag ) {
+							googletag.cmd.push( function() { googletag.display("div-gpt-ad-web_bfu"); } );
+						}
+					</script>
+				</div>    </div>
+
+	<!-- Div to serve Piano -->
+	<div id="piano_offer_fixed"></div>
+</div><!-- #article-wrapper -->
+		<footer>
+			<div class="container">
+				<div class="footer_top">
+													<div class="pulse piano-logged-out">
+									<div class="pulse_left">
+										<div class="pulse_head">
+											<h3>DIGIDAY+</h3>
+										</div>
+										<p>Get access to tools and analysis to stay ahead of the trends transforming media and marketing</p>
+										<a class="subscribe button" href="https://digiday.com/subscribe/" title="Subscribe">Subscribe</a>
+									</div>
+								</div>
+																<div class="pulse piano-logged-in">
+									<div class="pulse_left">
+										<div class="pulse_head">
+											<h3>My Account</h3>
+										</div>
+										<p>Visit your account page to make changes and renew.</p>
+										<a class="subscribe button" href="https://digiday.com/my-account/" title="Account">Account</a>
+									</div>
+								</div>
+								
+					<div class="newsletter">
+						<h3>Newsletter</h3>
+						<p>Get Digiday&#039;s top stories every morning in your email inbox.</p>
+													<div id='lightbox-inline-form-2df6713e-a3c1-45fa-aa28-db3c835d5eaa'></div>
+											</div>
+
+					<div class="social-footer">
+						<h3>Connect</h3>
+						<p>Follow @Digiday for the latest news, insider access to events and more.</p>
+						<ul class="bottom-socials">
+							<li><a href="https://www.facebook.com/digiday/" title="Like us on Facebook"><span class="dashicons dashicons-facebook"></span></a></li><li><a href="https://www.instagram.com/digiday/" title="Follow us on Instagram"><span class="dashicons dashicons-instagram"></span></a></li><li><a href="https://www.twitter.com/digiday" title="Follow us on Twitter"><span class="dashicons dashicons-twitter"></span></a></li><li><a href="https://www.threads.net/@digiday" title="Follow us on Threads"><span class="dashicons threads"></span></a></li><li><a href="https://www.linkedin.com/company/digiday/" title="Follow us on LinkedIn"><span class="dashicons dashicons-linkedin"></span></a></li><li><a href="https://open.spotify.com/show/21TOeNMf1BLdSlQEdJ2rYY" title="Follow us on Spotify"><span class="dashicons dashicons-spotify"></span></a></li>						</ul>
+					</div>
+				</div>
+
+				<div class="footer_bottom">
+					<div class="container">
+						<div class="footer-bottom-links"><ul><li id="menu-item-416169" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-416169"><a href="https://digiday.com/frequently-asked-questions/">FAQ</a></li>
+<li id="menu-item-510467" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-510467"><a href="https://digiday.com/advertise/">Advertise</a></li>
+<li id="menu-item-510406" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-510406"><a rel="privacy-policy" href="https://digiday.com/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-472303" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-472303"><a href="/masthead/">Masthead</a></li>
+<li id="menu-item-223973" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-223973"><a href="https://www.digidaymedia.com">Digiday Media</a></li>
+</ul></div>						<div class="legal">
+							<a href="https://www.digidaymedia.com/" class="logo-media">
+								<img src="https://digiday.com/wp-content/themes/digiday/client/new-assets/images/digiday_media.svg" alt="logo">
+							</a>
+							<div class="copyright">&copy; 2024. All rights reserved</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</footer>
+		<script type="text/javascript" src="https://digiday.com/_static/??-eJyNzTEOgzAMheELlZioiE6Is1SNWxySOLKTVtyeDAxMqPP7fj345Y7SK1SHCl7BkRb4YnIs0KbMYXtTCM2gFBMpGa83uIgEP9jss7B0UlOhiP9kp69LvjCveog5TvbRj+Nwt0PvdykLSiM=" ></script><script type="text/javascript" src="https://digiday.com/wp-includes/js/dist/i18n.min.js?ver=7701b0c3857f914212ef" id="wp-i18n-js"></script>
+<script type="text/javascript" id="wp-i18n-js-after">
+/* <![CDATA[ */
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+/* ]]> */
+</script>
+<script type="text/javascript" id="wp-parsely-loader-js-before">
+/* <![CDATA[ */
+window.wpParselySiteId = 'digiday.com';
+window.wpParselyDisableAutotrack = true;
+/* ]]> */
+</script>
+<script type="text/javascript" defer="defer" src="https://digiday.com/wp-content/mu-plugins/wp-parsely-3.13/build/loader.js?ver=f5c2d06f6755fda3f6d4" id="wp-parsely-loader-js"></script>
+<script type="text/javascript" defer="defer" data-parsely-site="digiday.com" src="https://cdn.parsely.com/keys/digiday.com/p.js?ver=3.13.3" id="parsely-cfg"></script>
+<script type="text/javascript" id="digiday-site-js-js-extra">
+/* <![CDATA[ */
+var wpArticle = {"ajax_url":"https:\/\/digiday.com\/wp-admin\/admin-ajax.php","post_id":"132391","leadgen_nonce":"5eee0d61c1","is_premium":"0","tags":["article","sahil-patel","media"]};
+var customRestRequestData = {"endpoints":{"featured_header":"https:\/\/digiday.com\/wp-json\/dm-rest-requests\/v1\/content\/get-featured-header"},"postID":"132391"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://digiday.com/_static/??-eJzTLy/QTc7PK0nNK9EvyUjNTS3WT8lMz0xJrNTPSy3XLS5JLMlM1s8q1k8sAjJyUvVyM/P0sop19InVV5xZAtNkn2traG5gamBhYGZpkAUA9uwr4w==" ></script><script type="text/javascript" defer="defer" src="https://js.createsend1.com/javascript/copypastesubscribeformlogic.js?ver=1.0" id="digiday-createsend-js-js"></script>
+<script type="text/javascript" src="https://digiday.com/_static/??-eJyVjUsOwjAMBS+EMXQR0QXiLG4SIreJHeXTittThLpgyfLNk2Zwy2BVmpeGOfbAUtFxYEcvSN4xgfi2aVng+yKLxaSuR19xZXpqL4Q28kdwbOBdGAo1VjnP9YT/RqaodqmYC1uWAI2m6I/ID9ztj3S/mnEYLmY0t/kNpGhN/A==" ></script><script defer type="text/javascript" defer="defer" src="https://stats.wp.com/e-202408.js" id="jetpack-stats-js"></script>
+<script type="text/javascript" id="jetpack-stats-js-after">
+/* <![CDATA[ */
+_stq = window._stq || [];
+_stq.push([ "view", JSON.parse("{\"v\":\"ext\",\"blog\":\"38341125\",\"post\":\"132391\",\"tz\":\"-5\",\"srv\":\"digiday.com\",\"hp\":\"vip\",\"j\":\"1:13.0\"}") ]);
+_stq.push([ "clickTrackerInit", "38341125", "132391" ]);
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://digiday.com/wp-content/plugins/digiday-media-network-plugin/static/js/network-article.min.js?m=1705080690g" ></script>	</body>
+</html>

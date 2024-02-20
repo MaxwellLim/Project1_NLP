@@ -1,0 +1,18 @@
+
+   Are you looking to showcase your brand in front of the gaming industry’s top leaders? Learn more about GamesBeat Summit sponsorship opportunities    here   .    
+  
+ The Minecraft community continues to produce cool mods and inventions, and this one is probably the neatest one yet. 
+ Verizon, virtual architects  Blockworks , and  ad agency Wieden+Kennedy  have created a way to bring  cellphone data coverage  into the blocky world of Minecraft. If that sounds crazy and weird, that’s because it is. Essentially, Verizon coded cellphones and cell towers into the game, and when you combine the two, you have a working Minecraft smartphone. We’ve seeen similar features added to games like World of Warcraft where you can order pizza in the game, but that looks pretty silly next to Minecraft’s virtual phone. This device can send text messages, surf a low-pixel-count version of the Internet, and make video calls. 
+ And those video calls look amazing: 
+ Here is what the person on the other end of video — not in Minecraft — sees: 
+ GamesBeat Summit Call for Speakers 
+  We’re thrilled to open our call for speakers to our flagship event, GamesBeat Summit 2024 hosted in Los Angeles, where we will explore the theme of “Resilience and Adaption”.  
+ Verizon explains the technical theory behind it did all of this on its  Github blog . Put simply, the companies’ developers created an application called Boxel that can instantly translate Web data into blocks that Minecraft can understand. 
+ But the best part is that Verizon is making its Minecraft tools open source. That means anyone can download Boxel and the Boxel-client to start making their own Minecraft smartphones or other mods based on this tech. 
+ Get the  Boxel code here . And get the  Boxel-client code here . 
+ To promote this feat of engineering, Verizon didn’t just post a blog. The company teamed up with Minecraft community superstars SethBling and CaptainSparklez. 
+ SethBling is a Minecraft modder and inventor, and he explained some of the tech in a video: 
+    
+  CaptainSparlez is a YouTube Let’s Player  who specializes in making videos about Minecraft, and he also demoed the tech: 
+    
+  GamesBeat's creed  when covering the game industry is "where passion meets business." What does this mean? We want to tell you how the news matters to you -- not just as a decision-maker at a game studio, but also as a fan of games. Whether you read our articles, listen to our podcasts, or watch our videos, GamesBeat will help you learn about the industry and enjoy engaging with it.  Discover our Briefings.  
