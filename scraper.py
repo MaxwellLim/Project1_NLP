@@ -1,4 +1,4 @@
-import math
+import math, pickle
 from bs4 import BeautifulSoup
 from urllib import request
 from urllib.parse import urljoin
@@ -204,15 +204,36 @@ def extract(number):
     for x in range(0,41):
         print(f"{sorted_terms[x][0]}:{sorted_terms[x][1]}")
 
-    
+def make_knowledge_base():
+    knowledge_base = {
+        'greeting': "Hello, I am a chatbot designed to tell you about CaptainSparklez AKA Jordan Maron.\nPlease type in your name.\n",                     
+        'base' : "What would you like to know about Captainsparklez? \n",
+        'default' : "Excuse me. I didn't quite catch that.",
+        'more' : "What would you like to know more about",
+        'overview' : "CaptainSparkles is a youtuber who started off with Minecraft lets plays.",
+        'creeper' : "A creeper is a hostile mob in the video game Minecraft",
+        'residence' : "He lives in Los Angeles, California",
+        'games_played' : 'He has played many games such as Minecraft and Minecraft: Story Mode',
+        'games_made' : "He has made a mobile game called Fortress Fury",
+        'polaris' : "Polaris is a Multi-channel Network which was started in 2009 and is now defunct",
+        'bethesda' : "They are a large video game publisher which has published many popular games such as the Fallout and Elder Scroll series along with many others",
+        'telltale' : "The company which made Minecraft: Story mode",
+        'minecraft: story mode' : "Minecraft: Story Mode is a point and click adventure game based on Minecraft and features many popular Minecraft Youtubers",
+        'tnt' : "Tnt is a minecraft parody of the popular song by Taio Cruz: \"Dynamite\"",
+        'minecraft' : "Minecraft is a popular survival game where you can mine blocks and craft items in order to survive against mobs such as creepers",
+        'fortress_fury' : "A mobile game which was created by CaptainSparklez in collaboration with Howard Marks under XREAL. It was originally titled \"Fortress Fallout\" but was renamed due to intervention by Bethesda",
+        'notch' : "Notch AKA Markus Persson is a Swedish video game programmer who is best known for creating the popular bideo game \"Minecraft\"",
+        'infringement' : "Bethesda sent a cease and desist letter to XREAL to get them to change the name of their game from \"Fortress Fallout\" to something else as they feared people might mistake it with their upcoming game \"Fallout Shelter\""
+    }
+    pickle.dump(knowledge_base, open('knowledge_base.p', 'wb'))
 
 def main():
     link = ["https://en.wikipedia.org/wiki/CaptainSparklez",]
     number = 18
     #crawl(link, number)
     #clean(number)
-    extract(number)
-    
+    #extract(number)
+    make_knowledge_base()
 
 if __name__ == '__main__':
     main()
