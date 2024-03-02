@@ -1,12 +1,11 @@
-import pickle, re, spacy ,xml.etree.ElementTree as ET, random
+import pickle, re, spacy ,xml.etree.ElementTree as ET, random, os
 from nltk.corpus import wordnet as wn
-from os.path import exists
 
-def chatbot(knowledge_base):
-    root = ""
-    name = input(knowledge_base['greeting'])
-    if exists(f"{name}.xml"):
-        tree = ET.parse(f"{name}.xml")
+def get_profile(name):
+    path = f"./profiles/{name}.xml"
+    
+    if os.path.exists(path):
+        tree = ET.parse(path)
         root = tree.getroot()
         visit = root.find('Visits')
         visit.text = str(int(visit.text) + 1)
@@ -17,6 +16,12 @@ def chatbot(knowledge_base):
         visits.text = "1" 
         profile_name.text = name
         tree = ET.ElementTree(root)
+    return tree
+
+def chatbot(knowledge_base):
+    
+    name = input(knowledge_base['greeting'])
+    tree = get_profile(name)
     print(f"Welcome {name},")
     query = input(knowledge_base['base']).lower()
     while True:
@@ -48,7 +53,9 @@ def chatbot(knowledge_base):
         print("(To end session type \"finished\")")
         query = input(knowledge_base['base']).lower()
 
-    tree.write(f"{name}.xml")
+    if not os.path.exists('./profiles'):
+            os.makedirs('./profiles')
+    tree.write(f"./profiles/{name}.xml")
 
 
 

@@ -4,7 +4,7 @@
 <head>
   <title>Bethesda parent forces Fortress Fallout developer into name change | Ars Technica</title>
 <script type="text/javascript">
-  ars = {"ASSETS":"https:\/\/cdn.arstechnica.net\/wp-content\/themes\/ars\/assets","HOME_URL":"https:\/\/arstechnica.com","CIVIS":"\/civis","THEME":"light","VIEW":"grid","MOBILE":false,"SUBSCRIBER":false,"PLUS_PLUS":false,"LOGGED":false,"USER_ID":null,"ENV":"production","AD":{"tags":["bethesda","fallout","trademark","zenimax"],"channel":"gaming","slug":"bethesda-parent-forces-fortress-fallout-developer-into-name-change","template_type":"article","queue":[],"server":"production"},"TOTAL":111664,"UNREAD":0,"RECENT":[2004247,2004198,2004231,2004185,2004077,2004138,2004059,2004114,2004092,2004063,2003861,2003992,2003936,2003963,2003908,2001156,2003228,2003885,2003870,2003520,2003724,2003720,2003729,2003764,2003673],"LOGINS":true,"CROSS":false,"PARSELY":"arstechnica.com","COMMENTS":false,"HOMEPAGE":false,"SITE":1,"READY":[],"SHOW_ADS":true,"IMG_PROXY":"https:\/\/cdn.arstechnica.net\/i\/","CATEGORY":"gaming","PAGETITLE":"","ZEN_MODE":false,"MEMO_PID":"62012a7a19351c07620394e0"};
+  ars = {"ASSETS":"https:\/\/cdn.arstechnica.net\/wp-content\/themes\/ars\/assets","HOME_URL":"https:\/\/arstechnica.com","CIVIS":"\/civis","THEME":"light","VIEW":"grid","MOBILE":false,"SUBSCRIBER":false,"PLUS_PLUS":false,"LOGGED":false,"USER_ID":null,"ENV":"production","AD":{"tags":["bethesda","fallout","trademark","zenimax"],"channel":"gaming","slug":"bethesda-parent-forces-fortress-fallout-developer-into-name-change","template_type":"article","queue":[],"server":"production"},"TOTAL":111828,"UNREAD":0,"RECENT":[2007258,2007366,2007434,2007384,2007373,2007345,2007267,2007292,2007291,2007272,2007246,2007191,2006855,2006510,2007210,2007133,2007181,2007071,2007059,2007026,2006935,2006578,2006943,2006919,2006904],"LOGINS":true,"CROSS":false,"PARSELY":"arstechnica.com","COMMENTS":false,"HOMEPAGE":false,"SITE":1,"READY":[],"SHOW_ADS":true,"IMG_PROXY":"https:\/\/cdn.arstechnica.net\/i\/","CATEGORY":"gaming","PAGETITLE":"","ZEN_MODE":false,"MEMO_PID":"62012a7a19351c07620394e0"};
 </script>
 <link rel="stylesheet" type="text/css" media="all" href="https://cdn.arstechnica.net/wp-content/themes/ars/assets/css/main-1eae76c908.css" />
     <link rel="alternate" type="application/rss+xml" href="http://feeds.arstechnica.com/arstechnica/index" />
@@ -36,7 +36,7 @@
   
   <meta name="viewport" content="width=device-width,initial-scale=1">
 
-  <!-- cache hit 7:single/meta:07e50719bd3495cdcf260c9a933059da -->
+  <!-- cache miss 47:single/meta:07e50719bd3495cdcf260c9a933059da -->
 <meta name='parsely-page' content='{"title":"Bethesda parent forces Fortress Fallout developer into name change","link":"https:\/\/arstechnica.com\/gaming\/2015\/02\/bethesda-parent-forces-fortress-fallout-developer-into-name-change\/","type":"post","author":"Kyle Orland","post_id":613929,"pub_date":"2015-02-16T22:28:55Z","section":"Gaming","tags":["bethesda","fallout","trademark","zenimax","type: brief"],"image_url":"https:\/\/cdn.arstechnica.net\/wp-content\/uploads\/2015\/02\/fortressfallout-150x150.jpg"}'>
 <meta name='parsely-metadata' content='{"type":"brief","title":"Bethesda parent forces Fortress Fallout developer into name change","post_id":613929,"lower_deck":"<i>Fallout<\/i> publisher&apos;s trademark protection efforts echo previous <i>Scrolls<\/i> dispute.","image_url":"https:\/\/cdn.arstechnica.net\/wp-content\/uploads\/2015\/02\/fortressfallout-150x150.jpg","listing_image_url":"https:\/\/cdn.arstechnica.net\/wp-content\/uploads\/2015\/02\/fortressfallout-300x150.jpg"}'>
 
@@ -67,7 +67,7 @@
 <meta property="og:image" content="https://cdn.arstechnica.net/wp-content/uploads/2015/02/fortressfallout-640x215.jpg" />
 <meta property="og:description" content="Fallout publisher&#39;s trademark protection efforts echo previous Scrolls dispute." />
 <meta property="og:type" content="article" />
-  <!-- cache hit 7:single/header:07e50719bd3495cdcf260c9a933059da -->
+  <!-- cache hit 47:single/header:07e50719bd3495cdcf260c9a933059da -->
 
 
 <!-- OneTrust Cookies Consent Notice start -->
@@ -163,7 +163,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     impression() {
       // Send fake ajax
       var params = {
-        nonce: '5fa41780bc',
+        nonce: 'b7324e4487',
         action: 'ars_ab_impression',
         id: this.post_id,
         group: this.group,
@@ -178,7 +178,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     click() {
       // Send fake ajax
       var params = {
-        nonce: '414ab96d3c',
+        nonce: 'f2706adda3',
         action: 'ars_ab_click',
         id: this.post_id,
         group: this.group,
@@ -209,7 +209,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </script>
 <!-- End Headline A/B -->
 <script>
-  window.permutiveCohorts = {"cached_until":{"date":"2024-02-19 07:25:52.648397","timezone_type":3,"timezone":"UTC"},"cohorts":["buky","bjfa"],"gam":["bjfa"],"xandr":[]};
+  window.permutiveCohorts = {"cached_until":{"date":"2024-03-02 20:48:54.425028","timezone_type":3,"timezone":"UTC"},"cohorts":["bjfa","buky"],"gam":["bjfa"],"xandr":[]};
   window.permutiveContextInfo = {"pageProperties":{"client":{"url":"https:\/\/arstechnica.com\/gaming\/2015\/02\/bethesda-parent-forces-fortress-fallout-developer-into-name-change\/","referrer":"","type":"web","user_agent":"Python-urllib\/3.12","domain":"arstechnica.com","title":"Bethesda parent forces Fortress Fallout developer into name change &#8211; Ars Technica"},"type":"article","article":{"id":"613929","category":"gaming","subcategory":"","title":"Bethesda parent forces <i>Fortress Fallout<\/i> developer into name change","tags":["bethesda","fallout","trademark","zenimax"]}},"url":"https:\/\/arstechnica.com\/gaming\/2015\/02\/bethesda-parent-forces-fortress-fallout-developer-into-name-change\/"};
 </script>
 <script src="https://www.googletagservices.com/tag/js/gpt.js" id="gpt-script" async></script>
@@ -224,7 +224,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       callback: c
     })
   };
-  window.sparrowQueue = window.sparrowQueue || [];
 </script>
 <script>
   window.cns.pageContext = {"contentType":"article","templateType":"article","channel":"gaming","subChannel":"","slug":"bethesda-parent-forces-fortress-fallout-developer-into-name-change","server":"production","keywords":{"tags":["bethesda","fallout","trademark","zenimax"],"cm":[],"platform":["wordpress"],"copilotid":""}};
@@ -268,8 +267,8 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 <meta property="article:modified_time" content="2015-02-16T22:32:57+00:00">
 <meta name="twitter:partner" content="tfwp" />
 <!--
-	generated in 0.257 seconds
-	60214 bytes batcached for 300 seconds
+	generated in 0.240 seconds
+	59089 bytes batcached for 300 seconds
 	billboard: forced 
 	view: grid 
 	theme: light 
@@ -350,7 +349,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
   </ul>
 
   <ul>
-    <li><a class="nav-link page-advertise-with-us" href="https://www.condenast.com/brands/ars-technica">Advertise with Ars</a></li>
+    <li><a class="nav-link page-advertise-with-us" href="https://advertising.condenast.com/brands/ars-technica">Advertise with Ars</a></li>
     <li><a class="nav-link page-reprints" href="/reprints/">Reprints</a></li>
   </ul>
 </section>
@@ -469,7 +468,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 
 
 
-<!-- cache hit 7:single/related:07e50719bd3495cdcf260c9a933059da --><!-- empty -->
+<!-- cache hit 47:single/related:07e50719bd3495cdcf260c9a933059da --><!-- empty -->
 <p>The developer behind indie title <i>Fortress Fallout</i> says that Bethesda Softworks parent company Zenimax Media has forced him to abandon the trademark for his game after allegations of infringement with the popular <i>Fallout</i> series. As Jordan Maron (aka YouTuber Captain Sparklez) <a href="https://www.youtube.com/watch?v=QcwaoUGpaaE">discusses in a recent video</a>, Zenimax asked in a letter that Maron "immediately expressly abandon the application for <i>Fortress Fallout</i> and cease any and all current or proposed use of any mark incorporating the term <i>Fallout</i>."</p>
 <p>Maron says his company, Xreal, has been forced to comply with the request due to a lack of resources. "Our lawyers said that Bethesda is a notoriously litigious company," Maron says in the video. "Obviously they have lots of money and resources at their disposal which me and my partner don't really have at the moment. So essentially we are being strong-armed into having to change our name, which is unfortunate because I personally don't feel there is any confusion between <em>Fortress Fallout</em> and the <em>Fallout</em> video game franchise." Bethesda and Zenimax did not immediately respond to a request for comment.</p>                                            <aside class="ad_wrapper" aria-label="In Content advertisement">
     <span class="ad_notice">Advertisement </span>    
@@ -509,7 +508,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
   <span class="comment-count-number">102</span>
   </a>
           </div>
-                    <!-- cache hit 7:single/author:657d7f398f0232c9ce35bf3d26f0f6e0 -->  <section class="article-author">
+                    <!-- cache hit 47:single/author:657d7f398f0232c9ce35bf3d26f0f6e0 -->  <section class="article-author">
           <a style="background-image:url('https://cdn.arstechnica.net/wp-content/uploads/2016/05/k.orland-13.jpg');" class="author-photo" href="/author/kyle-orland" tabindex="-1" role="presentation" aria-hidden="true"></a>
     
     <div class="author-bio">
@@ -610,7 +609,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
     <ul>
       <li><a href="/contact-us/">Contact Us</a></li>
       <li><a href="/staff-directory/">Staff</a></li>
-      <li><a href="https://www.condenast.com/brands/ars-technica">Advertise with us</a></li>
+      <li><a href="https://advertising.condenast.com/brands/ars-technica">Advertise with us</a></li>
       <li><a href="/reprints/">Reprints</a></li>
     </ul>
   </section>
@@ -754,7 +753,7 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
   <script type="text/javascript" src="https://cdn.arstechnica.net/wp-content/themes/ars/assets/js/main-db925e406c.js"></script>
 
 
-<!-- cache hit 7:single/javascript-footer:07e50719bd3495cdcf260c9a933059da -->
+<!-- cache hit 47:single/javascript-footer:07e50719bd3495cdcf260c9a933059da -->
 
 
 
@@ -809,42 +808,11 @@ __memo_config = {
 </script>
 
 <script id="conde-polar" src="https://cdn.mediavoice.com/nativeads/script/condenastcorporate/conde-asa-polar-master.js" async></script>
-<!-- Sparrow begin -->
-<script type="text/plain" class="optanon-category-C0004">
-  (function() {
-    function DQ() {
-      var queue = window.sparrowQueue;
-      this.push = fn => fn();
-      window.sparrowQueue = this;
-      while (queue.length) {
-        queue.shift()();
-      }
-    }
-
-    function e(t, e) {
-      var n, a, o;
-      a = !1, n = document.createElement("script"), n.type = "text/javascript", n.src = t, n.onload = n.onreadystatechange = function() {
-        a || this.readyState && "complete" != this.readyState || (a = !0, e ? e() : !0)
-      }, o = document.getElementsByTagName("script")[0], o.parentNode.insertBefore(n, o)
-    }
-    if (location.search.indexOf('no_sparrow') < 0) {
-      e("https://pixel.condenastdigital.com/config/v2/production/ars-technica.config.js", function() {
-        e("https://pixel.condenastdigital.com/sparrow.min.js", function() {
-          if (window.SparrowConfigV2) {
-            window.sparrow = new window.Sparrow(window.SparrowConfigV2);
-            new DQ();
-          }
-        })
-      })
-    }
-  })();
-</script>
-<!-- Sparrow end -->
 <script type="text/javascript" src="//s.skimresources.com/js/100098X1555750.skimlinks.js"></script>
 <script type='text/javascript' id='snowplow-js-before'>
 window.snowplowQueue = window.snowplowQueue || []; window.snowplowContexts = {"site":{"orgId":"4gKgcFGUFUvCGFzHakTPfYp85Yi8","orgAppId":null,"appVersion":null,"env":"production"},"content":{"functionalTags":null,"hasBuyButtons":null,"noOfRevisions":null,"editorNames":null,"author_name":"Kyle Orland","contentId":"613929","contentLength":1,"contentTitle":"Bethesda parent forces Fortress Fallout developer into name change","contentSource":"web","authorIds":"13","publishDate":"2015-02-16T22:28:55Z","modifiedDate":"2015-02-16T22:32:57Z","tags":"bethesda|Fallout|trademark|zenimax","contentLang":"en-US","galleryName":null,"totalGalleryImages":null,"wordCount":422,"contentType":null,"templateType":"article_standard_two_column","primaryTag":null,"contentFlag":"news","isCommerceContent":null,"pageTypeProperties":null,"section":"gaming","subsection":null,"subsection2":null,"dataSource":"web","content_type":"article"},"syndication":{"content":null,"originalSource":null,"originalContentLanguage":null},"page":{"canonical":"https:\/\/arstechnica.com\/gaming\/2015\/02\/bethesda-parent-forces-fortress-fallout-developer-into-name-change\/","syndicatorUrl":null},"user":{"amguuid":null}}; window.snowplowConfig = {"SNOWPLOW_COLLECTOR":"c.arstechnica.com","SNOWPLOW_SCRIPT":"https:\/\/globalservices.conde.digital\/p77xzrbz9z.js","AVO_API_KEY":"FTJO6mVPBIzdGhjn2Ruy","APP_ID":"ars-technica","APP_NAME":"ars-technica","APP_ENV":"production","APP_VERSION":"1.0.0","COOKIE_DOMAIN":".arstechnica.com"};
 </script>
-<script type='text/javascript' src='https://cdn.arstechnica.net/wp-content/mu-plugins/ars-snowplow/ars-snowplow-js/dist/index.js?ver=1.0.3' id='snowplow-js'></script>
+<script type='text/javascript' src='https://cdn.arstechnica.net/wp-content/mu-plugins/ars-snowplow/ars-snowplow-js/dist/index.js?ver=1.1.0' id='snowplow-js'></script>
 <script type='text/javascript' src='https://cdn.arstechnica.net/wp-content/plugins/article-forum-connect/public/js/iframeResizer.min.js?ver=1.2.2' id='article_forum_connect_iframe_resizer-js'></script>
 <script type='text/javascript' src='https://cdn.arstechnica.net/wp-content/plugins/article-forum-connect/public/js/iframe.js?ver=1.2.2' id='article_forum_connect_iframe-js'></script>
   </body>

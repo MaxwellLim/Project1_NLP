@@ -5,7 +5,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Minecraft streamer buys $4.5M Hollywood home, not far from Notch&#39;s mansion - Polygon</title>
+    <title>Bethesda hits Fortress Fallout maker with legal name-change demand - Polygon</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -17,9 +17,9 @@
       </script>
     
     
-      <meta property="author" content="Michael McWhertor" />
-  <meta property="article:published_time" content="2015-10-09T19:20:37-04:00" />
-  <meta property="article:modified_time" content="2015-10-09T19:20:37-04:00" />
+      <meta property="author" content="Colin Campbell" />
+  <meta property="article:published_time" content="2015-02-16T12:41:58-05:00" />
+  <meta property="article:modified_time" content="2015-02-16T12:41:58-05:00" />
   <meta property="fb:pages" content="340327135979921,1121292284586403,353942168328519,231096643968522" />
 
     
@@ -33,7 +33,7 @@
 <link rel="preconnect" href="https://use.typekit.net">
 
 
-<meta id="chorus-fonts" data-cid="site/font_loader-1708317629_3981_136378" data-cdata='{"version":"f272dd5f044a50d9a73ff67dda30a326","fonts_catalog":[{"slug":"unison-nitti","family":"nitti-grotesk","weight":"400","style":"normal","woff2_url":"https://cdn.vox-cdn.com/shared_fonts/unison/unison_base/nittigrotesk/nittigrotesk-normal.woff2","woff_url":"https://cdn.vox-cdn.com/shared_fonts/unison/unison_base/nittigrotesk/nittigrotesk-normal.woff"}],"font_stylesheets":["https://use.typekit.net/bje8ocl.css","https://fonts.voxmedia.com/unison/stylesheets/polygon.210270e8252b06bd9e4410de8aec9063.css"],"font_tracker_stylesheets":[],"typekit_ids":[],"headline_balance_div_classes":"","headline_balance_fraction":1.0}'>
+<meta id="chorus-fonts" data-cid="site/font_loader-1709401669_7302_56341" data-cdata='{"version":"f272dd5f044a50d9a73ff67dda30a326","fonts_catalog":[{"slug":"unison-nitti","family":"nitti-grotesk","weight":"400","style":"normal","woff2_url":"https://cdn.vox-cdn.com/shared_fonts/unison/unison_base/nittigrotesk/nittigrotesk-normal.woff2","woff_url":"https://cdn.vox-cdn.com/shared_fonts/unison/unison_base/nittigrotesk/nittigrotesk-normal.woff"}],"font_stylesheets":["https://use.typekit.net/bje8ocl.css","https://fonts.voxmedia.com/unison/stylesheets/polygon.210270e8252b06bd9e4410de8aec9063.css"],"font_tracker_stylesheets":[],"typekit_ids":[],"headline_balance_div_classes":"","headline_balance_fraction":1.0}'>
 
     <script>var chorusInitQueue=[],volume_embed_host="https://volume.vox-cdn.com";var Chorus=Chorus||{};Chorus.windowLoaded=!1,Chorus.AddScript=function(t,e){var o=document.createElement("script");o.async=!0,o.type="text/javascript",o.src=t,"function"==typeof e&&(o.onload=e);var a=document.getElementsByTagName("script")[0];return a.parentNode.insertBefore(o,a),o},Chorus.ready=function(t){"loading"!=document.readyState?t():document.addEventListener?document.addEventListener("DOMContentLoaded",t):document.attachEvent("onreadystatechange",function(){"loading"!=document.readyState&&t()})},Chorus.OnLoad=function(t){if(Chorus.windowLoaded=!0)return void t();var e=window.onload;"function"!=typeof window.onload?window.onload=t:window.onload=function(){e(),t()}},Chorus.OnLoad(function(){Chorus.windowLoaded=!0});var dataLayer=dataLayer||[];Chorus.OnLoad(function(){var t;void 0!==navigator.doNotTrack?t=navigator.doNotTrack:void 0!==window.doNotTrack?t=window.doNotTrack:void 0!==navigator.msDoNotTrack&&(t=navigator.msDoNotTrack),t=void 0!==t?/1|yes|true/.test(String(t).toLowerCase())?"true":"false":"undefined";var e={DNT:t};dataLayer.push(e)});var VoxMediaFontLoader=function(t){function e(t,e){var o=window.performance;if(o&&o.mark&&o.measure){var a=t.toLocaleLowerCase().replace(/\W+/g,"_")+(e?"_"+e:"");o.mark(a),o.measure(a+"_time","navigationStart",a)}}function o(){s.classList.add(c),e("fonts_success")}function a(){s.classList.add(c),e("fonts_fail")}function n(t){var o=[t.family,t.style,t.weight,"loaded"].join(" ");e(o)}function r(t){var e=u.font_stylesheets||[];t&&(e=e.filter(function(e){return!e.match(t)})),e.forEach(i)}function i(e){var o=t.createElement("link");o.href=e,o.rel="stylesheet",o.media="all",f.parentNode.insertBefore(o,f)}function d(e){var o,a=t,n=a.documentElement,r=setTimeout(function(){n.className=n.className.replace(/\bwf-loading\b/g,"")+" wf-inactive"},e.scriptTimeout),i=a.createElement("script"),d=!1,c=a.getElementsByTagName("script")[0];n.className+=" wf-loading",i.src="https://use.typekit.net/"+e.kitId+".js",i.async=!0,i.onload=i.onreadystatechange=function(){if(o=this.readyState,!(d||o&&"complete"!=o&&"loaded"!=o)){d=!0,clearTimeout(r);try{Typekit.load(e)}catch(t){}}},c.parentNode.insertBefore(i,c)}var c="fonts-loaded",s=t.documentElement,f=t.getElementById("chorus-fonts");if(f){var u=JSON.parse(f.getAttribute("data-cdata"));if(t.fonts){r("voxmedia.com");var l=[];u.fonts_catalog.forEach(function(e){if(e.woff2_url||e.woff_url){var o=[e.woff2_url,e.woff_url].filter(function(t){return t}).map(function(t){return"url("+t+")"}).join(", "),a=new FontFace(e.family,o,{weight:e.weight,style:e.style,display:"swap"});t.fonts.add(a),l.push(a.load())}}),l.length>0?Promise.allSettled(l).then(function(t){o(),t.filter(function(t){return"fulfilled"===t.status}).forEach(function(t){n(t.value)})})["catch"](function(){a()}):t.fonts.ready.then(o,a)}else r();u.typekit_ids.forEach(function(t){d({kitId:t,scriptTimeout:3e3,async:!0})}),u.font_tracker_stylesheets.forEach(i)}};VoxMediaFontLoader(document);</script>
 
@@ -72,7 +72,7 @@
     console.error(`Unable to reflect and proxy document.cookie: ${e}`);
   }
 
-  const initialDataLayer = {"Network":"polygon","Community":"polygon","root_domain":"polygon.com","GA Primary ID":"UA-29192711-1","GA4 Primary ID":"G-3RRF1V8L1B","GA CrossDomains":"heroesneverdie.com,polygon.com,theflyingcourier.com,riftherald.com","Content ID":"9254150","Story Word Count":253,"Entry Groups":"front-page:playstation:mobile:pc:culture:xbox","Hermano Records":"minecraft","articleSection":"Culture","Author":"Michael McWhertor","Last Time Updated":"2023-08-15 17:37","Hour of Update":"17","Modified Date":"2015-10-09 19:20","Publish Date":"2015-10-09 19:20","Hour of Publish":"19","Evergreen URL":"no value set","commerceAffiliateDisclosure":"no value set:no value set","Live Blog":false,"Demand Post":"no","All Chorus Categories":"polygon:polygon:front-page:playstation:mobile:pc:culture:xbox:minecraft","Content Type":"article","chartbeat_domain":"polygon.com","chartbeat_zone":"172968584/polygon/polygon.com/culture","chartbeat_authors":"Michael McWhertor","Logged in Status":"Logged Out","auth0_id":"No Auth0 ID","enable_url_cleaning":true};
+  const initialDataLayer = {"Network":"polygon","Community":"polygon","root_domain":"polygon.com","GA Primary ID":"UA-29192711-1","GA4 Primary ID":"G-3RRF1V8L1B","GA CrossDomains":"heroesneverdie.com,polygon.com,theflyingcourier.com,riftherald.com","Content ID":"7810620","Story Word Count":337,"Entry Groups":"front-page:mobile:news","Hermano Records":"fallout:ravaged:windows","articleSection":"News","Author":"Colin Campbell","Last Time Updated":"2023-06-13 21:16","Hour of Update":"21","Modified Date":"2015-02-16 12:41","Publish Date":"2015-02-16 12:41","Hour of Publish":"12","Evergreen URL":"no value set","commerceAffiliateDisclosure":"no value set:no value set","Live Blog":false,"Demand Post":"no","All Chorus Categories":"polygon:polygon:front-page:mobile:news:fallout:ravaged:windows","Content Type":"article","chartbeat_domain":"polygon.com","chartbeat_zone":"172968584/polygon/polygon.com/news","chartbeat_authors":"Colin Campbell","Logged in Status":"Logged Out","auth0_id":"No Auth0 ID","enable_url_cleaning":true};
   initialDataLayer.pageloadId = window.pageloadId;
   dataLayer = [initialDataLayer];
 </script>
@@ -127,15 +127,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   if (!window.pageloadId) {
     window.pageloadId = (crypto.randomUUID) ? crypto.randomUUID() : ([1e7]+-1e3+-4e3+-8e3+-1e11).replace(/[018]/g, function (c)  { return (c ^ crypto.getRandomValues(new Uint8Array(1))[0] & 15 >> c / 4).toString(16);} );
   }
-  CONCERT_ADS_CONFIG = {"slug":"/172968584/polygon/polygon.com/culture","dfpVariables":{"network":["polygon"],"affiliation":["general"],"unison":[true],"entry_id":[9254150],"entry_type":["article"],"entry_slug":["2015/10/9/9490109/minecraft-streamer-buys-4-5m-hollywood-home-notch-captain-sparklez"],"entry_author":["Michael McWhertor"],"entry_title":["Minecraft streamer buys $4.5M Hollywood home, not far from Notch's\u0026nbsp;mansion"],"entry_published_date":["2015-10-09T19:20:37.000-04:00"],"entry_group":["front-page","playstation","mobile","pc","culture","xbox"],"polygon_platform":["playstation","mobile","pc"],"hub_page":["playstation","mobile","pc","xbox"],"page_type":["interior_page"],"keywords":["minecraft","streamer","buys","m","hollywood","home","not","far","from","notch","s","mansion","polygon","front-page","playstation","mobile","pc","culture","xbox"]},"isUnison":true,"is_unison":true,"prebid":{},"slots":[],"adConfigurationUrl":"https://concertads-configs.vox-cdn.com/sbn/polygon/config.json"}
+  CONCERT_ADS_CONFIG = {"slug":"/172968584/polygon/polygon.com/news","dfpVariables":{"network":["polygon"],"affiliation":["general"],"unison":[true],"entry_id":[7810620],"entry_type":["article"],"entry_slug":["2015/2/16/8046579/bethesda-hits-fortress-fallout-maker-with-legal-name-change-demand"],"entry_author":["Colin Campbell"],"entry_title":["Bethesda hits Fortress Fallout maker with legal name-change\u0026nbsp;demand"],"entry_published_date":["2015-02-16T12:41:58.000-05:00"],"entry_group":["front-page","mobile","news"],"polygon_platform":["mobile"],"hub_page":["mobile"],"page_type":["interior_page"],"keywords":["bethesda","hits","fortress","fallout","maker","with","legal","name","change","demand","polygon","front-page","mobile","news"]},"isUnison":true,"is_unison":true,"prebid":{},"slots":[],"adConfigurationUrl":"https://concertads-configs.vox-cdn.com/sbn/polygon/config.json"}
   CONCERT_ADS_CONFIG.pageload_id = window.pageloadId;
   CONCERT_ADS_CONFIG.dfpVariables.pageload_id = window.pageloadId;
 </script>
 
 
-      <link href="https://www.polygon.com/style/community/405/6227c01bed8a26076c6b086d9f64c763/chorus.css" data-chorus-theme="chorus" rel="stylesheet" media="all">
+      <link href="https://www.polygon.com/style/community/405/1e8f59d9721316cc4858bf4e04346739/chorus.css" data-chorus-theme="chorus" rel="stylesheet" media="all">
 
-    <meta name="style-tools" content="https://www.polygon.com/style/community/405/68cbbe6c0aaf0bd71940ac3a06676a9d/tools.css">
+    <meta name="style-tools" content="https://www.polygon.com/style/community/405/4418e243738caf6b60ca98d81696e047/tools.css">
     
     <script src="https://cdn.vox-cdn.com/packs/js/concert_ads-26656075356137c44c61.js" async="async" integrity="sha256-bolSVpNbI+RqC/dYHg/w1U20jzmb67TVmLuocSa+h7E= sha384-CQKsIqypvlQO8rZksrlEq4A+z8iPWEtCERIsv7fEMy0NqOXpmSy0IuRUVxXRWEnz" crossorigin="anonymous"></script>
 <script type="text/javascript">
@@ -157,6 +157,31 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <script src="https://www.googletagservices.com/tag/js/gpt.js" async></script>
 
   <script src="https://cdn.concert.io/lib/concert-concierge.2.8.0.min.js" async></script>
+  <script type="text/javascript">
+  !(function(o, _name) {
+    o[_name] = o[_name] || function $() {
+        ($.q = $.q || []).push(arguments)
+    }, o[_name].v = o[_name].v || 2;
+    !(function(o, t, n, f, e, i) {
+        function c(f, e) {
+            (f = (function(t, n) {
+                try {
+                    if (n = (t = o.localStorage).getItem("_aQS02NDc5MDdGOUVBRjRCODk4QjNGNEM5NjItNA")) return JSON.parse(n).lgk || [];
+                    if ((t.getItem("v4ac1eiZr0") || "").split(",")[4] > 0) return [
+                        [_name + "-engaged", "true"]
+                    ]
+                } catch (f) {}
+            })()) && typeof f.forEach === n && (e = o[t].pubads()) && f.forEach((function(o) {
+                o && o[0] && e.setTargeting(o[0], o[1] || "")
+            }))
+        }(i = o[t] = o[t] || {}).cmd = i.cmd || [], typeof i.pubads === n ? c() : typeof i.cmd.unshift === n ? i.cmd.unshift(c) : i.cmd.push(c)
+    })(window, "googletag", "function");
+  })(window, decodeURI('ad%6dir%61%6c'));
+  !(function(t, c, i) {
+      i = t.createElement(c), t = t.getElementsByTagName(c)[0], i.async = 1, i.src = "https://monacobeatles.com/dist/413b0471d6ed4db/7ff0a73456f2e7bb2fb9c", t.parentNode.insertBefore(i, t)
+  })(document, "script");
+  </script>
+
 
     <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
 
@@ -166,40 +191,44 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <link href="https://mastodon.social/@polygon" rel="me">
     <meta name="robots" content="nocache">
-<meta name="description" content="The Minecraft business can be a lucrative one, not just for the people who make it, but also for the people who play it. Popular YouTube personality Jordan &quot;CaptainSparklez&quot; Maron, who primarily..." />
-<link rel="canonical" href="https://www.polygon.com/2015/10/9/9490109/minecraft-streamer-buys-4-5m-hollywood-home-notch-captain-sparklez" />
-<meta property="og:description" content="The Minecraft business can be a lucrative one, not just for the people who make it, but also for the people who play it. Popular YouTube personality Jordan &quot;CaptainSparklez&quot; Maron, who primarily..." />
+<meta name="description" content="Bethesda-parent company ZeniMax recently sent a cease-and-desist letter to the maker of mobile game Fortress Fallout, threatening legal consequences if the name wasn&#39;t changed.
+Fortress Fallout&#39;s m..." />
+<link rel="canonical" href="https://www.polygon.com/2015/2/16/8046579/bethesda-hits-fortress-fallout-maker-with-legal-name-change-demand" />
+<meta property="og:description" content="Bethesda-parent company ZeniMax recently sent a cease-and-desist letter to the maker of mobile game Fortress Fallout, threatening legal consequences if the name wasn&#39;t changed.
+Fortress Fallout&#39;s m..." />
 <meta property="fb:app_id" content="549923288395304" />
-<meta property="og:image" content="https://cdn.vox-cdn.com/thumbor/faL5YA7NjLAO0pWqrvANXS5dsEY=/0x0:1100x619/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/47376722/captainsparklez_house.0.0.jpg" />
+<meta property="og:image" content="https://cdn.vox-cdn.com/thumbor/bGgkh2rRx6Qix11uB2UEGAajEtk=/0x43:1585x935/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/45700454/zenifortress.0.0.jpg" />
 <meta property="og:image:height" content="900" />
 <meta property="og:image:width" content="1600" />
 <meta property="og:site_name" content="Polygon" />
-<meta property="og:title" content="Minecraft streamer buys $4.5M Hollywood home, not far from Notch&#39;s mansion" />
+<meta property="og:title" content="Bethesda hits Fortress Fallout maker with legal name-change demand" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://www.polygon.com/2015/10/9/9490109/minecraft-streamer-buys-4-5m-hollywood-home-notch-captain-sparklez" />
+<meta property="og:url" content="https://www.polygon.com/2015/2/16/8046579/bethesda-hits-fortress-fallout-maker-with-legal-name-change-demand" />
 
       <meta name="twitter:card" content="summary_large_image" />
-      <meta name="twitter:url" content="https://www.polygon.com/2015/10/9/9490109/minecraft-streamer-buys-4-5m-hollywood-home-notch-captain-sparklez" />
-      <meta name="twitter:title" content="Minecraft streamer buys $4.5M Hollywood home, not far from Notch&#39;s mansion" />
-      <meta name="twitter:description" content="The Minecraft business can be a lucrative one, not just for the people who make it, but also for the people who play it. Popular YouTube personality Jordan &quot;CaptainSparklez&quot; Maron, who primarily..." />
-      <meta name="twitter:image" content="https://cdn.vox-cdn.com/thumbor/faL5YA7NjLAO0pWqrvANXS5dsEY=/0x0:1100x619/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/47376722/captainsparklez_house.0.0.jpg" />
+      <meta name="twitter:url" content="https://www.polygon.com/2015/2/16/8046579/bethesda-hits-fortress-fallout-maker-with-legal-name-change-demand" />
+      <meta name="twitter:title" content="Bethesda hits Fortress Fallout maker with legal name-change demand" />
+      <meta name="twitter:description" content="Bethesda-parent company ZeniMax recently sent a cease-and-desist letter to the maker of mobile game Fortress Fallout, threatening legal consequences if the name wasn&#39;t changed.
+Fortress Fallout&#39;s m..." />
+      <meta name="twitter:image" content="https://cdn.vox-cdn.com/thumbor/bGgkh2rRx6Qix11uB2UEGAajEtk=/0x43:1585x935/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/45700454/zenifortress.0.0.jpg" />
       <meta name="twitter:site" content="Polygon" />
     
 
-      <meta name="sailthru.title" content="Minecraft streamer buys $4.5M Hollywood home, not far from Notch&#39;s mansion" />
-      <meta name="sailthru.tags" content="general,polygon,front-page,playstation,mobile,pc,culture,xbox" />
-      <meta name="sailthru.description" content="The Minecraft business can be a lucrative one, not just for the people who make it, but also for the people who play it. Popular YouTube personality Jordan &quot;CaptainSparklez&quot; Maron, who primarily..." />
-    <meta name="sailthru.date" content="2015-10-09T19:20:37-04:00" /><meta name="sailthru.image.full" content="https://cdn.vox-cdn.com/thumbor/faL5YA7NjLAO0pWqrvANXS5dsEY=/0x0:1100x619/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/47376722/captainsparklez_house.0.0.jpg"/>
-<meta name="sailthru.image.thumb" content="https://cdn.vox-cdn.com/thumbor/d8j2vX5kp_cVQyZQmtqUrPHXDKg=/240x0:859x619/200x200/cdn.vox-cdn.com/uploads/chorus_image/image/47376722/captainsparklez_house.0.0.jpg"/>
+      <meta name="sailthru.title" content="Bethesda hits Fortress Fallout maker with legal name-change demand" />
+      <meta name="sailthru.tags" content="general,polygon,front-page,mobile,news" />
+      <meta name="sailthru.description" content="Bethesda-parent company ZeniMax recently sent a cease-and-desist letter to the maker of mobile game Fortress Fallout, threatening legal consequences if the name wasn&#39;t changed.
+Fortress Fallout&#39;s m..." />
+    <meta name="sailthru.date" content="2015-02-16T12:41:58-05:00" /><meta name="sailthru.image.full" content="https://cdn.vox-cdn.com/thumbor/bGgkh2rRx6Qix11uB2UEGAajEtk=/0x43:1585x935/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/45700454/zenifortress.0.0.jpg"/>
+<meta name="sailthru.image.thumb" content="https://cdn.vox-cdn.com/thumbor/GAFnNhrE7AweSJRGppwamOD2AZc=/302x0:1283x981/200x200/cdn.vox-cdn.com/uploads/chorus_image/image/45700454/zenifortress.0.0.jpg"/>
 
-<meta name="parsely-title" content="Minecraft streamer buys $4.5M Hollywood home, not far from Notch's&nbsp;mansion"></meta>
-<meta name="parsely-link" content="https://www.polygon.com/2015/10/9/9490109/minecraft-streamer-buys-4-5m-hollywood-home-notch-captain-sparklez"></meta>
+<meta name="parsely-title" content="Bethesda hits Fortress Fallout maker with legal name-change&nbsp;demand"></meta>
+<meta name="parsely-link" content="https://www.polygon.com/2015/2/16/8046579/bethesda-hits-fortress-fallout-maker-with-legal-name-change-demand"></meta>
 <meta name="parsely-type" content="post"></meta>
-<meta name="parsely-image-url" content="https://cdn.vox-cdn.com/thumbor/faL5YA7NjLAO0pWqrvANXS5dsEY=/0x0:1100x619/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/47376722/captainsparklez_house.0.0.jpg"></meta>
-<meta name="parsely-pub-date" content="2015-10-09T19:20:37-04:00"></meta>
-<meta name="parsely-section" content="culture"></meta>
-<meta name="parsely-tags" content="polygon,front-page,playstation,mobile,pc,culture,xbox"></meta>
-<meta name="parsely-author" content="Michael McWhertor"></meta>
+<meta name="parsely-image-url" content="https://cdn.vox-cdn.com/thumbor/bGgkh2rRx6Qix11uB2UEGAajEtk=/0x43:1585x935/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/45700454/zenifortress.0.0.jpg"></meta>
+<meta name="parsely-pub-date" content="2015-02-16T12:41:58-05:00"></meta>
+<meta name="parsely-section" content="news"></meta>
+<meta name="parsely-tags" content="polygon,front-page,mobile,news"></meta>
+<meta name="parsely-author" content="Colin Campbell"></meta>
 <meta name="robots" content="max-image-preview:large" />
     
   <link rel="shortcut icon" href="https://cdn.vox-cdn.com/community_logos/51927/38.png">
@@ -238,15 +267,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     <link rel="alternate" type="application/rss+xml" title="Polygon" href="/rss/index.xml" />
     
       <script type="application/ld+json">
-  [{"@context":"https://schema.org","@type":"NewsArticle","mainEntityOfPage":"https://www.polygon.com/2015/10/9/9490109/minecraft-streamer-buys-4-5m-hollywood-home-notch-captain-sparklez","url":"https://www.polygon.com/2015/10/9/9490109/minecraft-streamer-buys-4-5m-hollywood-home-notch-captain-sparklez","headline":"Minecraft streamer buys $4.5M Hollywood home, not far from Notch\u0026#39;s mansion","description":"The Minecraft business can be a lucrative one, not just for the people who make it, but also for the people who play it. Popular YouTube personality Jordan \u0026amp;quot;CaptainSparklez\u0026amp;quot; Maron, who primarily...","speakable":{"@type":"SpeakableSpecification","xpath":["/html/head/title","/html/head/meta[@name='description']/@content"]},"datePublished":"2015-10-09T19:20:37-04:00","dateModified":"2015-10-09T19:20:37-04:00","articleBody":"The Minecraft business can be a lucrative one, not just for the people who make it, but also for the people who play it. Popular YouTube personality Jordan \"CaptainSparklez\" Maron, who primarily plays Minecraft on his channel, just dropped $4.5 million on a new house in the Hollywood Hills — not far from where the game's creator, Markus \"Notch\" Persson lives — Variety reports. Notch made headlines last year for his record-setting $70 million purchase of a house in Beverly Hills. CaptainSparklez's smaller, more reasonably priced pad is just a few thousand feet away from Notch's Trousdale Estates mansion, but getting back and forth between the two homes requires a much longer, winding drive through Hollywood's curving roads. Maron's YouTube channel has more than 8.8 million subscribers and his Twitch channel has more than 1.2 million. On YouTube alone, he's racked up more than 1.9 billion views, which helps explain his ability to afford the new home. The Minecraft streamer's new digs comes with three bedrooms, four bathrooms, an infinity pool with a nice view of Los Angeles and a three car garage. It does not, however, appear to have a dedicated candy room. If you want to take a peek at the kind of Hollywood Hills house 8.8 million subscribers can buy, or just want to solemnly regret not getting on the Minecraft streaming bandwagon early enough, you can check out pictures of the property at Nicholas Property Group's website.","author":[{"@type":"Person","name":"Michael McWhertor","url":"https://www.polygon.com/authors/michael-mcwhertor"}],"publisher":{"@type":"Organization","name":"Polygon","logo":{"@type":"ImageObject","url":"https://cdn.vox-cdn.com/uploads/chorus_asset/file/13696745/polygon.0.png","width":600,"height":60}},"articleSection":"Culture","keywords":["Front Page","PlayStation","Mobile","PC","Culture","Xbox"],"image":[{"@type":"ImageObject","url":"https://cdn.vox-cdn.com/thumbor/Gwe9x4z_lWWSmixeR9bAPjuHzrE=/85x0:1013x619/1400x1400/filters:focal(85x0:1013x619):format(jpeg)/cdn.vox-cdn.com/uploads/chorus_image/image/47376722/captainsparklez_house.0.0.jpg","width":1400,"height":1400},{"@type":"ImageObject","url":"https://cdn.vox-cdn.com/thumbor/y1TfZF5SQY7TBqXv56fTPDQnzOY=/85x0:1013x619/1400x1050/filters:focal(85x0:1013x619):format(jpeg)/cdn.vox-cdn.com/uploads/chorus_image/image/47376722/captainsparklez_house.0.0.jpg","width":1400,"height":1050},{"@type":"ImageObject","url":"https://cdn.vox-cdn.com/thumbor/Lek9CuIrGamtS6FFIo055VCGahA=/85x0:1013x619/1400x788/filters:focal(85x0:1013x619):format(jpeg)/cdn.vox-cdn.com/uploads/chorus_image/image/47376722/captainsparklez_house.0.0.jpg","width":1400,"height":788}],"thumbnailUrl":"https://cdn.vox-cdn.com/thumbor/Gwe9x4z_lWWSmixeR9bAPjuHzrE=/85x0:1013x619/1400x1400/filters:focal(85x0:1013x619):format(jpeg)/cdn.vox-cdn.com/uploads/chorus_image/image/47376722/captainsparklez_house.0.0.jpg"}]
+  [{"@context":"https://schema.org","@type":"NewsArticle","mainEntityOfPage":"https://www.polygon.com/2015/2/16/8046579/bethesda-hits-fortress-fallout-maker-with-legal-name-change-demand","url":"https://www.polygon.com/2015/2/16/8046579/bethesda-hits-fortress-fallout-maker-with-legal-name-change-demand","headline":"Bethesda hits Fortress Fallout maker with legal name-change demand","description":"Bethesda-parent company ZeniMax recently sent a cease-and-desist letter to the maker of mobile game Fortress Fallout, threatening legal consequences if the name wasn\u0026amp;#39;t changed. Fortress Fallout\u0026amp;#39;s m...","speakable":{"@type":"SpeakableSpecification","xpath":["/html/head/title","/html/head/meta[@name='description']/@content"]},"datePublished":"2015-02-16T12:41:58-05:00","dateModified":"2015-02-16T12:41:58-05:00","articleBody":"Bethesda-parent company ZeniMax recently sent a cease-and-desist letter to the maker of mobile game Fortress Fallout, threatening legal consequences if the name wasn't changed. Fortress Fallout's maker Jordan Maron, aka YouTube personality Captain Sparklez, posted a YouTube video yesterday, in which he confirmed that the game's name would be changed. He added that he was only acceding because of ZeniMax's financial clout and said he disagreed that there could be any confusion between his game and the Fallout series of post-apocalyptic RPGs. \"Our lawyers said that Bethesda is a notoriously litigious company,\" he said. \"Obviously they have lots of money and resources at their disposal which we don't really have at the moment. So essentially we are being strong-armed into having to change our name, which is unfortunate because I personally don't see how there is any confusion between Fortress Fallout and the Fallout games.\" Fortress Fallout is a competitive 2D strategy game for mobile which is currently seeking beta testers and is scheduled to release \"soon,\" according to the game's Twitter page. Fallout from Bethesda is a series of RPGs set in a world ravaged by nuclear war. Last week, Bethesda confirmed that it will be holding its first ever E3 conference, leading to speculation that the firm is planning to announce Fallout 4. The original game-name was chosen by a community of fans interested in the project. Maron is turning once again to the community for an alternative name. ZeniMax's letter, shown in the YouTube video, requests that its makers \"immediately expressly abandon the [trademark] application for Fortress Fallout,\" and cease using the name in future promotional material. Back in 2012, ZenMax sought to stop Mojang releasing Scrolls, arguing that it infringed on its Elder Scrolls franchise. A subsequent legal settlement between the companies allowed the release of the game to go ahead, although Mojang agreed it would not use 'Scrolls' in any sequels. Polygon sent Bethesda a request for comment.","author":[{"@type":"Person","name":"Colin Campbell","url":"https://www.polygon.com/authors/colin-campbell"}],"publisher":{"@type":"Organization","name":"Polygon","logo":{"@type":"ImageObject","url":"https://cdn.vox-cdn.com/uploads/chorus_asset/file/13696745/polygon.0.png","width":600,"height":60}},"articleSection":"News","keywords":["Front Page","Mobile","News"],"image":[{"@type":"ImageObject","url":"https://cdn.vox-cdn.com/thumbor/xpzirdr9CMBEcuHPeCNbzbfs4Z8=/56x0:1528x981/1400x1400/filters:focal(56x0:1528x981):format(jpeg)/cdn.vox-cdn.com/uploads/chorus_image/image/45700454/zenifortress.0.0.jpg","width":1400,"height":1400},{"@type":"ImageObject","url":"https://cdn.vox-cdn.com/thumbor/FoasCFSsYs2jUIBgZ0G0qF5NJlw=/56x0:1528x981/1400x1050/filters:focal(56x0:1528x981):format(jpeg)/cdn.vox-cdn.com/uploads/chorus_image/image/45700454/zenifortress.0.0.jpg","width":1400,"height":1050},{"@type":"ImageObject","url":"https://cdn.vox-cdn.com/thumbor/adfFuqaVaMX6_29KmQA6D4xrOtY=/56x0:1528x981/1400x788/filters:focal(56x0:1528x981):format(jpeg)/cdn.vox-cdn.com/uploads/chorus_image/image/45700454/zenifortress.0.0.jpg","width":1400,"height":788}],"thumbnailUrl":"https://cdn.vox-cdn.com/thumbor/xpzirdr9CMBEcuHPeCNbzbfs4Z8=/56x0:1528x981/1400x1400/filters:focal(56x0:1528x981):format(jpeg)/cdn.vox-cdn.com/uploads/chorus_image/image/45700454/zenifortress.0.0.jpg"}]
 </script>
 
 
-    <meta name="outbrainsection" content="culture"></meta>
+    <meta name="outbrainsection" content="mobile"></meta>
   </head>
   <!--[if lte IE 9]><body class="ie9"><![endif]-->
   <!--[if gte IE 10]><body class="ie"><![endif]-->
-  <body class="entry_key_ entry_layout_unison_main entry_template_standard" data-entry-id="9254150">
+  <body class="entry_key_ entry_layout_unison_main entry_template_standard" data-entry-id="7810620">
     <a class="sr-only link-skip" href="#content">Skip to main content</a>
     <!-- Google Tag Manager (noscript) -->
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W8JKW6" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
@@ -268,7 +297,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       
       
 <div class="chorus-emc__content" data-emc-slug="UnisonCustomNavCell" data-emc-bucket="405::">
-    <header class="c-global-header " data-cid="site/global_header-1708320882_302_6805" role="banner" data-analytics-placement="navigation" data-cdata='{"nav_items_limit":0}'>
+    <header class="c-global-header " data-cid="site/global_header-1709408543_6754_22228" role="banner" data-analytics-placement="navigation" data-cdata='{"nav_items_limit":0}'>
   <div class="l-wrapper">
     
     <div class="c-global-header__logo ">
@@ -619,7 +648,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     
   </div>
 </header>
-<section class="c-nav-list" data-cid="site/nav_list-1708320882_1964_6804" data-cdata='{"tab_id":"more"}'>
+<section class="c-nav-list" data-cid="site/nav_list-1709408543_6845_22227" data-cdata='{"tab_id":"more"}'>
   <div class="c-nav-list__inner">
   
     <ul class="c-nav-list__main" data-nav-list-id="more">
@@ -862,8 +891,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     
                     <li class=" ">
                       
-                        <a href="/enshrouded-guides">
-                          Enshrouded
+                        <a href="/final-fantasy-7-rebirth-ff7r-guide">
+                          FF7 Rebirth
                         </a>
                       
                       
@@ -1095,7 +1124,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>
 
 
-      <div class="c-ad-allowlist" data-ui="ad-allowlist" data-cid="site/ad_allowlist-1708317632_9670_126876" data-cdata='{"adblocker_allowlist_prompt_enabled":true,"messaging_urls":["https://cdn.concert.io/lib/adblock/polygon_v0.html"],"selector":".l-header"}'></div>
+      <div class="c-ad-allowlist" data-ui="ad-allowlist" data-cid="site/ad_allowlist-1709405270_7354_52118" data-cdata='{"adblocker_allowlist_prompt_enabled":true,"messaging_urls":["https://cdn.concert.io/lib/adblock/polygon_v0.html"],"selector":".l-header"}'></div>
 
       
       
@@ -1109,29 +1138,23 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <main id="content" tabindex="-1" class="l-wrapper">
   <article class="l-segment l-main-content">
-    <span data-content-admin-id="9254150"></span>
+    <span data-content-admin-id="7810620"></span>
     <div class="l-segment">
   
   <div class="c-entry-hero c-entry-hero--default ">
   
   
 <div class="c-entry-group-labels c-entry-group-labels--article">
-  <p class="sr-only c-entry-box--compact__labels-title" id="heading-label--sniwcvck">Filed under:</p>
+  <p class="sr-only c-entry-box--compact__labels-title" id="heading-label--k5lzjw90">Filed under:</p>
   
   
     
 
-      <ul aria-labelledby="heading-label--sniwcvck">
+      <ul aria-labelledby="heading-label--k5lzjw90">
         
           <li class="c-entry-group-labels__item">
-            <a href="https://www.polygon.com/culture">
-              <span>Culture</span>
-            </a>
-          </li>
-        
-          <li class="c-entry-group-labels__item">
-            <a href="https://www.polygon.com/playstation">
-              <span>PlayStation</span>
+            <a href="https://www.polygon.com/news">
+              <span>News</span>
             </a>
           </li>
         
@@ -1149,7 +1172,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>
 
   <div class="c-entry-hero__header-wrap">
-    <h1 class="c-page-title">Minecraft streamer buys $4.5M Hollywood home, not far from Notch's mansion</h1>
+    <h1 class="c-page-title">Bethesda hits Fortress Fallout maker with legal name-change demand</h1>
 
     
   </div>
@@ -1162,15 +1185,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       <span class="c-byline__item">
         
           
-          <a href="https://www.polygon.com/authors/michael-mcwhertor" data-analytics-link="author-name"><span class="c-byline__author-name">Michael McWhertor</span></a><span class="c-byline__item"><a href="https://www.twitter.com/MikeMcWhertor" class="c-byline__twitter-handle">@MikeMcWhertor</a></span>
+          <a href="https://www.polygon.com/authors/colin-campbell" data-analytics-link="author-name"><span class="c-byline__author-name">Colin Campbell</span></a><span class="c-byline__item"><a href="https://www.twitter.com/ColinCampbellx" class="c-byline__twitter-handle">@ColinCampbellx</a></span>
         
       </span>
       
         
           <span class="c-byline__item">
             
-            <time class="c-byline__item" data-ui="timestamp" datetime="2015-10-09T23:20:37">
-  Oct  9, 2015,  7:20pm EDT
+            <time class="c-byline__item" data-ui="timestamp" datetime="2015-02-16T17:41:58">
+  Feb 16, 2015, 12:41pm EST
 </time>
           </span>
         
@@ -1178,14 +1201,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       
       
         <div class="c-byline__additional">
-          Source <a href="http://variety.com/2015/dirt/news/youtube-star-jordan-maron-buys-sunset-strip-house-1201610482/">Variety</a> | Via <a href="http://www.pcgamer.com/minecraft-streamer-buys-45-million-mansion/">PC Gamer</a> | Image <a href="http://nicholaspropertygroup.com/?p=1648">Nicholas Property Group</a>
+          Source <a href="https://www.youtube.com/watch?v=QcwaoUGpaaE">Captain Sparklez</a> | Via <a href="http://gamepolitics.com/2015/02/16/zenimax-sends-cease-desist-letter-fortress-fallout-makers#.VOIe2fnF8pc">GamePolitics</a>
         </div>
       
     
     
   </span>
   <span class="c-byline__gear">
-    <a data-entry-admin="9254150" data-cid="tools/entry_admin_button-1708320882_2907_6777" data-cdata='{"id":9254150}'></a>
+    <a data-entry-admin="7810620" data-cid="tools/entry_admin_button-1709408543_8001_22197" data-cdata='{"id":7810620}'></a>
 
   </span>
 </div>
@@ -1195,12 +1218,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>
 
 
-<div class="c-social-buttons c-social-buttons--popover main-social" data-cid="site/social_buttons_list/popover-1708320882_8966_6778" data-cdata='{"entry_id":9254150,"services":["facebook","reddit","pocket","flipboard","email"],"base_url":"https://www.polygon.com/2015/10/9/9490109/minecraft-streamer-buys-4-5m-hollywood-home-notch-captain-sparklez"}'>
-  <h2 class="sr-only" id="heading-label--bglup67u">Share this story</h2>
-  <ul aria-labelledby="heading-label--bglup67u">
+<div class="c-social-buttons c-social-buttons--popover main-social" data-cid="site/social_buttons_list/popover-1709408543_4953_22198" data-cdata='{"entry_id":7810620,"services":["facebook","reddit","pocket","flipboard","email"],"base_url":"https://www.polygon.com/2015/2/16/8046579/bethesda-hits-fortress-fallout-maker-with-legal-name-change-demand"}'>
+  <h2 class="sr-only" id="heading-label--ee7vv9hj">Share this story</h2>
+  <ul aria-labelledby="heading-label--ee7vv9hj">
   
     <li>
-      <a class="c-social-buttons__item c-social-buttons__facebook" href="https://www.facebook.com/sharer/sharer.php?text=Minecraft+streamer+buys+%244.5M+Hollywood+home%2C+not+far+from+Notch%27s+mansion&amp;u=https%3A%2F%2Fwww.polygon.com%2F2015%2F10%2F9%2F9490109%2Fminecraft-streamer-buys-4-5m-hollywood-home-notch-captain-sparklez" data-analytics-social="facebook">
+      <a class="c-social-buttons__item c-social-buttons__facebook" href="https://www.facebook.com/sharer/sharer.php?text=Bethesda+hits+Fortress+Fallout+maker+with+legal+name-change+demand&amp;u=https%3A%2F%2Fwww.polygon.com%2F2015%2F2%2F16%2F8046579%2Fbethesda-hits-fortress-fallout-maker-with-legal-name-change-demand" data-analytics-social="facebook">
         <svg role="img" class="p-svg-icon c-social-buttons__svg"><use xlink:href="#icon-facebook"></use></svg>
         <span class="sr-only">Share this on Facebook</span>
       </a>
@@ -1209,7 +1232,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   
   
   <li class="c-social-buttons__reddit">
-    <a class="c-social-buttons__item" href="https://reddit.com/submit?title=Minecraft+streamer+buys+%244.5M+Hollywood+home%2C+not+far+from+Notch%27s+mansion&amp;url=https%3A%2F%2Fwww.polygon.com%2F2015%2F10%2F9%2F9490109%2Fminecraft-streamer-buys-4-5m-hollywood-home-notch-captain-sparklez" data-analytics-social="reddit">
+    <a class="c-social-buttons__item" href="https://reddit.com/submit?title=Bethesda+hits+Fortress+Fallout+maker+with+legal+name-change+demand&amp;url=https%3A%2F%2Fwww.polygon.com%2F2015%2F2%2F16%2F8046579%2Fbethesda-hits-fortress-fallout-maker-with-legal-name-change-demand" data-analytics-social="reddit">
       <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 17 17" class="p-svg-icon c-social-buttons__svg">
 <path d="M8.5,0C3.8,0,0,3.8,0,8.5S3.8,17,8.5,17S17,13.2,17,8.5S13.2,0,8.5,0z M14,10.2c0,0.1,0,0.3,0,0.4c0,2.2-2.5,3.9-5.6,3.9
   s-5.6-1.8-5.6-3.9c0-0.2,0-0.3,0-0.5C2.5,9.9,2.2,9.4,2.2,8.9c0-0.8,0.6-1.5,1.4-1.5c0.4,0,0.7,0.2,0.9,0.4C5.2,7.3,6,6.9,7,6.8
@@ -1252,7 +1275,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         <h3 tabindex="-1">
           <strong aria-hidden="true">Share</strong>
           <span class="sr-only">All sharing options for:</span>
-          <span>Minecraft streamer buys $4.5M Hollywood home, not far from Notch's mansion</span>
+          <span>Bethesda hits Fortress Fallout maker with legal name-change demand</span>
         </h3>
       </div>
       <div class="c-social-buttons__popover-body">
@@ -1260,7 +1283,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           
             
               <li>
-                <a class="c-social-buttons__item c-social-buttons__reddit" href="https://reddit.com/submit?title=Minecraft+streamer+buys+%244.5M+Hollywood+home%2C+not+far+from+Notch%27s+mansion&amp;url=https%3A%2F%2Fwww.polygon.com%2F2015%2F10%2F9%2F9490109%2Fminecraft-streamer-buys-4-5m-hollywood-home-notch-captain-sparklez" data-analytics-social="reddit">
+                <a class="c-social-buttons__item c-social-buttons__reddit" href="https://reddit.com/submit?title=Bethesda+hits+Fortress+Fallout+maker+with+legal+name-change+demand&amp;url=https%3A%2F%2Fwww.polygon.com%2F2015%2F2%2F16%2F8046579%2Fbethesda-hits-fortress-fallout-maker-with-legal-name-change-demand" data-analytics-social="reddit">
                   <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 17 17" class="p-svg-icon c-social-buttons__svg">
 <path d="M8.5,0C3.8,0,0,3.8,0,8.5S3.8,17,8.5,17S17,13.2,17,8.5S13.2,0,8.5,0z M14,10.2c0,0.1,0,0.3,0,0.4c0,2.2-2.5,3.9-5.6,3.9
   s-5.6-1.8-5.6-3.9c0-0.2,0-0.3,0-0.5C2.5,9.9,2.2,9.4,2.2,8.9c0-0.8,0.6-1.5,1.4-1.5c0.4,0,0.7,0.2,0.9,0.4C5.2,7.3,6,6.9,7,6.8
@@ -1279,7 +1302,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           
             
               <li>
-                <a class="c-social-buttons__item c-social-buttons__pocket" href="https://getpocket.com/save?url=https%3A%2F%2Fwww.polygon.com%2F2015%2F10%2F9%2F9490109%2Fminecraft-streamer-buys-4-5m-hollywood-home-notch-captain-sparklez" data-analytics-social="pocket">
+                <a class="c-social-buttons__item c-social-buttons__pocket" href="https://getpocket.com/save?url=https%3A%2F%2Fwww.polygon.com%2F2015%2F2%2F16%2F8046579%2Fbethesda-hits-fortress-fallout-maker-with-legal-name-change-demand" data-analytics-social="pocket">
                   <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 16 14" class="p-svg-icon c-social-buttons__svg">
 <path d="M14.4,0.1H2c-0.6,0-1.1,0.5-1.1,1.1v4.6c0,4,3.3,7.3,7.3,7.3c4,0,7.3-3.3,7.3-7.3V1.2C15.5,0.6,15,0.1,14.4,0.1
   z M12.5,5.4L8.9,9C8.7,9.2,8.4,9.3,8.2,9.3C8,9.3,7.7,9.2,7.5,9L3.9,5.4C3.5,5,3.5,4.4,3.9,4c0.4-0.4,1-0.4,1.3,0l3,3l3-3
@@ -1292,7 +1315,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           
             
               <li>
-                <a class="c-social-buttons__item c-social-buttons__flipboard" href="https://share.flipboard.com/bookmarklet/popout?title=Minecraft+streamer+buys+%244.5M+Hollywood+home%2C+not+far+from+Notch%27s+mansion&amp;url=https%3A%2F%2Fwww.polygon.com%2F2015%2F10%2F9%2F9490109%2Fminecraft-streamer-buys-4-5m-hollywood-home-notch-captain-sparklez&amp;v=2" data-analytics-social="flipboard">
+                <a class="c-social-buttons__item c-social-buttons__flipboard" href="https://share.flipboard.com/bookmarklet/popout?title=Bethesda+hits+Fortress+Fallout+maker+with+legal+name-change+demand&amp;url=https%3A%2F%2Fwww.polygon.com%2F2015%2F2%2F16%2F8046579%2Fbethesda-hits-fortress-fallout-maker-with-legal-name-change-demand&amp;v=2" data-analytics-social="flipboard">
                   <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 16 16" class="p-svg-icon c-social-buttons__svg">
   <path d="M0,0v16h16V0H0z M12.9,6.4H9.6v3.2H6.5v3.2H3.2V3.2h9.7V6.4z"></path>
   <polygon opacity="0.13" points="6.5,3.2 6.5,6.4 9.8,6.4 12.9,6.4 12.9,3.2 "></polygon>
@@ -1305,7 +1328,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           
             
               <li>
-                <a class="c-social-buttons__item c-social-buttons__email" href="mailto:?subject=Minecraft%20streamer%20buys%20%244.5M%20Hollywood%20home%2C%20not%20far%20from%20Notch%27s%20mansion&amp;body=Minecraft%20streamer%20buys%20%244.5M%20Hollywood%20home%2C%20not%20far%20from%20Notch%27s%20mansion%0A%0Ahttps%3A%2F%2Fwww.polygon.com%2F2015%2F10%2F9%2F9490109%2Fminecraft-streamer-buys-4-5m-hollywood-home-notch-captain-sparklez" data-analytics-social="email">
+                <a class="c-social-buttons__item c-social-buttons__email" href="mailto:?subject=Bethesda%20hits%20Fortress%20Fallout%20maker%20with%20legal%20name-change%20demand&amp;body=Bethesda%20hits%20Fortress%20Fallout%20maker%20with%20legal%20name-change%20demand%0A%0Ahttps%3A%2F%2Fwww.polygon.com%2F2015%2F2%2F16%2F8046579%2Fbethesda-hits-fortress-fallout-maker-with-legal-name-change-demand" data-analytics-social="email">
                   <svg role="img" class="p-svg-icon c-social-buttons__svg"><use xlink:href="#icon-email"></use></svg>
                   <span class="c-social-buttons__text">Email</span>
                 </a>
@@ -1326,19 +1349,44 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>
 <div class="l-sidebar-fixed l-segment l-article-body-segment">
   <div class="l-col__main">
-    <figure class="e-image e-image--hero">
+    
+  <div class="c-video-embed--media">
+    <!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN" "http://www.w3.org/TR/REC-html40/loose.dtd">
+<html><body><iframe frameborder="0" src="https://www.youtube.com/embed/QcwaoUGpaaE" height="315" width="560"></iframe></body></html>
+
+  </div>
+
+
+
+
+      
+    
+
+
+
+
+
+
+
+<div class="c-entry-content ">
+  <p>Bethesda-parent company ZeniMax recently sent a cease-and-desist letter to the maker of mobile game<i> Fortress Fallout</i>, threatening legal consequences if the name wasn't changed.</p>
+<p><i>Fortress Fallout's </i>maker <a href="https://twitter.com/captainsparklez" target="_blank">Jordan Maron</a>, aka YouTube personality <a href="https://www.youtube.com/channel/UCshoKvlZGZ20rVgazZp5vnQ" target="_blank">Captain Sparklez</a>, posted a YouTube video yesterday, in which he confirmed that the game's name would be changed. He added that he was only acceding because of ZeniMax's financial clout and said he disagreed that there could be any confusion between his game and the Fallout series of post-apocalyptic RPGs.</p>
+<p>"Our lawyers said that Bethesda is a notoriously litigious company," he said. "Obviously they have lots of money and resources at their disposal which we don't really have at the moment. So essentially we are being strong-armed into having to change our name, which is unfortunate because I personally don't see how there is any confusion between <i>Fortress Fallout </i>and the Fallout games."</p>
+<p><i>Fortress Fallout </i>is a competitive 2D strategy game for mobile which is currently <a target="_blank" href="http://forum.fortressfallout.com/">seeking beta testers</a> and is scheduled to release "soon," according to the game's <a target="_blank" href="https://twitter.com/fortressfallout">Twitter page</a>. Fallout from Bethesda is a series of RPGs set in a world ravaged by nuclear war. Last week, Bethesda confirmed that it will be holding its first ever<a href="http://www.polygon.com/2015/2/10/8011973/bethesda-to-hold-its-first-e3-news-conference-this-year" target="_blank"> E3 conference</a>, leading to speculation that the firm is planning to announce <i>Fallout 4</i>.</p>
+<p>The original game-name was chosen by a community of fans interested in the project. Maron is turning once again to the community for an alternative name.</p>
+<p>  <figure class="e-image">
   <span class="e-image__inner">
     
-    <span class="e-image__image " data-original="https://cdn.vox-cdn.com/uploads/chorus_image/image/47376722/captainsparklez_house.0.0.jpg">
+    <span class="e-image__image " data-original="https://cdn.vox-cdn.com/uploads/chorus_asset/file/3414680/B0MIkNtCQAAvjd_.0.png">
       
-        <picture class="c-picture" data-cid="site/picture_element-1708320882_9385_6779" data-cdata='{"image_id":47376722,"ratio":"*"}'>
+        <picture class="c-picture" data-cid="site/picture_element-1709408543_9825_22199" data-cdata='{"asset_id":3414680,"ratio":"*"}'>
   
 
 
-  <source srcset="https://cdn.vox-cdn.com/thumbor/deswiX3M2bgsBuGIJlMQ3tT4rAQ=/85x0:1013x619/320x213/filters:focal(85x0:1013x619):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/47376722/captainsparklez_house.0.0.jpg 320w, https://cdn.vox-cdn.com/thumbor/TRbAlTTuG6hen4d_Kx_IUEkB21k=/85x0:1013x619/620x413/filters:focal(85x0:1013x619):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/47376722/captainsparklez_house.0.0.jpg 620w, https://cdn.vox-cdn.com/thumbor/mlQ1JAgebTGCXjsq1I9rb_WtnQs=/85x0:1013x619/920x613/filters:focal(85x0:1013x619):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/47376722/captainsparklez_house.0.0.jpg 920w, https://cdn.vox-cdn.com/thumbor/ZcNMzk9ltGp2KoVMtcO15vcgWpA=/85x0:1013x619/1220x813/filters:focal(85x0:1013x619):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/47376722/captainsparklez_house.0.0.jpg 1220w, https://cdn.vox-cdn.com/thumbor/Wlx05bQCUayXNLlleHu7DCieZ2Y=/85x0:1013x619/1520x1013/filters:focal(85x0:1013x619):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/47376722/captainsparklez_house.0.0.jpg 1520w, https://cdn.vox-cdn.com/thumbor/I1oqE-xcSpBuOYiAkEQU0-izL9o=/85x0:1013x619/1820x1213/filters:focal(85x0:1013x619):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/47376722/captainsparklez_house.0.0.jpg 1820w, https://cdn.vox-cdn.com/thumbor/Hqcs9Drec8D8pE8i9JClxf3AvOA=/85x0:1013x619/2120x1413/filters:focal(85x0:1013x619):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/47376722/captainsparklez_house.0.0.jpg 2120w, https://cdn.vox-cdn.com/thumbor/twsTsB_eVQQdGSx_eCu_u7npIa0=/85x0:1013x619/2420x1613/filters:focal(85x0:1013x619):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/47376722/captainsparklez_house.0.0.jpg 2420w" sizes="(min-width: 1221px) 846px, (min-width: 880px) calc(100vw - 334px), 100vw" type="image/webp">
+  <source srcset="https://cdn.vox-cdn.com/thumbor/ZIFUbijZ0tSXtHW-UWPMeM5iMbo=/0x0:700x528/320x0/filters:focal(0x0:700x528):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/3414680/B0MIkNtCQAAvjd_.0.png 320w, https://cdn.vox-cdn.com/thumbor/guYL2CmuHfXT108ku2nmgpIHG0s=/0x0:700x528/520x0/filters:focal(0x0:700x528):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/3414680/B0MIkNtCQAAvjd_.0.png 520w, https://cdn.vox-cdn.com/thumbor/RWPmoG7-1DCmISaQ2tOskHT2eBA=/0x0:700x528/720x0/filters:focal(0x0:700x528):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/3414680/B0MIkNtCQAAvjd_.0.png 720w, https://cdn.vox-cdn.com/thumbor/WmYIeREPSyum8FmnMN-MMCDH9HU=/0x0:700x528/920x0/filters:focal(0x0:700x528):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/3414680/B0MIkNtCQAAvjd_.0.png 920w, https://cdn.vox-cdn.com/thumbor/AjurKhlch5FAjaKZ8iRHhwPATSI=/0x0:700x528/1120x0/filters:focal(0x0:700x528):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/3414680/B0MIkNtCQAAvjd_.0.png 1120w, https://cdn.vox-cdn.com/thumbor/KjTLG1VFisJprFU6JHismKodX14=/0x0:700x528/1320x0/filters:focal(0x0:700x528):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/3414680/B0MIkNtCQAAvjd_.0.png 1320w, https://cdn.vox-cdn.com/thumbor/ukvCj8---xiEXxh8WIQx2x9iZZg=/0x0:700x528/1520x0/filters:focal(0x0:700x528):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/3414680/B0MIkNtCQAAvjd_.0.png 1520w, https://cdn.vox-cdn.com/thumbor/Moxv6IIn70ox9pPbDjywCPPd0zE=/0x0:700x528/1720x0/filters:focal(0x0:700x528):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/3414680/B0MIkNtCQAAvjd_.0.png 1720w, https://cdn.vox-cdn.com/thumbor/b3zDc16v6Rlt1YevQOszlTyGano=/0x0:700x528/1920x0/filters:focal(0x0:700x528):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/3414680/B0MIkNtCQAAvjd_.0.png 1920w" sizes="(min-width: 1221px) 846px, (min-width: 880px) calc(100vw - 334px), 100vw" type="image/webp">
 
 
-<img srcset="https://cdn.vox-cdn.com/thumbor/ZAJIv_qwh3WZEXN0Bhs8G0FNd8o=/85x0:1013x619/320x213/filters:focal(85x0:1013x619)/cdn.vox-cdn.com/uploads/chorus_image/image/47376722/captainsparklez_house.0.0.jpg 320w, https://cdn.vox-cdn.com/thumbor/abvgqHzGVJE_8sKkSor6sZ1H5ZU=/85x0:1013x619/620x413/filters:focal(85x0:1013x619)/cdn.vox-cdn.com/uploads/chorus_image/image/47376722/captainsparklez_house.0.0.jpg 620w, https://cdn.vox-cdn.com/thumbor/kSCaDzBuVjIPaobQGwc3zWlNTP4=/85x0:1013x619/920x613/filters:focal(85x0:1013x619)/cdn.vox-cdn.com/uploads/chorus_image/image/47376722/captainsparklez_house.0.0.jpg 920w, https://cdn.vox-cdn.com/thumbor/miixKk5cC5DBVsSrrRjv7O4k1go=/85x0:1013x619/1220x813/filters:focal(85x0:1013x619)/cdn.vox-cdn.com/uploads/chorus_image/image/47376722/captainsparklez_house.0.0.jpg 1220w, https://cdn.vox-cdn.com/thumbor/tepxWGygJSue3APcvY-GlAIgv1c=/85x0:1013x619/1520x1013/filters:focal(85x0:1013x619)/cdn.vox-cdn.com/uploads/chorus_image/image/47376722/captainsparklez_house.0.0.jpg 1520w, https://cdn.vox-cdn.com/thumbor/TVhbenbA801sTi46Bz8OT5FH6s8=/85x0:1013x619/1820x1213/filters:focal(85x0:1013x619)/cdn.vox-cdn.com/uploads/chorus_image/image/47376722/captainsparklez_house.0.0.jpg 1820w, https://cdn.vox-cdn.com/thumbor/9m4qlKoZLI5PwvrhQoWbwRG9jOc=/85x0:1013x619/2120x1413/filters:focal(85x0:1013x619)/cdn.vox-cdn.com/uploads/chorus_image/image/47376722/captainsparklez_house.0.0.jpg 2120w, https://cdn.vox-cdn.com/thumbor/ztUOkNQ6pa-hIpw8MBuAHvFYqz8=/85x0:1013x619/2420x1613/filters:focal(85x0:1013x619)/cdn.vox-cdn.com/uploads/chorus_image/image/47376722/captainsparklez_house.0.0.jpg 2420w" sizes="(min-width: 1221px) 846px, (min-width: 880px) calc(100vw - 334px), 100vw" alt="" loading="eager" data-upload-width="1100" width="1100" height="619" src="https://cdn.vox-cdn.com/thumbor/DhKws97cU1Yx66tBehPboDSJiyI=/85x0:1013x619/1200x800/filters:focal(85x0:1013x619)/cdn.vox-cdn.com/uploads/chorus_image/image/47376722/captainsparklez_house.0.0.jpg">
+<img srcset="https://cdn.vox-cdn.com/thumbor/f0rP3zBmZNq75grJ5EMJXqZ7OxU=/0x0:700x528/320x0/filters:focal(0x0:700x528):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/3414680/B0MIkNtCQAAvjd_.0.png 320w, https://cdn.vox-cdn.com/thumbor/ncH-AvzKlQ4fwqO2ohEg5Zc3Ztc=/0x0:700x528/520x0/filters:focal(0x0:700x528):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/3414680/B0MIkNtCQAAvjd_.0.png 520w, https://cdn.vox-cdn.com/thumbor/Mj2pxFqUEf5pF50iswP0001BaIs=/0x0:700x528/720x0/filters:focal(0x0:700x528):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/3414680/B0MIkNtCQAAvjd_.0.png 720w, https://cdn.vox-cdn.com/thumbor/JufpuDb2-Cd13ycEu_DiEuspMcc=/0x0:700x528/920x0/filters:focal(0x0:700x528):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/3414680/B0MIkNtCQAAvjd_.0.png 920w, https://cdn.vox-cdn.com/thumbor/DATFqmp1PEOHV3b687BLYmCQZfQ=/0x0:700x528/1120x0/filters:focal(0x0:700x528):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/3414680/B0MIkNtCQAAvjd_.0.png 1120w, https://cdn.vox-cdn.com/thumbor/8OMggvR26JD5KP-d-IevlH8C92Q=/0x0:700x528/1320x0/filters:focal(0x0:700x528):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/3414680/B0MIkNtCQAAvjd_.0.png 1320w, https://cdn.vox-cdn.com/thumbor/-GcXiwcfCYySeYy-NodfT1qG27o=/0x0:700x528/1520x0/filters:focal(0x0:700x528):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/3414680/B0MIkNtCQAAvjd_.0.png 1520w, https://cdn.vox-cdn.com/thumbor/qAbwDBAnVRlkxLUwfDya3gSQqvM=/0x0:700x528/1720x0/filters:focal(0x0:700x528):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/3414680/B0MIkNtCQAAvjd_.0.png 1720w, https://cdn.vox-cdn.com/thumbor/4U6s8bGfqVkm6pJVkfcn4rL6AvM=/0x0:700x528/1920x0/filters:focal(0x0:700x528):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/3414680/B0MIkNtCQAAvjd_.0.png 1920w" sizes="(min-width: 1221px) 846px, (min-width: 880px) calc(100vw - 334px), 100vw" alt="fallout fortress" loading="lazy" data-upload-width="700" width="700" height="528" src="https://cdn.vox-cdn.com/thumbor/tdiboLlNodUNH4lg4hLb2Y0FZIg=/0x0:700x528/1200x0/filters:focal(0x0:700x528):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/3414680/B0MIkNtCQAAvjd_.0.png">
 
 </source></picture>
 
@@ -1349,40 +1397,42 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   
 </figure>
 
-      
-<div class="c-short-author-bio">
-  <div class="c-short-author-bio-wrapper">
-    <div class="c-short-author-bio__item">
-  
-      <div class="copy">
-        <a href="https://www.polygon.com/authors/michael-mcwhertor" data-analytics-link=":short-author-bio">Michael McWhertor</a>
-        is a journalist with more than 17 years of experience covering video games, technology, movies, TV, and entertainment.
-      </div>
-    </div>
-  </div>
-</div>
 
-
+</p>
+<p>ZeniMax's letter, shown in the YouTube video, requests that its makers "immediately expressly abandon the [trademark] application for<i> Fortress Fallout,</i>" and cease using the name in future promotional material.</p>
+<p>Back in 2012, ZenMax sought to stop Mojang releasing <i>Scrolls</i>, arguing that it infringed on its Elder Scrolls franchise. A subsequent<a target="_blank" href="http://www.joystiq.com/2012/03/12/mojang-cant-use-scrolls-in-any-sequels-to-scrolls-lawsuit/"> legal settlement</a> between the companies allowed the release of the game to go ahead, although Mojang agreed it would not use 'Scrolls' in any sequels.</p>
+<p>  <figure class="e-image">
+  <span class="e-image__inner">
     
+    <span class="e-image__image " data-original="https://cdn.vox-cdn.com/uploads/chorus_asset/file/3414708/B9vceHTCMAEFYcW.0.png">
+      
+        <picture class="c-picture" data-cid="site/picture_element-1709408543_4935_22200" data-cdata='{"asset_id":3414708,"ratio":"*"}'>
+  
 
 
+  <source srcset="https://cdn.vox-cdn.com/thumbor/x05GmvHTbcgI7v8DekcAV7IQfgY=/0x0:843x953/320x0/filters:focal(0x0:843x953):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/3414708/B9vceHTCMAEFYcW.0.png 320w, https://cdn.vox-cdn.com/thumbor/RqS7w59knkxmoXRyOqqnordzWFM=/0x0:843x953/520x0/filters:focal(0x0:843x953):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/3414708/B9vceHTCMAEFYcW.0.png 520w, https://cdn.vox-cdn.com/thumbor/PzTX4hta-ktgGaTSxxT-Jr7GpAg=/0x0:843x953/720x0/filters:focal(0x0:843x953):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/3414708/B9vceHTCMAEFYcW.0.png 720w, https://cdn.vox-cdn.com/thumbor/_J1z6rwRT8UkPNg3lcDDI-dh1Y8=/0x0:843x953/920x0/filters:focal(0x0:843x953):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/3414708/B9vceHTCMAEFYcW.0.png 920w, https://cdn.vox-cdn.com/thumbor/6HG6W2TWg4S-UAaaYugotPV_nuE=/0x0:843x953/1120x0/filters:focal(0x0:843x953):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/3414708/B9vceHTCMAEFYcW.0.png 1120w, https://cdn.vox-cdn.com/thumbor/yVEimPBuPAAe9hBrBnmqnbAYIUM=/0x0:843x953/1320x0/filters:focal(0x0:843x953):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/3414708/B9vceHTCMAEFYcW.0.png 1320w, https://cdn.vox-cdn.com/thumbor/4RWqtAh2rtQ6RU5nSMytJ1r2jhE=/0x0:843x953/1520x0/filters:focal(0x0:843x953):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/3414708/B9vceHTCMAEFYcW.0.png 1520w, https://cdn.vox-cdn.com/thumbor/ZeTcZHlCE_xwUJ-gKbJPvCeFfu0=/0x0:843x953/1720x0/filters:focal(0x0:843x953):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/3414708/B9vceHTCMAEFYcW.0.png 1720w, https://cdn.vox-cdn.com/thumbor/ofnMFmrz2o3FxWe6kchcfvD0vlQ=/0x0:843x953/1920x0/filters:focal(0x0:843x953):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/3414708/B9vceHTCMAEFYcW.0.png 1920w" sizes="(min-width: 1221px) 846px, (min-width: 880px) calc(100vw - 334px), 100vw" type="image/webp">
 
 
+<img srcset="https://cdn.vox-cdn.com/thumbor/eghEUxP3etHMRQkIzoCEoWykdE0=/0x0:843x953/320x0/filters:focal(0x0:843x953):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/3414708/B9vceHTCMAEFYcW.0.png 320w, https://cdn.vox-cdn.com/thumbor/a9-MKIWw9wFcUmMMQGe-uA9Ppno=/0x0:843x953/520x0/filters:focal(0x0:843x953):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/3414708/B9vceHTCMAEFYcW.0.png 520w, https://cdn.vox-cdn.com/thumbor/C5Q3Z-KjeXMvnMrC90Sf2mRREwQ=/0x0:843x953/720x0/filters:focal(0x0:843x953):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/3414708/B9vceHTCMAEFYcW.0.png 720w, https://cdn.vox-cdn.com/thumbor/Nvcd05mVthK_iNNiepY2bEf4W_4=/0x0:843x953/920x0/filters:focal(0x0:843x953):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/3414708/B9vceHTCMAEFYcW.0.png 920w, https://cdn.vox-cdn.com/thumbor/cfc9HNIIHQO5hi-fIQOIHrTHlVg=/0x0:843x953/1120x0/filters:focal(0x0:843x953):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/3414708/B9vceHTCMAEFYcW.0.png 1120w, https://cdn.vox-cdn.com/thumbor/qaF3oT3y5RZD09zHTSesMQYi6Zo=/0x0:843x953/1320x0/filters:focal(0x0:843x953):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/3414708/B9vceHTCMAEFYcW.0.png 1320w, https://cdn.vox-cdn.com/thumbor/UAN15WLJDgbQl-s85YUdCCGMwiU=/0x0:843x953/1520x0/filters:focal(0x0:843x953):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/3414708/B9vceHTCMAEFYcW.0.png 1520w, https://cdn.vox-cdn.com/thumbor/dcxKoyVvqk3VL-oKs9sXvEHfi9s=/0x0:843x953/1720x0/filters:focal(0x0:843x953):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/3414708/B9vceHTCMAEFYcW.0.png 1720w, https://cdn.vox-cdn.com/thumbor/TgnXhtqUZIoMuB0UjfsMhz0QENk=/0x0:843x953/1920x0/filters:focal(0x0:843x953):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/3414708/B9vceHTCMAEFYcW.0.png 1920w" sizes="(min-width: 1221px) 846px, (min-width: 880px) calc(100vw - 334px), 100vw" alt="letter" loading="lazy" data-upload-width="843" width="843" height="953" src="https://cdn.vox-cdn.com/thumbor/EB6ys9dFKRn6j_QMTgU89uQUxqY=/0x0:843x953/1200x0/filters:focal(0x0:843x953):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/3414708/B9vceHTCMAEFYcW.0.png">
+
+</source></picture>
+
+      
+    </span>
+    
+  </span>
+  
+</figure>
 
 
-
-<div class="c-entry-content ">
-  <p>The <i>Minecraft</i> business can be a lucrative one, not just for the people who make it, but also for the people who play it. Popular YouTube personality Jordan "CaptainSparklez" Maron, who primarily plays <i>Minecraft</i> on his channel, just dropped $4.5 million on a new house in the Hollywood Hills — not far from where the game's creator, Markus "Notch" Persson lives — <a href="http://variety.com/2015/dirt/news/youtube-star-jordan-maron-buys-sunset-strip-house-1201610482/">Variety</a> reports.</p>
-<p>Notch made headlines last year for his record-setting <a href="http://www.polygon.com/2014/12/18/7418249/notch-buys-beverly-hills-mansion-70-million">$70 million purchase of a house in Beverly Hills</a>. CaptainSparklez's smaller, more reasonably priced pad is just a few thousand feet away from Notch's Trousdale Estates mansion, but getting back and forth between the two homes requires a much longer, winding drive through Hollywood's curving roads.</p>
-<p>Maron's <a href="https://www.youtube.com/user/CaptainSparklez" target="_blank">YouTube channel</a> has more than 8.8 million subscribers and his Twitch channel has more than 1.2 million. On YouTube alone, he's racked up more than 1.9 billion views, which helps explain his ability to afford the new home.</p>
-<p>The <i>Minecraft</i> streamer's new digs comes with three bedrooms, four bathrooms, an infinity pool with a nice view of Los Angeles and a three car garage. It does not, however, appear to have a <a href="http://www.polygon.com/2015/1/13/7540175/notch-housewarming-party-minecraft">dedicated candy room</a>.</p>
-<p>If you want to take a peek at the kind of Hollywood Hills house 8.8 million subscribers can buy, or just want to solemnly regret not getting on the <i>Minecraft</i> streaming bandwagon early enough, you can check out pictures of the property at <a href="http://nicholaspropertygroup.com/?p=1648">Nicholas Property Group's website</a>.</p>
+</p>
+<p>Polygon sent Bethesda a request for comment.</p>
   
 </div>
 
 
 
-<div class="u-hidden-text" id="formatter-datter" data-cid="site/entry_formatter-1708320882_1060_6780" data-cdata='{"svg_hr_illustration":""}'>
+<div class="u-hidden-text" id="formatter-datter" data-cid="site/entry_formatter-1709408543_7555_22201" data-cdata='{"svg_hr_illustration":""}'>
   
 </div>
 
@@ -1446,7 +1496,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     
       <p class="c-newsletter_signup_box__blurb">A weekly roundup of the best things from Polygon</p>
     
-    <form action="/newsletter_form_recaptcha" method="post" id="subForm" data-random-id="4949d15a4da926d4" data-submit-ajax-redirect="/pages/newsletters" data-analytics-class="newsletter" class="c-newsletter_signup_box--form c-newsletter_signup_box--form__1" data-analytics-placement="sidebar" data-cid="site/newsletter_signup_form-1708320882_7101_6781" data-cdata="{}">
+    <form action="/newsletter_form_recaptcha" method="post" id="subForm" data-random-id="24b933a8e5378d58" data-submit-ajax-redirect="/pages/newsletters" data-analytics-class="newsletter" class="c-newsletter_signup_box--form c-newsletter_signup_box--form__1" data-analytics-placement="sidebar" data-cid="site/newsletter_signup_form-1709408543_5909_22202" data-cdata="{}">
   
     <input id="field_source" name="source" value="Presto::Site::NewsletterSignupBox" type="hidden">
   
@@ -1486,7 +1536,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       
     </div>
 
-    <input type="hidden" name="g-recaptcha-response-data[newsletter]" id="g-recaptcha-response-data-newsletter-4949d15a4da926d4" data-sitekey="6LeCFmwfAAAAAA4qBtkgg3WVJWVYGkt05yKT6gi1" class="g-recaptcha g-recaptcha-response " text="">
+    <input type="hidden" name="g-recaptcha-response-data[newsletter]" id="g-recaptcha-response-data-newsletter-24b933a8e5378d58" data-sitekey="6LeCFmwfAAAAAA4qBtkgg3WVJWVYGkt05yKT6gi1" class="g-recaptcha g-recaptcha-response " text="">
     <script src="https://www.recaptcha.net/recaptcha/api.js?render=6LeCFmwfAAAAAA4qBtkgg3WVJWVYGkt05yKT6gi1"></script>
     <script type="text/javascript">
       window.recaptcha_v3_site_key = '6LeCFmwfAAAAAA4qBtkgg3WVJWVYGkt05yKT6gi1'
@@ -1501,7 +1551,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>
 
       </div>
-      <div class="u-hidden-text ">
+      <div class="u-desktop-only ">
         <aside class="c-rock-list c-rock-list--image c-rock-list--trending" id="rock-">
   <h3 class="p-rock-head c-rock-list__title">
     
@@ -1521,11 +1571,56 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       
         <li class="c-rock-list__item" data-analytics-placement="sidebar:1">
       
+        <a href="https://www.polygon.com/24086727/devil-in-a-blue-dress-movie-denzel-washington-netflix-thriller-sexy" class="c-rock-list__link" data-analytics-link="trending" data-analytics-viewport="trending" data-chorus-optimize-id="23850768" data-chorus-optimize-module="entry-list">
+          
+            <div class="c-rock-list__image">
+              
+                <picture class="c-picture" data-chorus-optimize-field="main_image" data-cid="site/picture_element-1709408543_4487_22204" data-cdata='{"image_id":73176152,"ratio":"standard","dynamic_type":"picture","lazy":true}'>
+  <script type="text/template-picture" style="display: none;">
+    
+
+
+  <source
+    srcset="https://cdn.vox-cdn.com/thumbor/FYIfyqVxgbQdkNzJ1-X0vfzH2NM=/0x0:849x458/250x167/filters:focal(281x52:415x186):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/73176152/denzel.0.png 250w, https://cdn.vox-cdn.com/thumbor/6R0mpy-HMj3ouP48afwIuLUVUZI=/0x0:849x458/500x333/filters:focal(281x52:415x186):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/73176152/denzel.0.png 500w"
+    sizes="250px"
+    type="image/webp"
+  >
+
+
+<img srcset="https://cdn.vox-cdn.com/thumbor/S4z45g3pK00nX9IfioLRfW5K910=/0x0:849x458/250x167/filters:focal(281x52:415x186)/cdn.vox-cdn.com/uploads/chorus_image/image/73176152/denzel.0.png 250w, https://cdn.vox-cdn.com/thumbor/1TN0UgUbhNxPZGyDLUzwjn9fClw=/0x0:849x458/500x333/filters:focal(281x52:415x186)/cdn.vox-cdn.com/uploads/chorus_image/image/73176152/denzel.0.png 500w" sizes="250px" alt="Denzel Washington, wearing a white tanktop, reads the newspaper in Devil in a Blue Dress." loading="lazy" data-upload-width="849" width="849" height="458" src="https://cdn.vox-cdn.com/thumbor/9UZbAREr2_QJoequj3VkWYj1zo8=/0x0:849x458/1200x800/filters:focal(281x52:415x186)/cdn.vox-cdn.com/uploads/chorus_image/image/73176152/denzel.0.png" />
+
+  </script>
+  <script type="text/template-dynamic" style="display: none">
+    
+<img class="c-dynamic-image " alt="Denzel Washington, wearing a white tanktop, reads the newspaper in Devil in a Blue Dress." width="849" height="458" data-chorus-optimize-field="main_image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs" data-cid="site/dynamic_size_image-1709408543_620_22203" data-cdata='{"image_id":73176152,"ratio":"standard"}'>
+<noscript><img alt="Denzel Washington, wearing a white tanktop, reads the newspaper in Devil in a Blue Dress." src="https://cdn.vox-cdn.com/uploads/chorus_image/image/73176152/denzel.0.png"></noscript>
+
+  </script>
+</picture>
+
+              
+            </div>
+          
+          <span class="c-rock-list__item--body">
+            
+            <span data-chorus-optimize-field="hed">Netflix is now streaming one of Denzel Washington’s best steamy thrillers</span>
+            
+              <span class="c-rock-list__entry-blurb">It’s hard to beat the cinematic pleasures of Devil in a Blue Dress</span>
+            
+          </span>
+        </a>
+        
+        
+      </li>
+    
+      
+        <li class="c-rock-list__item" data-analytics-placement="sidebar:2">
+      
         <a href="https://www.polygon.com/guides/24048300/persona-3-reload-classroom-answers-questions-quizzes-exams-midterm-final-classroom-p3r" class="c-rock-list__link" data-analytics-link="trending" data-analytics-viewport="trending" data-chorus-optimize-id="23812341" data-chorus-optimize-module="entry-list">
           
             <div class="c-rock-list__image">
               
-                <picture class="c-picture" data-chorus-optimize-field="main_image" data-cid="site/picture_element-1708320882_1931_6783" data-cdata='{"image_id":73105669,"ratio":"standard","dynamic_type":"picture","lazy":true}'>
+                <picture class="c-picture" data-chorus-optimize-field="main_image" data-cid="site/picture_element-1709408543_3839_22206" data-cdata='{"image_id":73105669,"ratio":"standard","dynamic_type":"picture","lazy":true}'>
   <script type="text/template-picture" style="display: none;">
     
 
@@ -1542,7 +1637,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   </script>
   <script type="text/template-dynamic" style="display: none">
     
-<img class="c-dynamic-image " alt="The protagonist takes an exam in Persona 3 Reload" width="1920" height="1080" data-chorus-optimize-field="main_image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs" data-cid="site/dynamic_size_image-1708320882_9483_6782" data-cdata='{"image_id":73105669,"ratio":"standard"}'>
+<img class="c-dynamic-image " alt="The protagonist takes an exam in Persona 3 Reload" width="1920" height="1080" data-chorus-optimize-field="main_image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs" data-cid="site/dynamic_size_image-1709408543_7106_22205" data-cdata='{"image_id":73105669,"ratio":"standard"}'>
 <noscript><img alt="The protagonist takes an exam in Persona 3 Reload" src="https://cdn.vox-cdn.com/uploads/chorus_image/image/73105669/Unknown_2024_01_30_07_04_35.0.png"></noscript>
 
   </script>
@@ -1564,31 +1659,31 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       </li>
     
       
-        <li class="c-rock-list__item" data-analytics-placement="sidebar:2">
+        <li class="c-rock-list__item" data-analytics-placement="sidebar:3">
       
-        <a href="https://www.polygon.com/what-to-watch/2024/2/17/24070681/best-sci-fi-movies-watch-netflix-february-2024" class="c-rock-list__link" data-analytics-link="trending" data-analytics-viewport="trending" data-chorus-optimize-id="23834722" data-chorus-optimize-module="entry-list">
+        <a href="https://www.polygon.com/guides/24063889/persona-3-reload-social-link-answers-links-dialogue-p3r-unlock" class="c-rock-list__link" data-analytics-link="trending" data-analytics-viewport="trending" data-chorus-optimize-id="23827930" data-chorus-optimize-module="entry-list">
           
             <div class="c-rock-list__image">
               
-                <picture class="c-picture" data-chorus-optimize-field="main_image" data-cid="site/picture_element-1708320882_6067_6785" data-cdata='{"image_id":73146532,"ratio":"standard","dynamic_type":"picture","lazy":true}'>
+                <picture class="c-picture" data-chorus-optimize-field="main_image" data-cid="site/picture_element-1709408543_9611_22208" data-cdata='{"image_id":73117008,"ratio":"standard","dynamic_type":"picture","lazy":true}'>
   <script type="text/template-picture" style="display: none;">
     
 
 
   <source
-    srcset="https://cdn.vox-cdn.com/thumbor/xxe-I_nVsiRmRbPMTi7DGGoK4oE=/0x0:6000x4000/250x167/filters:focal(2520x1520:3480x2480):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/73146532/BadlandH_UNIT_0057.0.jpg 250w, https://cdn.vox-cdn.com/thumbor/mSMjku6Q4LaQboAfzufMKVQYkEg=/0x0:6000x4000/500x333/filters:focal(2520x1520:3480x2480):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/73146532/BadlandH_UNIT_0057.0.jpg 500w"
+    srcset="https://cdn.vox-cdn.com/thumbor/M6fzshlu8M6Noe7RS-3IcwoUZPU=/0x0:1920x1080/250x167/filters:focal(807x387:1113x693):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/73117008/persona3reload_guide_sociallink_header.0.jpg 250w, https://cdn.vox-cdn.com/thumbor/mmR22lfEoXoGzYRTtaXYFlJ7kjk=/0x0:1920x1080/500x333/filters:focal(807x387:1113x693):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/73117008/persona3reload_guide_sociallink_header.0.jpg 500w"
     sizes="250px"
     type="image/webp"
   >
 
 
-<img srcset="https://cdn.vox-cdn.com/thumbor/6xSsmmoK6PPm_cMs1m-7ofcnxN0=/0x0:6000x4000/250x167/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/73146532/BadlandH_UNIT_0057.0.jpg 250w, https://cdn.vox-cdn.com/thumbor/6UVjAF2LrnhWz7y5YekspTAgbt0=/0x0:6000x4000/500x333/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/73146532/BadlandH_UNIT_0057.0.jpg 500w" sizes="250px" alt="A man (Don Lee) points a shotgun through a hole while a young man and a woman stand behind him in a darkened hallway in Badland Hunters." loading="lazy" data-upload-width="6000" width="6000" height="4000" src="https://cdn.vox-cdn.com/thumbor/uxZcO_skfpFhd6af8Ou1e-sJhsM=/0x0:6000x4000/1200x800/filters:focal(2520x1520:3480x2480)/cdn.vox-cdn.com/uploads/chorus_image/image/73146532/BadlandH_UNIT_0057.0.jpg" />
+<img srcset="https://cdn.vox-cdn.com/thumbor/xaGmvN2Z0JdQG7iFFRS_T-Z0s2M=/0x0:1920x1080/250x167/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/73117008/persona3reload_guide_sociallink_header.0.jpg 250w, https://cdn.vox-cdn.com/thumbor/gYBC0mbpdo4CLVlRIXcNKl-wePw=/0x0:1920x1080/500x333/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/73117008/persona3reload_guide_sociallink_header.0.jpg 500w" sizes="250px" alt="Two characters stand around while solving Social Link answers in Persona 3 Reload." loading="lazy" data-upload-width="1920" width="1920" height="1080" src="https://cdn.vox-cdn.com/thumbor/wyzGGLZsctKZdY3isUH1fHaNraU=/0x0:1920x1080/1200x800/filters:focal(807x387:1113x693)/cdn.vox-cdn.com/uploads/chorus_image/image/73117008/persona3reload_guide_sociallink_header.0.jpg" />
 
   </script>
   <script type="text/template-dynamic" style="display: none">
     
-<img class="c-dynamic-image " alt="A man (Don Lee) points a shotgun through a hole while a young man and a woman stand behind him in a darkened hallway in Badland Hunters." width="6000" height="4000" data-chorus-optimize-field="main_image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs" data-cid="site/dynamic_size_image-1708320882_1625_6784" data-cdata='{"image_id":73146532,"ratio":"standard"}'>
-<noscript><img alt="A man (Don Lee) points a shotgun through a hole while a young man and a woman stand behind him in a darkened hallway in Badland Hunters." src="https://cdn.vox-cdn.com/uploads/chorus_image/image/73146532/BadlandH_UNIT_0057.0.jpg"></noscript>
+<img class="c-dynamic-image " alt="Two characters stand around while solving Social Link answers in Persona 3 Reload." width="1920" height="1080" data-chorus-optimize-field="main_image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs" data-cid="site/dynamic_size_image-1709408543_150_22207" data-cdata='{"image_id":73117008,"ratio":"standard"}'>
+<noscript><img alt="Two characters stand around while solving Social Link answers in Persona 3 Reload." src="https://cdn.vox-cdn.com/uploads/chorus_image/image/73117008/persona3reload_guide_sociallink_header.0.jpg"></noscript>
 
   </script>
 </picture>
@@ -1598,9 +1693,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
           
           <span class="c-rock-list__item--body">
             
-            <span data-chorus-optimize-field="hed">The best sci-fi movies to watch on Netflix this February</span>
+            <span data-chorus-optimize-field="hed">All Persona 3 Reload social link answers and unlock requirements</span>
             
-              <span class="c-rock-list__entry-blurb">From post-apocalyptic brawlers to kaiju-stompin’ mecha thrillers</span>
+              <span class="c-rock-list__entry-blurb">Here’s how to unlock every all of the P3R social links</span>
             
           </span>
         </a>
@@ -1630,7 +1725,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </div>
 
   <div class="l-segment outbrain-container">
-    <div class="OUTBRAIN" data-src="https://www.polygon.com/2015/10/9/9490109/minecraft-streamer-buys-4-5m-hollywood-home-notch-captain-sparklez" data-widget-id="AR_10" data-ob-template="Polygon" ></div>
+    <div class="OUTBRAIN" data-src="https://www.polygon.com/2015/2/16/8046579/bethesda-hits-fortress-fallout-maker-with-legal-name-change-demand" data-widget-id="AR_10" data-ob-template="Polygon" ></div>
 
 <script type="text/javascript" charset="utf-8">
 (function(){
@@ -1671,7 +1766,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   </div>
 
   <div class="l-segment outbrain-container">
-    <div class="OUTBRAIN" data-src="https://www.polygon.com/2015/10/9/9490109/minecraft-streamer-buys-4-5m-hollywood-home-notch-captain-sparklez" data-widget-id="AR_2" data-ob-template="Polygon" ></div>
+    <div class="OUTBRAIN" data-src="https://www.polygon.com/2015/2/16/8046579/bethesda-hits-fortress-fallout-maker-with-legal-name-change-demand" data-widget-id="AR_2" data-ob-template="Polygon" ></div>
 
 <script type="text/javascript" charset="utf-8">
 (function(){
@@ -1727,14 +1822,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     
         <div class="c-compact-river__entry ">
           
-<div class="c-entry-box--compact c-entry-box--compact--article" data-chorus-optimize-id="23838006" data-chorus-optimize-module="entry-box" >
+<div class="c-entry-box--compact c-entry-box--compact--article" data-chorus-optimize-id="23851639" data-chorus-optimize-module="entry-box" >
   
-    <a  aria-hidden="true" tabindex="-1"  href="https://www.polygon.com/24073965/avatar-last-airbender-best-season-2-atla-netflix" class="c-entry-box--compact__image-wrapper"  data-analytics-link="thelatest:image" data-analytics-viewport="thelatest">
+    <a  aria-hidden="true" tabindex="-1"  href="https://www.polygon.com/24087598/best-gaming-deals-dune-ttrpg-humble-bundle-nintendo-pokemon-deal-sale" class="c-entry-box--compact__image-wrapper"  data-analytics-link="thelatest:image" data-analytics-viewport="thelatest">
       
         <div class="c-entry-box--compact__image">
           
-<img class="c-dynamic-image " alt="A still from the Avatar: The Last Airbender animated tv series where Aang, Katara, and Sokka all look on Toph with disbelief with their mouths agape.  " width="2376" height="1761" data-chorus-optimize-field="main_image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs" data-cid="site/dynamic_size_image-1708320882_6981_6786" data-cdata='{"image_id":73148539,"ratio":"*"}'>
-<noscript><img alt="A still from the Avatar: The Last Airbender animated tv series where Aang, Katara, and Sokka all look on Toph with disbelief with their mouths agape.  " src="https://cdn.vox-cdn.com/uploads/chorus_image/image/73148539/AtlaBlindBandit.0.png"></noscript>
+<img class="c-dynamic-image " alt="Cover art for the Dune TTRPG shows a warrior in Atreides armor with a Harkonnen looming behind him. An ornithopter is parked in the foreground." width="3000" height="1688" data-chorus-optimize-field="main_image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs" data-cid="site/dynamic_size_image-1709408543_9854_22209" data-cdata='{"image_id":73177587,"ratio":"*"}'>
+<noscript><img alt="Cover art for the Dune TTRPG shows a warrior in Atreides armor with a Harkonnen looming behind him. An ornithopter is parked in the foreground." src="https://cdn.vox-cdn.com/uploads/chorus_image/image/73177587/dune_fall_of_the_imperium_cover_art_cropped.0.jpg"></noscript>
 
         </div>
       
@@ -1747,336 +1842,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     
     
     
-    <h2 class="c-entry-box--compact__title"><a data-chorus-optimize-field="hed" data-analytics-link="thelatest" data-analytics-viewport="thelatest" href="https://www.polygon.com/24073965/avatar-last-airbender-best-season-2-atla-netflix">The best way to rewatch Avatar: The Last Airbender is jumping right to season 2</a></h2>
+    <h2 class="c-entry-box--compact__title"><a data-chorus-optimize-field="hed" data-analytics-link="thelatest" data-analytics-viewport="thelatest" href="https://www.polygon.com/24087598/best-gaming-deals-dune-ttrpg-humble-bundle-nintendo-pokemon-deal-sale">Dive into the Dune: Adventures in the Imperium TTRPG for just $18</a></h2>
     
     
     
       
-        <div class="c-byline" data-cid="site/byline-1708320882_3595_6788" data-cdata='{"timestamp":null}'>
-  <span class="c-byline-wrapper">
-    
-      By
-      <span class="c-byline__item">
-        
-          
-          <a href="https://www.polygon.com/authors/ana-diaz" data-analytics-link="author-name"><span class="c-byline__author-name">Ana Diaz</span></a>
-        
-      </span>
-      
-      
-      
-    
-    
-      <span class="c-byline__item">
-        <div class="c-entry-stat--words">
-  <a href="https://www.polygon.com/24073965/avatar-last-airbender-best-season-2-atla-netflix#comments" data-ui="comment">
-    
-      <span class="coral-count" data-coral-url="https://www.polygon.com/24073965/avatar-last-airbender-best-season-2-atla-netflix"></span>
-    
-    <span class="c-entry-stat--words__unread" data-ui="unread">
-      / <span class="c-entry-stat__comment-data" data-ui="unread-data"></span>
-      <span class="c-entry-stat--words__word">new</span>
-    </span>
-  </a>
-</div>
-
-      </span>
-    
-  </span>
-  <span class="c-byline__gear">
-    <a data-entry-admin="23838006" data-cid="tools/entry_admin_button-1708320882_4802_6787" data-cdata='{"id":23838006}'></a>
-
-  </span>
-</div>
-
-      
-    
-    
-    
-
-    
-  </div>
-
-  
-
-  
-</div>
-
-        </div>
-      
-    
-    
-        <div class="c-compact-river__entry ">
-          
-<div class="c-entry-box--compact c-entry-box--compact--article" data-chorus-optimize-id="23836965" data-chorus-optimize-module="entry-box" >
-  
-    <a  aria-hidden="true" tabindex="-1"  href="https://www.polygon.com/24072924/buy-switch-or-switch-2" class="c-entry-box--compact__image-wrapper"  data-analytics-link="thelatest:image" data-analytics-viewport="thelatest">
-      
-        <div class="c-entry-box--compact__image">
-          
-<img class="c-dynamic-image " alt="An image composition with a picture of a Nintendo Switch split into two equal parts. On the left, the Switch OLED is showing a screenshot from The Legend of Zelda: Tears of the Kingdom. The right half is obscured in black, as if to express that it’s Nintendo’s upcoming Switch 2." width="2883" height="1923" data-chorus-optimize-field="main_image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs" data-cid="site/dynamic_size_image-1708320882_2872_6789" data-cdata='{"image_id":73148399,"ratio":"*"}'>
-<noscript><img alt="An image composition with a picture of a Nintendo Switch split into two equal parts. On the left, the Switch OLED is showing a screenshot from The Legend of Zelda: Tears of the Kingdom. The right half is obscured in black, as if to express that it’s Nintendo’s upcoming Switch 2." src="https://cdn.vox-cdn.com/uploads/chorus_image/image/73148399/switch1or2.0.jpg"></noscript>
-
-        </div>
-      
-      
-      
-      
-    </a>
-  
-  <div class="c-entry-box--compact__body">
-    
-    
-    
-    <h2 class="c-entry-box--compact__title"><a data-chorus-optimize-field="hed" data-analytics-link="thelatest" data-analytics-viewport="thelatest" href="https://www.polygon.com/24072924/buy-switch-or-switch-2">With the Switch 2 on the way, is it a bad idea to buy the regular Switch?</a></h2>
-    
-    
-    
-      
-        <div class="c-byline" data-cid="site/byline-1708320882_1660_6791" data-cdata='{"timestamp":null}'>
-  <span class="c-byline-wrapper">
-    
-      By
-      <span class="c-byline__item">
-        
-          
-          <a href="https://www.polygon.com/authors/cameronfaulkner" data-analytics-link="author-name"><span class="c-byline__author-name">Cameron Faulkner</span></a>
-        
-      </span>
-      
-      
-      
-    
-    
-      <span class="c-byline__item">
-        <div class="c-entry-stat--words">
-  <a href="https://www.polygon.com/24072924/buy-switch-or-switch-2#comments" data-ui="comment">
-    
-      <span class="coral-count" data-coral-url="https://www.polygon.com/24072924/buy-switch-or-switch-2"></span>
-    
-    <span class="c-entry-stat--words__unread" data-ui="unread">
-      / <span class="c-entry-stat__comment-data" data-ui="unread-data"></span>
-      <span class="c-entry-stat--words__word">new</span>
-    </span>
-  </a>
-</div>
-
-      </span>
-    
-  </span>
-  <span class="c-byline__gear">
-    <a data-entry-admin="23836965" data-cid="tools/entry_admin_button-1708320882_1715_6790" data-cdata='{"id":23836965}'></a>
-
-  </span>
-</div>
-
-      
-    
-    
-    
-
-    
-  </div>
-
-  
-
-  
-</div>
-
-        </div>
-      
-    
-    
-        <div class="c-compact-river__entry ">
-          
-<div class="c-entry-box--compact c-entry-box--compact--article" data-chorus-optimize-id="23839108" data-chorus-optimize-module="entry-box" >
-  
-    <a  aria-hidden="true" tabindex="-1"  href="https://www.polygon.com/24075067/dune-star-wars-frank-herbert-george-lucas" class="c-entry-box--compact__image-wrapper"  data-analytics-link="thelatest:image" data-analytics-viewport="thelatest">
-      
-        <div class="c-entry-box--compact__image">
-          
-<img class="c-dynamic-image " alt="Luke Skywalker from Star Wars: A New Hope stands on the desert planet of Tatooine in front of his speeder" width="1920" height="1080" data-chorus-optimize-field="main_image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs" data-cid="site/dynamic_size_image-1708320882_6991_6792" data-cdata='{"image_id":73147006,"ratio":"*"}'>
-<noscript><img alt="Luke Skywalker from Star Wars: A New Hope stands on the desert planet of Tatooine in front of his speeder" src="https://cdn.vox-cdn.com/uploads/chorus_image/image/73147006/skywalker-luke.0.0.jpg"></noscript>
-
-        </div>
-      
-      
-      
-      
-    </a>
-  
-  <div class="c-entry-box--compact__body">
-    
-    
-    
-    <h2 class="c-entry-box--compact__title"><a data-chorus-optimize-field="hed" data-analytics-link="thelatest" data-analytics-viewport="thelatest" href="https://www.polygon.com/24075067/dune-star-wars-frank-herbert-george-lucas">Frank Herbert always thought Star Wars was a Dune ripoff</a></h2>
-    
-    
-    
-      
-        <div class="c-byline" data-cid="site/byline-1708320882_1000_6794" data-cdata='{"timestamp":null}'>
-  <span class="c-byline-wrapper">
-    
-      By
-      <span class="c-byline__item">
-        
-          
-          <a href="https://www.polygon.com/authors/austen-goslin" data-analytics-link="author-name"><span class="c-byline__author-name">Austen Goslin</span></a>
-        
-      </span>
-      
-      
-      
-    
-    
-      <span class="c-byline__item">
-        <div class="c-entry-stat--words">
-  <a href="https://www.polygon.com/24075067/dune-star-wars-frank-herbert-george-lucas#comments" data-ui="comment">
-    
-      <span class="coral-count" data-coral-url="https://www.polygon.com/24075067/dune-star-wars-frank-herbert-george-lucas"></span>
-    
-    <span class="c-entry-stat--words__unread" data-ui="unread">
-      / <span class="c-entry-stat__comment-data" data-ui="unread-data"></span>
-      <span class="c-entry-stat--words__word">new</span>
-    </span>
-  </a>
-</div>
-
-      </span>
-    
-  </span>
-  <span class="c-byline__gear">
-    <a data-entry-admin="23839108" data-cid="tools/entry_admin_button-1708320882_1825_6793" data-cdata='{"id":23839108}'></a>
-
-  </span>
-</div>
-
-      
-    
-    
-    
-
-    
-  </div>
-
-  
-
-  
-</div>
-
-        </div>
-      
-    
-    
-        <div class="c-compact-river__entry ">
-          
-<div class="c-entry-box--compact c-entry-box--compact--article" data-chorus-optimize-id="23834722" data-chorus-optimize-module="entry-box" >
-  
-    <a  aria-hidden="true" tabindex="-1"  href="https://www.polygon.com/what-to-watch/2024/2/17/24070681/best-sci-fi-movies-watch-netflix-february-2024" class="c-entry-box--compact__image-wrapper"  data-analytics-link="thelatest:image" data-analytics-viewport="thelatest">
-      
-        <div class="c-entry-box--compact__image">
-          
-<img class="c-dynamic-image " alt="A man (Don Lee) points a shotgun through a hole while a young man and a woman stand behind him in a darkened hallway in Badland Hunters." width="6000" height="4000" data-chorus-optimize-field="main_image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs" data-cid="site/dynamic_size_image-1708320882_9257_6795" data-cdata='{"image_id":73146532,"ratio":"*"}'>
-<noscript><img alt="A man (Don Lee) points a shotgun through a hole while a young man and a woman stand behind him in a darkened hallway in Badland Hunters." src="https://cdn.vox-cdn.com/uploads/chorus_image/image/73146532/BadlandH_UNIT_0057.0.jpg"></noscript>
-
-        </div>
-      
-      
-      
-      
-    </a>
-  
-  <div class="c-entry-box--compact__body">
-    
-    
-    
-    <h2 class="c-entry-box--compact__title"><a data-chorus-optimize-field="hed" data-analytics-link="thelatest" data-analytics-viewport="thelatest" href="https://www.polygon.com/what-to-watch/2024/2/17/24070681/best-sci-fi-movies-watch-netflix-february-2024">The best sci-fi movies to watch on Netflix this February</a></h2>
-    
-    
-    
-      
-        <div class="c-byline" data-cid="site/byline-1708320882_9620_6797" data-cdata='{"timestamp":null}'>
-  <span class="c-byline-wrapper">
-    
-      By
-      <span class="c-byline__item">
-        
-          
-          <a href="https://www.polygon.com/authors/toussaint-egan" data-analytics-link="author-name"><span class="c-byline__author-name">Toussaint Egan</span></a> and <a href="https://www.polygon.com/authors/polygon-staff" data-analytics-link="author-name"><span class="c-byline__author-name">Polygon Staff</span></a>
-        
-      </span>
-      
-      
-      
-    
-    
-      <span class="c-byline__item">
-        <div class="c-entry-stat--words">
-  <a href="https://www.polygon.com/what-to-watch/2024/2/17/24070681/best-sci-fi-movies-watch-netflix-february-2024#comments" data-ui="comment">
-    
-      <span class="coral-count" data-coral-url="https://www.polygon.com/what-to-watch/2024/2/17/24070681/best-sci-fi-movies-watch-netflix-february-2024"></span>
-    
-    <span class="c-entry-stat--words__unread" data-ui="unread">
-      / <span class="c-entry-stat__comment-data" data-ui="unread-data"></span>
-      <span class="c-entry-stat--words__word">new</span>
-    </span>
-  </a>
-</div>
-
-      </span>
-    
-  </span>
-  <span class="c-byline__gear">
-    <a data-entry-admin="23834722" data-cid="tools/entry_admin_button-1708320882_8657_6796" data-cdata='{"id":23834722}'></a>
-
-  </span>
-</div>
-
-      
-    
-    
-    
-
-    
-  </div>
-
-  
-
-  
-</div>
-
-        </div>
-      
-    
-    
-        <div class="c-compact-river__entry ">
-          
-<div class="c-entry-box--compact c-entry-box--compact--article" data-chorus-optimize-id="23838929" data-chorus-optimize-module="entry-box" >
-  
-    <a  aria-hidden="true" tabindex="-1"  href="https://www.polygon.com/24074888/best-gaming-deals-presidents-day-sale" class="c-entry-box--compact__image-wrapper"  data-analytics-link="thelatest:image" data-analytics-viewport="thelatest">
-      
-        <div class="c-entry-box--compact__image">
-          
-<img class="c-dynamic-image " alt="A screenshot of a shirtless politician in Metal Gear Rising: Revengeance" width="1024" height="536" data-chorus-optimize-field="main_image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs" data-cid="site/dynamic_size_image-1708320882_1705_6798" data-cdata='{"image_id":73146325,"ratio":"*"}'>
-<noscript><img alt="A screenshot of a shirtless politician in Metal Gear Rising: Revengeance" src="https://cdn.vox-cdn.com/uploads/chorus_image/image/73146325/a9mkgybh.0.png"></noscript>
-
-        </div>
-      
-      
-      
-      
-    </a>
-  
-  <div class="c-entry-box--compact__body">
-    
-    
-    
-    <h2 class="c-entry-box--compact__title"><a data-chorus-optimize-field="hed" data-analytics-link="thelatest" data-analytics-viewport="thelatest" href="https://www.polygon.com/24074888/best-gaming-deals-presidents-day-sale">The best President’s Day deals</a></h2>
-    
-    
-    
-      
-        <div class="c-byline" data-cid="site/byline-1708320882_8780_6800" data-cdata='{"timestamp":null}'>
+        <div class="c-byline" data-cid="site/byline-1709408543_3692_22211" data-cdata='{"timestamp":null}'>
   <span class="c-byline-wrapper">
     
       By
@@ -2093,9 +1864,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     
       <span class="c-byline__item">
         <div class="c-entry-stat--words">
-  <a href="https://www.polygon.com/24074888/best-gaming-deals-presidents-day-sale#comments" data-ui="comment">
+  <a href="https://www.polygon.com/24087598/best-gaming-deals-dune-ttrpg-humble-bundle-nintendo-pokemon-deal-sale#comments" data-ui="comment">
     
-      <span class="coral-count" data-coral-url="https://www.polygon.com/24074888/best-gaming-deals-presidents-day-sale"></span>
+      <span class="coral-count" data-coral-url="https://www.polygon.com/24087598/best-gaming-deals-dune-ttrpg-humble-bundle-nintendo-pokemon-deal-sale"></span>
     
     <span class="c-entry-stat--words__unread" data-ui="unread">
       / <span class="c-entry-stat__comment-data" data-ui="unread-data"></span>
@@ -2108,7 +1879,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     
   </span>
   <span class="c-byline__gear">
-    <a data-entry-admin="23838929" data-cid="tools/entry_admin_button-1708320882_3299_6799" data-cdata='{"id":23838929}'></a>
+    <a data-entry-admin="23851639" data-cid="tools/entry_admin_button-1709408543_2562_22210" data-cdata='{"id":23851639}'></a>
 
   </span>
 </div>
@@ -2132,14 +1903,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     
         <div class="c-compact-river__entry ">
           
-<div class="c-entry-box--compact c-entry-box--compact--article" data-chorus-optimize-id="23832049" data-chorus-optimize-module="entry-box" >
+<div class="c-entry-box--compact c-entry-box--compact--article" data-chorus-optimize-id="23848866" data-chorus-optimize-module="entry-box" >
   
-    <a  aria-hidden="true" tabindex="-1"  href="https://www.polygon.com/2024/2/16/24068008/new-movies-watch-oppenheimer-netflix-thanksgiving-iron-claw" class="c-entry-box--compact__image-wrapper"  data-analytics-link="thelatest:image" data-analytics-viewport="thelatest">
+    <a  aria-hidden="true" tabindex="-1"  href="https://www.polygon.com/anime/24084825/anime-awards-2024-winners-list-jujutsu-kaisen-demon-slayer-chainsaw-man" class="c-entry-box--compact__image-wrapper"  data-analytics-link="thelatest:image" data-analytics-viewport="thelatest">
       
         <div class="c-entry-box--compact__image">
           
-<img class="c-dynamic-image " alt="Two of the Von Erich brothers raise their fists above the ring in The Iron Claw" width="2000" height="1500" data-chorus-optimize-field="main_image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs" data-cid="site/dynamic_size_image-1708320882_6645_6801" data-cdata='{"image_id":73145722,"ratio":"*"}'>
-<noscript><img alt="Two of the Von Erich brothers raise their fists above the ring in The Iron Claw" src="https://cdn.vox-cdn.com/uploads/chorus_image/image/73145722/xNWnYXaj.0.jpg"></noscript>
+<img class="c-dynamic-image " alt="A white haired anime man smiling in front of a golden sky with his right arm raised." width="1920" height="1080" data-chorus-optimize-field="main_image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs" data-cid="site/dynamic_size_image-1709408543_1163_22212" data-cdata='{"image_id":73177560,"ratio":"*"}'>
+<noscript><img alt="A white haired anime man smiling in front of a golden sky with his right arm raised." src="https://cdn.vox-cdn.com/uploads/chorus_image/image/73177560/25148834.0.jpg"></noscript>
 
         </div>
       
@@ -2152,12 +1923,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     
     
     
-    <h2 class="c-entry-box--compact__title"><a data-chorus-optimize-field="hed" data-analytics-link="thelatest" data-analytics-viewport="thelatest" href="https://www.polygon.com/2024/2/16/24068008/new-movies-watch-oppenheimer-netflix-thanksgiving-iron-claw">Oppenheimer, Thanksgiving on Netflix, The Iron Claw, and every new movie to watch this weekend</a></h2>
+    <h2 class="c-entry-box--compact__title"><a data-chorus-optimize-field="hed" data-analytics-link="thelatest" data-analytics-viewport="thelatest" href="https://www.polygon.com/anime/24084825/anime-awards-2024-winners-list-jujutsu-kaisen-demon-slayer-chainsaw-man">Anime Awards 2024 names Jujutsu Kaisen season 2 Anime of the Year</a></h2>
     
     
     
       
-        <div class="c-byline" data-cid="site/byline-1708320882_6785_6803" data-cdata='{"timestamp":null}'>
+        <div class="c-byline" data-cid="site/byline-1709408543_23_22214" data-cdata='{"timestamp":null}'>
   <span class="c-byline-wrapper">
     
       By
@@ -2174,9 +1945,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     
       <span class="c-byline__item">
         <div class="c-entry-stat--words">
-  <a href="https://www.polygon.com/2024/2/16/24068008/new-movies-watch-oppenheimer-netflix-thanksgiving-iron-claw#comments" data-ui="comment">
+  <a href="https://www.polygon.com/anime/24084825/anime-awards-2024-winners-list-jujutsu-kaisen-demon-slayer-chainsaw-man#comments" data-ui="comment">
     
-      <span class="coral-count" data-coral-url="https://www.polygon.com/2024/2/16/24068008/new-movies-watch-oppenheimer-netflix-thanksgiving-iron-claw"></span>
+      <span class="coral-count" data-coral-url="https://www.polygon.com/anime/24084825/anime-awards-2024-winners-list-jujutsu-kaisen-demon-slayer-chainsaw-man"></span>
     
     <span class="c-entry-stat--words__unread" data-ui="unread">
       / <span class="c-entry-stat__comment-data" data-ui="unread-data"></span>
@@ -2189,7 +1960,331 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
     
   </span>
   <span class="c-byline__gear">
-    <a data-entry-admin="23832049" data-cid="tools/entry_admin_button-1708320882_8252_6802" data-cdata='{"id":23832049}'></a>
+    <a data-entry-admin="23848866" data-cid="tools/entry_admin_button-1709408543_2568_22213" data-cdata='{"id":23848866}'></a>
+
+  </span>
+</div>
+
+      
+    
+    
+    
+
+    
+  </div>
+
+  
+
+  
+</div>
+
+        </div>
+      
+    
+    
+        <div class="c-compact-river__entry ">
+          
+<div class="c-entry-box--compact c-entry-box--compact--article" data-chorus-optimize-id="23847547" data-chorus-optimize-module="entry-box" >
+  
+    <a  aria-hidden="true" tabindex="-1"  href="https://www.polygon.com/2024/3/1/24083506/new-movies-watch-poor-things-aquaman-2-netflix-code-8-napoleon" class="c-entry-box--compact__image-wrapper"  data-analytics-link="thelatest:image" data-analytics-viewport="thelatest">
+      
+        <div class="c-entry-box--compact__image">
+          
+<img class="c-dynamic-image " alt="Emma Stone as Bella Baxter lounging in a garden chair, holding a book, smiling, and raising a cocktail glass in Poor Things" width="1920" height="1080" data-chorus-optimize-field="main_image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs" data-cid="site/dynamic_size_image-1709408543_9416_22215" data-cdata='{"image_id":73176921,"ratio":"*"}'>
+<noscript><img alt="Emma Stone as Bella Baxter lounging in a garden chair, holding a book, smiling, and raising a cocktail glass in Poor Things" src="https://cdn.vox-cdn.com/uploads/chorus_image/image/73176921/poor_things_1.0.jpg"></noscript>
+
+        </div>
+      
+      
+      
+      
+    </a>
+  
+  <div class="c-entry-box--compact__body">
+    
+    
+    
+    <h2 class="c-entry-box--compact__title"><a data-chorus-optimize-field="hed" data-analytics-link="thelatest" data-analytics-viewport="thelatest" href="https://www.polygon.com/2024/3/1/24083506/new-movies-watch-poor-things-aquaman-2-netflix-code-8-napoleon">Poor Things, Aquaman 2, Netflix’s Spaceman, and every new movie to watch this weekend</a></h2>
+    
+    
+    
+      
+        <div class="c-byline" data-cid="site/byline-1709408543_5680_22217" data-cdata='{"timestamp":null}'>
+  <span class="c-byline-wrapper">
+    
+      By
+      <span class="c-byline__item">
+        
+          
+          <a href="https://www.polygon.com/authors/pete-volk" data-analytics-link="author-name"><span class="c-byline__author-name">Pete Volk</span></a>
+        
+      </span>
+      
+      
+      
+    
+    
+      <span class="c-byline__item">
+        <div class="c-entry-stat--words">
+  <a href="https://www.polygon.com/2024/3/1/24083506/new-movies-watch-poor-things-aquaman-2-netflix-code-8-napoleon#comments" data-ui="comment">
+    
+      <span class="coral-count" data-coral-url="https://www.polygon.com/2024/3/1/24083506/new-movies-watch-poor-things-aquaman-2-netflix-code-8-napoleon"></span>
+    
+    <span class="c-entry-stat--words__unread" data-ui="unread">
+      / <span class="c-entry-stat__comment-data" data-ui="unread-data"></span>
+      <span class="c-entry-stat--words__word">new</span>
+    </span>
+  </a>
+</div>
+
+      </span>
+    
+  </span>
+  <span class="c-byline__gear">
+    <a data-entry-admin="23847547" data-cid="tools/entry_admin_button-1709408543_695_22216" data-cdata='{"id":23847547}'></a>
+
+  </span>
+</div>
+
+      
+    
+    
+    
+
+    
+  </div>
+
+  
+
+  
+</div>
+
+        </div>
+      
+    
+    
+        <div class="c-compact-river__entry ">
+          
+<div class="c-entry-box--compact c-entry-box--compact--article" data-chorus-optimize-id="23851963" data-chorus-optimize-module="entry-box" >
+  
+    <a  aria-hidden="true" tabindex="-1"  href="https://www.polygon.com/elden-ring-guide-walkthrough/24087922/mohg-how-to-beat-boss-strategy" class="c-entry-box--compact__image-wrapper"  data-analytics-link="thelatest:image" data-analytics-viewport="thelatest">
+      
+        <div class="c-entry-box--compact__image">
+          
+<img class="c-dynamic-image " alt="A screenshot of Mohg, Lord of Blood in his mausoleum as he is about to attack the player in Elden Ring" width="1920" height="1080" data-chorus-optimize-field="main_image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs" data-cid="site/dynamic_size_image-1709408543_6480_22218" data-cdata='{"image_id":73176777,"ratio":"*"}'>
+<noscript><img alt="A screenshot of Mohg, Lord of Blood in his mausoleum as he is about to attack the player in Elden Ring" src="https://cdn.vox-cdn.com/uploads/chorus_image/image/73176777/Elden_Ring___Mohg__Lord_of_Blood.0.jpg"></noscript>
+
+        </div>
+      
+      
+      
+      
+    </a>
+  
+  <div class="c-entry-box--compact__body">
+    
+    
+    
+    <h2 class="c-entry-box--compact__title"><a data-chorus-optimize-field="hed" data-analytics-link="thelatest" data-analytics-viewport="thelatest" href="https://www.polygon.com/elden-ring-guide-walkthrough/24087922/mohg-how-to-beat-boss-strategy">How to beat Mohg, Lord of Blood, in Elden Ring</a></h2>
+    
+    
+    
+      
+        <div class="c-byline" data-cid="site/byline-1709408543_2423_22220" data-cdata='{"timestamp":null}'>
+  <span class="c-byline-wrapper">
+    
+      By
+      <span class="c-byline__item">
+        
+          
+          <a href="https://www.polygon.com/authors/michael-mcwhertor" data-analytics-link="author-name"><span class="c-byline__author-name">Michael McWhertor</span></a>
+        
+      </span>
+      
+      
+      
+    
+    
+      <span class="c-byline__item">
+        <div class="c-entry-stat--words">
+  <a href="https://www.polygon.com/elden-ring-guide-walkthrough/24087922/mohg-how-to-beat-boss-strategy#comments" data-ui="comment">
+    
+      <span class="coral-count" data-coral-url="https://www.polygon.com/elden-ring-guide-walkthrough/24087922/mohg-how-to-beat-boss-strategy"></span>
+    
+    <span class="c-entry-stat--words__unread" data-ui="unread">
+      / <span class="c-entry-stat__comment-data" data-ui="unread-data"></span>
+      <span class="c-entry-stat--words__word">new</span>
+    </span>
+  </a>
+</div>
+
+      </span>
+    
+  </span>
+  <span class="c-byline__gear">
+    <a data-entry-admin="23851963" data-cid="tools/entry_admin_button-1709408543_5555_22219" data-cdata='{"id":23851963}'></a>
+
+  </span>
+</div>
+
+      
+    
+    
+    
+
+    
+  </div>
+
+  
+
+  
+</div>
+
+        </div>
+      
+    
+    
+        <div class="c-compact-river__entry ">
+          
+<div class="c-entry-box--compact c-entry-box--compact--article" data-chorus-optimize-id="23851807" data-chorus-optimize-module="entry-box" >
+  
+    <a  aria-hidden="true" tabindex="-1"  href="https://www.polygon.com/elden-ring-shadow-erdtree-guide/24087766/how-to-start-dlc-access-point-location-miquellas-cocoon" class="c-entry-box--compact__image-wrapper"  data-analytics-link="thelatest:image" data-analytics-viewport="thelatest">
+      
+        <div class="c-entry-box--compact__image">
+          
+<img class="c-dynamic-image " alt="Miquella’s cocoon in Mohgwyn Dynasty Mausoleum after being activated by Mohg, a screenshot from Elden Ring" width="3840" height="2160" data-chorus-optimize-field="main_image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs" data-cid="site/dynamic_size_image-1709408543_1254_22221" data-cdata='{"image_id":73176778,"ratio":"*"}'>
+<noscript><img alt="Miquella’s cocoon in Mohgwyn Dynasty Mausoleum after being activated by Mohg, a screenshot from Elden Ring" src="https://cdn.vox-cdn.com/uploads/chorus_image/image/73176778/ELDEN_RING__20240228210528.0.jpg"></noscript>
+
+        </div>
+      
+      
+      
+      
+    </a>
+  
+  <div class="c-entry-box--compact__body">
+    
+    
+    
+    <h2 class="c-entry-box--compact__title"><a data-chorus-optimize-field="hed" data-analytics-link="thelatest" data-analytics-viewport="thelatest" href="https://www.polygon.com/elden-ring-shadow-erdtree-guide/24087766/how-to-start-dlc-access-point-location-miquellas-cocoon">How to access Elden Ring’s Shadow of the Erdtree DLC</a></h2>
+    
+    
+    
+      
+        <div class="c-byline" data-cid="site/byline-1709408543_8226_22223" data-cdata='{"timestamp":null}'>
+  <span class="c-byline-wrapper">
+    
+      By
+      <span class="c-byline__item">
+        
+          
+          <a href="https://www.polygon.com/authors/michael-mcwhertor" data-analytics-link="author-name"><span class="c-byline__author-name">Michael McWhertor</span></a>
+        
+      </span>
+      
+      
+      
+    
+    
+      <span class="c-byline__item">
+        <div class="c-entry-stat--words">
+  <a href="https://www.polygon.com/elden-ring-shadow-erdtree-guide/24087766/how-to-start-dlc-access-point-location-miquellas-cocoon#comments" data-ui="comment">
+    
+      <span class="coral-count" data-coral-url="https://www.polygon.com/elden-ring-shadow-erdtree-guide/24087766/how-to-start-dlc-access-point-location-miquellas-cocoon"></span>
+    
+    <span class="c-entry-stat--words__unread" data-ui="unread">
+      / <span class="c-entry-stat__comment-data" data-ui="unread-data"></span>
+      <span class="c-entry-stat--words__word">new</span>
+    </span>
+  </a>
+</div>
+
+      </span>
+    
+  </span>
+  <span class="c-byline__gear">
+    <a data-entry-admin="23851807" data-cid="tools/entry_admin_button-1709408543_7876_22222" data-cdata='{"id":23851807}'></a>
+
+  </span>
+</div>
+
+      
+    
+    
+    
+
+    
+  </div>
+
+  
+
+  
+</div>
+
+        </div>
+      
+    
+    
+        <div class="c-compact-river__entry ">
+          
+<div class="c-entry-box--compact c-entry-box--compact--article" data-chorus-optimize-id="23851970" data-chorus-optimize-module="entry-box" >
+  
+    <a  aria-hidden="true" tabindex="-1"  href="https://www.polygon.com/final-fantasy-7-rebirth-ff7r-guide/24087929/quetzalcoatl-talon-how-to-get-windmill-part-side-quest" class="c-entry-box--compact__image-wrapper"  data-analytics-link="thelatest:image" data-analytics-viewport="thelatest">
+      
+        <div class="c-entry-box--compact__image">
+          
+<img class="c-dynamic-image " alt="Cloud and Barret approach a Quetzalcoatl in FF7 Rebirth" width="1843" height="1036" data-chorus-optimize-field="main_image" src="data:image/gif;base64,R0lGODlhAQABAIAAAAUEBAAAACwAAAAAAQABAAACAkQBADs" data-cid="site/dynamic_size_image-1709408543_7731_22224" data-cdata='{"image_id":73176720,"ratio":"*"}'>
+<noscript><img alt="Cloud and Barret approach a Quetzalcoatl in FF7 Rebirth" src="https://cdn.vox-cdn.com/uploads/chorus_image/image/73176720/obs64_2024_03_01_15_31_02.0.jpg"></noscript>
+
+        </div>
+      
+      
+      
+      
+    </a>
+  
+  <div class="c-entry-box--compact__body">
+    
+    
+    
+    <h2 class="c-entry-box--compact__title"><a data-chorus-optimize-field="hed" data-analytics-link="thelatest" data-analytics-viewport="thelatest" href="https://www.polygon.com/final-fantasy-7-rebirth-ff7r-guide/24087929/quetzalcoatl-talon-how-to-get-windmill-part-side-quest">How to get the Quetzalcoatl Talon in FF7 Rebirth</a></h2>
+    
+    
+    
+      
+        <div class="c-byline" data-cid="site/byline-1709408543_2940_22226" data-cdata='{"timestamp":null}'>
+  <span class="c-byline-wrapper">
+    
+      By
+      <span class="c-byline__item">
+        
+          
+          <a href="https://www.polygon.com/authors/julia-lee" data-analytics-link="author-name"><span class="c-byline__author-name">Julia Lee</span></a>
+        
+      </span>
+      
+      
+      
+    
+    
+      <span class="c-byline__item">
+        <div class="c-entry-stat--words">
+  <a href="https://www.polygon.com/final-fantasy-7-rebirth-ff7r-guide/24087929/quetzalcoatl-talon-how-to-get-windmill-part-side-quest#comments" data-ui="comment">
+    
+      <span class="coral-count" data-coral-url="https://www.polygon.com/final-fantasy-7-rebirth-ff7r-guide/24087929/quetzalcoatl-talon-how-to-get-windmill-part-side-quest"></span>
+    
+    <span class="c-entry-stat--words__unread" data-ui="unread">
+      / <span class="c-entry-stat__comment-data" data-ui="unread-data"></span>
+      <span class="c-entry-stat--words__word">new</span>
+    </span>
+  </a>
+</div>
+
+      </span>
+    
+  </span>
+  <span class="c-byline__gear">
+    <a data-entry-admin="23851970" data-cid="tools/entry_admin_button-1709408543_8823_22225" data-cdata='{"id":23851970}'></a>
 
   </span>
 </div>
@@ -2230,7 +2325,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 
-    <footer class="c-footer" role="contentinfo" data-cid="site/global_footer-1708317631_8212_45428" data-cdata="{}">
+    <footer class="c-footer" role="contentinfo" data-cid="site/global_footer-1709405269_5010_40857" data-cdata="{}">
   <div class="l-wrapper c-footer__wrapper">
     <div class="c-footer__section c-footer__section-logo">
       <a rel="nofollow" href="/" class="c-footer__logo-link">
@@ -2301,7 +2396,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   </div>
 </footer>
 
-    <div class="c-tab-bar " data-cid="site/tab_bar/index-1708320882_1986_6807" data-cdata="{}">
+    <div class="c-tab-bar " data-cid="site/tab_bar/index-1709408543_8360_22230" data-cdata="{}">
   <a href="/" class="c-tab-bar__logo">
     
       
@@ -2355,14 +2450,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
   </a>
   
     
-<div class="c-social-buttons" data-analytics-placement="sticky" aria-labelledby="heading-label--8czb3r7y" data-cid="site/social_buttons_list-1708320882_4129_6806" data-cdata='{"entry_id":9254150,"services":["reddit","facebook"],"base_url":"https://www.polygon.com/2015/10/9/9490109/minecraft-streamer-buys-4-5m-hollywood-home-notch-captain-sparklez"}'>
-  <h2 class="sr-only" id="heading-label--8czb3r7y">Share this story</h2>
+<div class="c-social-buttons" data-analytics-placement="sticky" aria-labelledby="heading-label--clj7axh2" data-cid="site/social_buttons_list-1709408543_1931_22229" data-cdata='{"entry_id":7810620,"services":["reddit","facebook"],"base_url":"https://www.polygon.com/2015/2/16/8046579/bethesda-hits-fortress-fallout-maker-with-legal-name-change-demand"}'>
+  <h2 class="sr-only" id="heading-label--clj7axh2">Share this story</h2>
   
     <ul>
       
         
           <li>
-            <a class="c-social-buttons__item c-social-buttons__reddit" href="https://reddit.com/submit?title=Minecraft+streamer+buys+%244.5M+Hollywood+home%2C+not+far+from+Notch%27s+mansion&amp;url=https%3A%2F%2Fwww.polygon.com%2F2015%2F10%2F9%2F9490109%2Fminecraft-streamer-buys-4-5m-hollywood-home-notch-captain-sparklez" data-analytics-social="reddit">
+            <a class="c-social-buttons__item c-social-buttons__reddit" href="https://reddit.com/submit?title=Bethesda+hits+Fortress+Fallout+maker+with+legal+name-change+demand&amp;url=https%3A%2F%2Fwww.polygon.com%2F2015%2F2%2F16%2F8046579%2Fbethesda-hits-fortress-fallout-maker-with-legal-name-change-demand" data-analytics-social="reddit">
               <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 17 17" class="p-svg-icon c-social-buttons__svg">
 <path d="M8.5,0C3.8,0,0,3.8,0,8.5S3.8,17,8.5,17S17,13.2,17,8.5S13.2,0,8.5,0z M14,10.2c0,0.1,0,0.3,0,0.4c0,2.2-2.5,3.9-5.6,3.9
   s-5.6-1.8-5.6-3.9c0-0.2,0-0.3,0-0.5C2.5,9.9,2.2,9.4,2.2,8.9c0-0.8,0.6-1.5,1.4-1.5c0.4,0,0.7,0.2,0.9,0.4C5.2,7.3,6,6.9,7,6.8
@@ -2383,7 +2478,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
       
         
           <li>
-            <a class="c-social-buttons__item c-social-buttons__facebook" href="https://www.facebook.com/sharer/sharer.php?text=Minecraft+streamer+buys+%244.5M+Hollywood+home%2C+not+far+from+Notch%27s+mansion&amp;u=https%3A%2F%2Fwww.polygon.com%2F2015%2F10%2F9%2F9490109%2Fminecraft-streamer-buys-4-5m-hollywood-home-notch-captain-sparklez" data-analytics-social="facebook">
+            <a class="c-social-buttons__item c-social-buttons__facebook" href="https://www.facebook.com/sharer/sharer.php?text=Bethesda+hits+Fortress+Fallout+maker+with+legal+name-change+demand&amp;u=https%3A%2F%2Fwww.polygon.com%2F2015%2F2%2F16%2F8046579%2Fbethesda-hits-fortress-fallout-maker-with-legal-name-change-demand" data-analytics-social="facebook">
               <svg role="img" class="p-svg-icon c-social-buttons__svg"><use xlink:href="#icon-facebook"></use></svg>
               <span class="c-social-buttons__text">
                 Facebook

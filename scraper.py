@@ -1,4 +1,4 @@
-import math, pickle
+import math, pickle ,os
 from bs4 import BeautifulSoup
 from urllib import request
 from urllib.parse import urljoin
@@ -28,9 +28,10 @@ def scrape(link, count):
 
     #write the raw html to a file
     count += 1
-    f = open(f'{count}.txt', "w+")
-    f.write(html)
-    f.close()
+    if not os.path.exists('./raw'):
+        os.makedirs('./raw')
+    with open(f'./raw/{count}.txt', "w+") as f:
+        f.write(html)
     
     #returning the soup object and count of files
     return soup, count
@@ -95,10 +96,12 @@ def clean(number):
     for x in range(1,number+1):
         #opening the files
         try:
-            f_in = open(f"{x}.txt",'r')
+            f_in = open(f"./raw/{x}.txt",'r')
         except FileNotFoundError:
             break
-        f_out = open(f"{x}cleaned.txt", 'w')
+        if not os.path.exists('./cleaned'):
+            os.makedirs('./cleaned')
+        f_out = open(f"./cleaned/{x}cleaned.txt", 'w')
 
         #reading in the raw html and making a soup object
         html = f_in.read()
@@ -152,7 +155,7 @@ def extract(number):
     for x in range(1,number+1):
         #opening a file and reading it in
         try:
-            f_in = open(f"{x}cleaned.txt",'r')
+            f_in = open(f"./cleaned/{x}cleaned.txt",'r')
         except FileNotFoundError:
             continue
         text = f_in.read().lower()
@@ -230,9 +233,9 @@ def make_knowledge_base():
 def main():
     link = ["https://en.wikipedia.org/wiki/CaptainSparklez",]
     number = 18
-    #crawl(link, number)
-    #clean(number)
-    #extract(number)
+    crawl(link, number)
+    clean(number)
+    extract(number)
     make_knowledge_base()
 
 if __name__ == '__main__':

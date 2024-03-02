@@ -19,7 +19,7 @@
 	var dataLayer = dataLayer || [];
 </script>
 <!-- End Google Tag Manager for WordPress by gtm4wp.com -->
-	<!-- This site is optimized with the Yoast SEO Premium plugin v21.8 (Yoast SEO v21.8) - https://yoast.com/wordpress/plugins/seo/ -->
+	<!-- This site is optimized with the Yoast SEO Premium plugin v22.1 (Yoast SEO v22.1) - https://yoast.com/wordpress/plugins/seo/ -->
 	<title>Captain Sparklez hits 1 million subscribers</title>
 	<meta name="description" content="Game commentator joins elite club and does a backflip." />
 	<link rel="canonical" href="https://www.dailydot.com/upstream/captain-sparklez-1-million-subscribers/" />
@@ -54,7 +54,6 @@
 <link rel='dns-prefetch' href='//launcher-sa.spot.im' />
 <link rel='dns-prefetch' href='//cadmus.script.ac' />
 <link rel='dns-prefetch' href='//fonts.googleapis.com' />
-<link rel='dns-prefetch' href='//maxcdn.bootstrapcdn.com' />
 <link rel="alternate" type="application/rss+xml" title="The Daily Dot &raquo; Feed" href="https://www.dailydot.com/feed/" />
 <link rel="alternate" type="application/rss+xml" title="The Daily Dot &raquo; Stories Feed" href="https://www.dailydot.com/web-stories/feed/"><script type="text/javascript">
 /* <![CDATA[ */
@@ -79,7 +78,7 @@ window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14
 	}
 </style>
 <link rel='stylesheet' id='wp-block-library-css' href='https://www.dailydot.com/wp-includes/css/dist/block-library/style.min.css?ver=6.4.3' type='text/css' media='all' />
-<link rel='stylesheet' id='fp_compgrid-cgb-style-css-css' href='https://www.dailydot.com/wp-content/plugins/compgrid/dist/blocks.style.build.css?ver=1707561153' type='text/css' media='all' />
+<link rel='stylesheet' id='fp_compgrid-cgb-style-css-css' href='https://www.dailydot.com/wp-content/plugins/compgrid/dist/blocks.style.build.css?ver=1709327934' type='text/css' media='all' />
 <style id='classic-theme-styles-inline-css' type='text/css'>
 /*! This file is auto-generated */
 .wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
@@ -91,36 +90,35 @@ body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: 
 :where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
 .wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
 </style>
-<link rel='stylesheet' id='dyn2-style-css' href='https://www.dailydot.com/wp-content/plugins/dynamite2/dynamite.css?ver=1707561155' type='text/css' media='all' />
-<link rel='preload' as='style' onload="this.onload=null;this.rel='stylesheet'" id='ppress-frontend' href='https://www.dailydot.com/wp-content/plugins/wp-user-avatar/assets/css/frontend.min.css?ver=4.14.2' type='text/css' media='all' /><noscript><link rel="stylesheet" id="ppress-frontend" href='https://www.dailydot.com/wp-content/plugins/wp-user-avatar/assets/css/frontend.min.css?ver=4.14.2'></noscript><link rel='preload' as='style' onload="this.onload=null;this.rel='stylesheet'" id='ppress-flatpickr' href='https://www.dailydot.com/wp-content/plugins/wp-user-avatar/assets/flatpickr/flatpickr.min.css?ver=4.14.2' type='text/css' media='all' /><noscript><link rel="stylesheet" id="ppress-flatpickr" href='https://www.dailydot.com/wp-content/plugins/wp-user-avatar/assets/flatpickr/flatpickr.min.css?ver=4.14.2'></noscript><link rel='preload' as='style' onload="this.onload=null;this.rel='stylesheet'" id='ppress-select2' href='https://www.dailydot.com/wp-content/plugins/wp-user-avatar/assets/select2/select2.min.css?ver=1706780160' type='text/css' media='all' /><noscript><link rel="stylesheet" id="ppress-select2" href='https://www.dailydot.com/wp-content/plugins/wp-user-avatar/assets/select2/select2.min.css?ver=1706780160'></noscript><link rel='stylesheet' id='freepress-style-css' href='https://www.dailydot.com/wp-content/themes/freepress-ui/css/style.css?ver=1708119002' type='text/css' media='all' />
-<link rel='stylesheet' id='freepress-child-style-css' href='https://www.dailydot.com/wp-content/themes/dd-freepress/style.css?ver=1708118994' type='text/css' media='all' />
-<link rel='stylesheet' id='freepress-svg-css' href='https://www.dailydot.com/wp-content/themes/freepress-ui/fonts/dailydot.svg?ver=1708118994' type='text/css' media='all' />
+<link rel='stylesheet' id='cff-css' href='https://www.dailydot.com/wp-content/plugins/custom-facebook-feed/css/style.css?ver=1709327934' type='text/css' media='all' />
+<link rel='stylesheet' id='dyn2-style-css' href='https://www.dailydot.com/wp-content/plugins/dynamite2/dynamite.css?ver=1709327934' type='text/css' media='all' />
+<link rel='preload' as='style' onload="this.onload=null;this.rel='stylesheet'" id='ppress-frontend' href='https://www.dailydot.com/wp-content/plugins/wp-user-avatar/assets/css/frontend.min.css?ver=4.15.2' type='text/css' media='all' /><noscript><link rel="stylesheet" id="ppress-frontend" href='https://www.dailydot.com/wp-content/plugins/wp-user-avatar/assets/css/frontend.min.css?ver=4.15.2'></noscript><link rel='preload' as='style' onload="this.onload=null;this.rel='stylesheet'" id='ppress-flatpickr' href='https://www.dailydot.com/wp-content/plugins/wp-user-avatar/assets/flatpickr/flatpickr.min.css?ver=4.15.2' type='text/css' media='all' /><noscript><link rel="stylesheet" id="ppress-flatpickr" href='https://www.dailydot.com/wp-content/plugins/wp-user-avatar/assets/flatpickr/flatpickr.min.css?ver=4.15.2'></noscript><link rel='preload' as='style' onload="this.onload=null;this.rel='stylesheet'" id='ppress-select2' href='https://www.dailydot.com/wp-content/plugins/wp-user-avatar/assets/select2/select2.min.css?ver=1709327936' type='text/css' media='all' /><noscript><link rel="stylesheet" id="ppress-select2" href='https://www.dailydot.com/wp-content/plugins/wp-user-avatar/assets/select2/select2.min.css?ver=1709327936'></noscript><link rel='stylesheet' id='freepress-style-css' href='https://www.dailydot.com/wp-content/themes/freepress-ui/css/style.css?ver=1709327941' type='text/css' media='all' />
+<link rel='stylesheet' id='freepress-child-style-css' href='https://www.dailydot.com/wp-content/themes/dd-freepress/style.css?ver=1709327910' type='text/css' media='all' />
+<link rel='stylesheet' id='freepress-svg-css' href='https://www.dailydot.com/wp-content/themes/freepress-ui/fonts/dailydot.svg?ver=1709327910' type='text/css' media='all' />
 <link crossorigin="anonymous" rel='stylesheet' id='google-fonts-css' href='https://fonts.googleapis.com/css?family=Muli%3A400%2C400i%2C600%2C600i&#038;display=swap' type='text/css' media='all' />
-<link rel='preload' as='style' onload="this.onload=null;this.rel='stylesheet'" id='freepress-icons' href='https://www.dailydot.com/wp-content/themes/freepress-ui/fonts/icons.css?ver=1708118994' type='text/css' media='all' /><noscript><link rel="stylesheet" id="freepress-icons" href='https://www.dailydot.com/wp-content/themes/freepress-ui/fonts/icons.css?ver=1708118994'></noscript><link rel='stylesheet' id='freepress-footer-style-css' href='https://www.dailydot.com/wp-content/themes/freepress-ui/footer.css?ver=1708118994' type='text/css' media='all' />
-<link rel='stylesheet' id='cff-css' href='https://www.dailydot.com/wp-content/plugins/custom-facebook-feed/assets/css/cff-style.min.css?ver=4.2.1' type='text/css' media='all' />
-<link crossorigin="anonymous" rel='stylesheet' id='sb-font-awesome-css' href='https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css' type='text/css' media='all' />
-<link rel='preload' as='style' onload="this.onload=null;this.rel='stylesheet'" id='sailthru-subscribe-widget-styles' href='https://www.dailydot.com/wp-content/plugins/sailthru-widget/css/widget.subscribe.css?ver=1706780082' type='text/css' media='all' /><noscript><link rel="stylesheet" id="sailthru-subscribe-widget-styles" href='https://www.dailydot.com/wp-content/plugins/sailthru-widget/css/widget.subscribe.css?ver=1706780082'></noscript><link rel='preload' as='style' onload="this.onload=null;this.rel='stylesheet'" id='algolia-autocomplete' href='https://www.dailydot.com/wp-content/plugins/wp-search-with-algolia/css/algolia-autocomplete.css?ver=2.7.0' type='text/css' media='all' /><noscript><link rel="stylesheet" id="algolia-autocomplete" href='https://www.dailydot.com/wp-content/plugins/wp-search-with-algolia/css/algolia-autocomplete.css?ver=2.7.0'></noscript><script type="text/javascript" src="https://www.dailydot.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<link rel='preload' as='style' onload="this.onload=null;this.rel='stylesheet'" id='freepress-icons' href='https://www.dailydot.com/wp-content/themes/freepress-ui/fonts/icons.css?ver=1709327910' type='text/css' media='all' /><noscript><link rel="stylesheet" id="freepress-icons" href='https://www.dailydot.com/wp-content/themes/freepress-ui/fonts/icons.css?ver=1709327910'></noscript><link rel='stylesheet' id='freepress-footer-style-css' href='https://www.dailydot.com/wp-content/themes/freepress-ui/footer.css?ver=1709327910' type='text/css' media='all' />
+<link rel='preload' as='style' onload="this.onload=null;this.rel='stylesheet'" id='sailthru-subscribe-widget-styles' href='https://www.dailydot.com/wp-content/plugins/sailthru-widget/css/widget.subscribe.css?ver=1709327935' type='text/css' media='all' /><noscript><link rel="stylesheet" id="sailthru-subscribe-widget-styles" href='https://www.dailydot.com/wp-content/plugins/sailthru-widget/css/widget.subscribe.css?ver=1709327935'></noscript><link rel='preload' as='style' onload="this.onload=null;this.rel='stylesheet'" id='algolia-autocomplete' href='https://www.dailydot.com/wp-content/plugins/wp-search-with-algolia/css/algolia-autocomplete.css?ver=2.7.0' type='text/css' media='all' /><noscript><link rel="stylesheet" id="algolia-autocomplete" href='https://www.dailydot.com/wp-content/plugins/wp-search-with-algolia/css/algolia-autocomplete.css?ver=2.7.0'></noscript><script type="text/javascript" src="https://www.dailydot.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
 <script type="text/javascript" src="https://www.dailydot.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=3.4.1" id="jquery-migrate-js"></script>
-<script type="text/javascript" src="https://www.dailydot.com/wp-content/plugins/compgrid/assets/js/rater/rater.min.js?ver=1707561152" id="fp-compgrid-rater-js"></script>
-<script type="text/javascript" src="https://www.dailydot.com/wp-content/plugins/compgrid/assets/js/main.js?ver=1707561152" id="fp-compgrid-js-script-js"></script>
+<script type="text/javascript" src="https://www.dailydot.com/wp-content/plugins/compgrid/assets/js/rater/rater.min.js?ver=1709327934" id="fp-compgrid-rater-js"></script>
+<script type="text/javascript" src="https://www.dailydot.com/wp-content/plugins/compgrid/assets/js/main.js?ver=1709327934" id="fp-compgrid-js-script-js"></script>
 <script src='//ak.sail-horizon.com/spm/spm.v1.min.js' type='text/javascript' async></script><script type="text/javascript" id="tag-js-extra">
 /* <![CDATA[ */
 var tag = {"options":{"customerId":"8e4a835e537581e5d43297978d9293a4"}};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://www.dailydot.com/wp-content/plugins/sailthru-widget/js/tag.js?ver=1706780082" id="tag-js"></script>
-<script type="text/javascript" src="https://www.dailydot.com/wp-content/plugins/wp-user-avatar/assets/flatpickr/flatpickr.min.js?ver=4.14.2" id="ppress-flatpickr-js"></script>
-<script type="text/javascript" src="https://www.dailydot.com/wp-content/plugins/wp-user-avatar/assets/select2/select2.min.js?ver=4.14.2" id="ppress-select2-js"></script>
+<script type="text/javascript" src="https://www.dailydot.com/wp-content/plugins/sailthru-widget/js/tag.js?ver=1709327935" id="tag-js"></script>
+<script type="text/javascript" src="https://www.dailydot.com/wp-content/plugins/wp-user-avatar/assets/flatpickr/flatpickr.min.js?ver=4.15.2" id="ppress-flatpickr-js"></script>
+<script type="text/javascript" src="https://www.dailydot.com/wp-content/plugins/wp-user-avatar/assets/select2/select2.min.js?ver=4.15.2" id="ppress-select2-js"></script>
 <script type="text/javascript" src="https://www.dailydot.com/wp-content/themes/freepress-ui/js/footer.js?ver=20151215" id="frepress-footer-js" async="async" data-wp-strategy="async"></script>
 <script type="text/javascript" src="https://www.dailydot.com/wp-content/themes/freepress-ui/js/navigation.js?ver=20151215" id="freepress-navigation-js" async="async" data-wp-strategy="async"></script>
 <script type="text/javascript" src="https://www.dailydot.com/wp-content/themes/freepress-ui/js/skip-link-focus-fix.js?ver=20151215" id="freepress-skip-link-focus-fix-js" async="async" data-wp-strategy="async"></script>
 <script type="text/javascript" src="https://cdn-gateflipp.flippback.com/tag/js/flipptag.js?site_id=1265460&amp;ver=20151215" id="flippback-script-js" async="async" data-wp-strategy="async"></script>
-<script type="text/javascript" src="https://www.dailydot.com/wp-content/themes/freepress-ui/js/flippback.js?ver=1708118994" id="freepress-flippback-js" async="async" data-wp-strategy="async"></script>
+<script type="text/javascript" src="https://www.dailydot.com/wp-content/themes/freepress-ui/js/flippback.js?ver=1709327910" id="freepress-flippback-js" async="async" data-wp-strategy="async"></script>
 <script type="text/javascript" src="https://launchpad-wrapper.privacymanager.io/3195afa5-91c2-49c5-9183-840ccfc70cd9/launchpad-liveramp.js?ver=20151215" id="launchpad-liveramp-script-js" async="async" data-wp-strategy="async"></script>
 <script type="text/javascript" src="https://launcher-sa.spot.im/spot/sp_0eSO3A2h?ver=20151215" id="spotim-launcher-script-js" async="async" data-wp-strategy="async"></script>
 <script type="text/javascript" src="https://www.dailydot.com/wp-content/themes/freepress-ui/js/audigent.js?ver=20151215" id="freepress-audigent-js" async="async" data-wp-strategy="async"></script>
 <script type="text/javascript" src="https://cadmus.script.ac/d137xjgotpkrvc/script.js?ver=20151215" id="cadmus-script-js" async="async" data-wp-strategy="async"></script>
-<script type="text/javascript" src="https://www.dailydot.com/wp-content/plugins/sailthru-widget/js/widget.subscribe.js?ver=1706780082" id="sailthru-subscribe-script-js"></script>
+<script type="text/javascript" src="https://www.dailydot.com/wp-content/plugins/sailthru-widget/js/widget.subscribe.js?ver=1709327935" id="sailthru-subscribe-script-js"></script>
 <!-- dd-dynamite2-START -->
 <script type="text/javascript">!(function(o,n){function $(){($.q=$.q||[]).push(arguments)}$.v=1,o[n]=o[n]||$})(window,String.fromCharCode(97,100,109,105,114,97,108));!(function(t,c,i){i=t.createElement(c),t=t.getElementsByTagName(c)[0],i.async=1,i.src="https://aliveachiever.com/v2yowjz0p9z2RH38nWMjIYX9foW3-ZK-d62SmIenwLpwK2KTWWya--Tk",t.parentNode.insertBefore(i,t)})(document,"script");;!(function(o,t,n,c){function e(n){(function(){try{return(localStorage.getItem("v4ac1eiZr0")||"").split(",")[4]>0}catch(o){}return!1})()&&(n=o[t].pubads())&&n.setTargeting("admiral-engaged","true")}(c=o[t]=o[t]||{}).cmd=c.cmd||[],typeof c.pubads===n?e():typeof c.cmd.unshift===n?c.cmd.unshift(e):c.cmd.push(e)})(window,"googletag","function");;;!(function(t,n,i,e,o){function a(){for(var t=[],i=0;i<arguments.length;i++)t.push(arguments[i]);if(!t.length)return o;"ping"===t[0]?t[2]({gdprAppliesGlobally:!!n.__cmpGdprAppliesGlobally,cmpLoaded:!1,cmpStatus:"stub"}):t.length>0&&o.push(t)}function c(t){if(t&&t.data&&t.source){var e,o=t.source,a="string"==typeof t.data&&t.data.indexOf("__tcfapiCall")>=0;(e=a?((function(t){try{return JSON.parse(t)}catch(n){}})(t.data)||{}).__tcfapiCall:(t.data||{}).__tcfapiCall)&&n[i](e.command,e.version,(function(t,n){var i={__tcfapiReturn:{returnValue:t,success:n,callId:e.callId}};o&&o.postMessage(a?JSON.stringify(i):i,"*")}),e.parameter)}}!(function f(){if(!window.frames[e]){var n=t.body;if(n){var i=t.createElement("iframe");i.style.display="none",i.name=e,n.appendChild(i)}else setTimeout(f,5)}})(),o=[],a.v=1,"function"!=typeof n[i]&&(n[i]=n[i]||a,n.addEventListener?n.addEventListener("message",c,!1):n.attachEvent&&n.attachEvent("onmessage",c))})(document,window,"__tcfapi","__tcfapiLocator");;!(function(n,t,i,u,e,o,r){function a(n){if(n){var u=(n.data||{}).__uspapiCall;u&&t[i](u.command,u.version,(function(t,i){n.source.postMessage({__uspapiReturn:{returnValue:t,success:i,callId:u.callId}},"*")}))}}!(function f(){if(!window.frames[u]){var t=n.body;if(t){var i=n.createElement("iframe");i.style.display="none",i.name=u,t.appendChild(i)}else setTimeout(f,5)}})();var s={getUSPData:function(n,t){return n!==1?t&&t(null,!1):t&&t({version:null,uspString:null},!1)}};function c(n,t,i){return s[n](t,i)}c.v=1,"function"!=typeof t[i]&&(t[i]=t[i]||c,t.addEventListener?t.addEventListener("message",a,!1):t.attachEvent&&t.attachEvent("onmessage",a)),o=n.createElement(e),r=n.getElementsByTagName(e)[0],o.src="https://aliveachiever.com/v2qosoYn7lkEH8fJsgBsHDef85OCSi7DVrAz1Dy5i186KTBqXKY0TzG57981F1p714bxESt4R",r.parentNode.insertBefore(o,r)})(document,window,"__uspapi","__uspapiLocator","script");</script>
 <script async='async' src='https://securepubads.g.doubleclick.net/tag/js/gpt.js'></script>
@@ -197,7 +195,7 @@ googletag.enableServices();
             googletag.enableServices();
         });
     </script>
-        <script type="text/javascript" async="true" src="https://www.dailydot.com/wp-content/uploads/dynamite/prebid.js?U=1708313050"></script>
+        <script type="text/javascript" async="true" src="https://www.dailydot.com/wp-content/uploads/dynamite/prebid.js?U=1709408403"></script>
     <!-- END: Header Bidding -->
 
 
@@ -399,14 +397,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		</style>
 		<script id="bx-tag" src="//assets.bounceexchange.com/assets/bounce/iframebuster.js" data-website-id="2610" charset="utf-8"></script><link rel="preload" href="https://launchpad.privacymanager.io/latest/launchpad.bundle.js" as="script" /><script async src="https://launcher-sa.spot.im/spot/sp_0eSO3A2h" data-spotim-autorun="false" data-spotim-module="spotim-launcher"></script><link rel="amphtml" href="https://www.dailydot.com/upstream/captain-sparklez-1-million-subscribers/?amp"></head>
 
-<body class="post-template-default single single-post postid-33881 single-format-standard dd-ad-geo-UNKNOWN no-sidebar">
+<body class="post-template-default single single-post postid-33881 single-format-standard no-sidebar">
 		<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
 
 	<header id="main-header">
 		<div class="wrapper">
 			<div id="header-row" class="row nowrap">
 			<div class="col-2 d-none d-lg-block">
-					<a href="https://www.dailydot.com">
+					<a href="https://www.dailydot.com" aria-label="Go Home">
 						<svg xmlns="http://www.w3.org/2000/svg" class="main-logo inline-flex" viewBox="0 0 1195 235"><g fill="none" fill-rule="nonzero"><g fill="#110133"><path d="M411.94.46c2.15 0 3.94.75 5.35 2.24 1.41 1.49 2.11 3.23 2.11 5.22v169.15c0 1.99-.75 3.73-2.24 5.22-1.49 1.49-3.23 2.24-5.22 2.24-2.32 0-4.19-.75-5.6-2.24-1.41-1.49-2.11-3.23-2.11-5.22v-29.6l4.48-3.48c0 4.81-1.24 9.74-3.73 14.8-2.49 5.06-6.01 9.7-10.57 13.93-4.56 4.23-9.87 7.67-15.92 10.32-6.06 2.65-12.65 3.98-19.77 3.98-11.11 0-21.06-2.9-29.85-8.71-8.79-5.8-15.76-13.68-20.89-23.63-5.14-9.95-7.71-21.31-7.71-34.08 0-12.6 2.57-23.92 7.71-33.95 5.14-10.03 12.1-17.91 20.89-23.63 8.79-5.72 18.66-8.58 29.6-8.58 6.96 0 13.51 1.24 19.65 3.73 6.13 2.49 11.57 5.89 16.29 10.2 4.73 4.31 8.41 9.25 11.07 14.8 2.65 5.56 3.98 11.32 3.98 17.29l-5.22-3.73V7.93c0-1.99.7-3.73 2.11-5.22 1.4-1.5 3.26-2.25 5.59-2.25zM360.2 173.09c8.79 0 16.58-2.28 23.38-6.84 6.8-4.56 12.15-10.78 16.04-18.66 3.89-7.87 5.85-16.87 5.85-26.99 0-9.95-1.95-18.86-5.85-26.74-3.9-7.87-9.25-14.05-16.04-18.53-6.8-4.48-14.59-6.72-23.38-6.72-8.62 0-16.38 2.24-23.26 6.72-6.88 4.48-12.27 10.66-16.17 18.53-3.9 7.88-5.85 16.79-5.85 26.74s1.95 18.9 5.85 26.86c3.89 7.96 9.29 14.22 16.17 18.78 6.88 4.57 14.63 6.85 23.26 6.85zM552.72 57.42c2.15 0 3.94.75 5.35 2.24 1.41 1.49 2.11 3.32 2.11 5.47v111.94c0 1.99-.75 3.73-2.24 5.22-1.49 1.49-3.23 2.24-5.22 2.24-2.32 0-4.19-.75-5.6-2.24-1.41-1.49-2.11-3.23-2.11-5.22v-29.6l4.48-1.74c0 4.48-1.29 9.16-3.86 14.05-2.57 4.89-6.09 9.37-10.57 13.43-4.48 4.07-9.74 7.38-15.8 9.95-6.06 2.57-12.65 3.86-19.77 3.86-11.11 0-21.1-2.9-29.97-8.71-8.87-5.8-15.84-13.76-20.89-23.88-5.06-10.11-7.59-21.47-7.59-34.08 0-12.93 2.57-24.33 7.71-34.2 5.14-9.86 12.1-17.62 20.89-23.26 8.79-5.64 18.66-8.46 29.6-8.46 7.13 0 13.81 1.24 20.02 3.73 6.21 2.49 11.65 5.89 16.29 10.2 4.64 4.31 8.25 9.25 10.82 14.8 2.57 5.56 3.86 11.32 3.86 17.29l-5.22-3.73V65.13c0-2.15.7-3.98 2.11-5.47 1.41-1.49 3.28-2.24 5.6-2.24zm-51.74 115.67c8.79 0 16.58-2.28 23.38-6.84 6.8-4.56 12.15-10.86 16.04-18.91 3.89-8.04 5.85-17.04 5.85-26.99 0-9.62-1.95-18.36-5.85-26.24-3.9-7.87-9.25-14.09-16.04-18.66-6.8-4.56-14.59-6.84-23.38-6.84-8.62 0-16.38 2.2-23.26 6.59-6.88 4.4-12.27 10.49-16.17 18.28-3.9 7.8-5.85 16.75-5.85 26.86 0 9.95 1.9 18.95 5.72 26.99 3.81 8.05 9.16 14.35 16.04 18.91 6.9 4.57 14.73 6.85 23.52 6.85zM597.25 38.52c-3.48 0-6.09-.78-7.84-2.36-1.74-1.57-2.61-3.86-2.61-6.84v-2.49c0-2.98.95-5.26 2.86-6.84 1.9-1.57 4.52-2.36 7.84-2.36 3.15 0 5.6.79 7.34 2.36 1.74 1.58 2.61 3.86 2.61 6.84v2.49c0 2.98-.87 5.27-2.61 6.84-1.75 1.57-4.28 2.36-7.59 2.36zm7.46 138.55c0 1.99-.75 3.73-2.24 5.22-1.49 1.49-3.23 2.24-5.22 2.24-2.32 0-4.15-.75-5.47-2.24-1.33-1.49-1.99-3.23-1.99-5.22V62.65c0-1.99.7-3.73 2.11-5.22 1.41-1.49 3.19-2.24 5.35-2.24 2.15 0 3.94.75 5.35 2.24 1.41 1.49 2.11 3.23 2.11 5.22v114.42zM650.97 177.07c0 1.99-.75 3.73-2.24 5.22-1.49 1.49-3.23 2.24-5.22 2.24-2.16 0-3.94-.75-5.35-2.24-1.41-1.49-2.11-3.23-2.11-5.22V7.92c0-1.99.75-3.73 2.24-5.22 1.49-1.49 3.23-2.24 5.22-2.24 2.15 0 3.94.75 5.35 2.24 1.41 1.49 2.12 3.23 2.12 5.22v169.15h-.01zM773.85 55.19c2.15 0 3.94.75 5.35 2.24 1.41 1.49 2.11 3.23 2.11 5.22v109.7c0 13.43-2.66 24.75-7.96 33.95-5.31 9.2-12.44 16.17-21.39 20.89-8.95 4.73-19.15 7.09-30.59 7.09-7.13 0-13.72-.79-19.78-2.36-6.06-1.58-10.99-3.53-14.8-5.85-1.99-1.16-3.48-2.61-4.48-4.35-1-1.74-1.08-3.53-.25-5.35.83-2.32 2.11-3.86 3.86-4.6 1.75-.74 3.52-.71 5.35.12 2.82 1.49 6.88 3.32 12.19 5.47s11.36 3.23 18.16 3.23c9.12 0 17-1.91 23.63-5.72 6.63-3.82 11.82-9.33 15.55-16.54 3.73-7.21 5.6-15.8 5.6-25.75v-17.91l1.74 6.22c-2.49 4.97-6.06 9.45-10.7 13.43-4.64 3.98-9.87 7.09-15.67 9.33-5.81 2.24-12.03 3.36-18.66 3.36-9.95 0-18.2-2.03-24.75-6.09-6.55-4.06-11.44-9.66-14.68-16.79-3.23-7.13-4.85-15.5-4.85-25.12V62.65c0-1.99.7-3.73 2.11-5.22 1.41-1.49 3.27-2.24 5.6-2.24 2.15 0 3.94.75 5.35 2.24 1.41 1.49 2.11 3.23 2.11 5.22v74.13c0 11.61 2.53 20.56 7.59 26.86 5.06 6.3 13.31 9.45 24.75 9.45 7.13 0 13.68-1.7 19.65-5.1 5.97-3.4 10.86-7.88 14.68-13.43 3.81-5.55 5.72-11.48 5.72-17.79V62.64c0-1.99.66-3.73 1.99-5.22 1.32-1.49 3.14-2.23 5.47-2.23zM961.65.46c2.15 0 3.94.75 5.35 2.24 1.41 1.49 2.11 3.23 2.11 5.22v169.15c0 1.99-.75 3.73-2.24 5.22-1.49 1.49-3.23 2.24-5.22 2.24-2.32 0-4.19-.75-5.6-2.24-1.41-1.49-2.11-3.23-2.11-5.22v-29.6l4.48-3.48c0 4.81-1.24 9.74-3.73 14.8-2.49 5.06-6.01 9.7-10.57 13.93-4.56 4.23-9.87 7.67-15.92 10.32-6.05 2.65-12.65 3.98-19.77 3.98-11.11 0-21.06-2.9-29.85-8.71-8.79-5.8-15.76-13.68-20.89-23.63-5.14-9.95-7.71-21.31-7.71-34.08 0-12.6 2.57-23.92 7.71-33.95 5.14-10.03 12.1-17.91 20.89-23.63 8.79-5.72 18.66-8.58 29.6-8.58 6.96 0 13.51 1.24 19.65 3.73 6.13 2.49 11.57 5.89 16.29 10.2 4.73 4.31 8.42 9.25 11.07 14.8 2.65 5.56 3.98 11.32 3.98 17.29l-5.22-3.73V7.93c0-1.99.7-3.73 2.11-5.22 1.4-1.5 3.26-2.25 5.59-2.25zm-51.74 172.63c8.79 0 16.58-2.28 23.38-6.84 6.8-4.56 12.15-10.78 16.04-18.66 3.89-7.87 5.85-16.87 5.85-26.99 0-9.95-1.95-18.86-5.85-26.74-3.9-7.87-9.25-14.05-16.04-18.53-6.8-4.48-14.59-6.72-23.38-6.72-8.62 0-16.38 2.24-23.26 6.72-6.88 4.48-12.27 10.66-16.17 18.53-3.9 7.88-5.85 16.79-5.85 26.74s1.95 18.9 5.85 26.86c3.89 7.96 9.29 14.22 16.17 18.78 6.88 4.57 14.64 6.85 23.26 6.85zM1116.61 120.85c0 12.6-2.78 23.92-8.33 33.95-5.56 10.04-13.06 17.91-22.51 23.63-9.45 5.72-20.15 8.58-32.09 8.58-11.78 0-22.43-2.86-31.96-8.58-9.54-5.72-17.08-13.6-22.64-23.63-5.56-10.03-8.33-21.35-8.33-33.95 0-12.77 2.78-24.13 8.33-34.08 5.55-9.95 13.1-17.82 22.64-23.63 9.53-5.8 20.19-8.71 31.96-8.71 11.94 0 22.64 2.9 32.09 8.71 9.45 5.81 16.95 13.68 22.51 23.63 5.55 9.96 8.33 21.32 8.33 34.08zm-15.17 0c0-10.11-2.08-19.11-6.22-26.99-4.15-7.87-9.83-14.05-17.04-18.53-7.21-4.48-15.38-6.72-24.5-6.72s-17.29 2.24-24.5 6.72c-7.21 4.48-12.93 10.66-17.16 18.53-4.23 7.88-6.34 16.88-6.34 26.99 0 10.12 2.11 19.07 6.34 26.86 4.23 7.8 9.95 13.97 17.16 18.53 7.21 4.56 15.38 6.84 24.5 6.84s17.29-2.28 24.5-6.84c7.21-4.56 12.89-10.74 17.04-18.53 4.14-7.78 6.22-16.74 6.22-26.86zM1130.04 57.92H1188c1.99 0 3.65.71 4.97 2.11 1.33 1.41 1.99 3.11 1.99 5.1 0 1.99-.67 3.65-1.99 4.98-1.33 1.33-2.98 1.99-4.97 1.99h-57.96c-1.99 0-3.69-.7-5.1-2.11-1.41-1.41-2.11-3.11-2.11-5.1 0-1.99.7-3.65 2.11-4.98 1.41-1.32 3.11-1.99 5.1-1.99zm25.62-35.07c2.15 0 3.94.75 5.35 2.24 1.41 1.49 2.11 3.23 2.11 5.22v124.87c0 4.64.62 8.13 1.87 10.45 1.24 2.32 2.86 3.86 4.85 4.6 1.99.74 3.98 1.12 5.97 1.12 1.33 0 2.53-.21 3.61-.62 1.08-.41 2.28-.62 3.61-.62 1.49 0 2.77.58 3.86 1.74 1.08 1.16 1.62 2.65 1.62 4.48 0 2.32-1.33 4.27-3.98 5.85s-5.81 2.36-9.45 2.36c-1.49 0-3.73-.12-6.72-.37-2.99-.25-6.06-1.16-9.2-2.74-3.15-1.57-5.81-4.35-7.96-8.33-2.16-3.98-3.23-9.7-3.23-17.16V30.31c0-1.99.75-3.73 2.24-5.22 1.47-1.49 3.29-2.24 5.45-2.24z"/></g><path fill="#110133" d="M88.84 120.55c7.16.06 13.91-1.32 20.25-4.14 6.34-2.82 11.88-6.73 16.63-11.73 4.74-4.99 8.49-10.85 11.25-17.58 2.75-6.73 4.16-13.92 4.22-21.58.06-7.66-1.23-14.86-3.87-21.59-2.64-6.74-6.3-12.64-10.96-17.72-4.67-5.08-10.15-9.1-16.44-12.09-6.3-2.98-13.02-4.51-20.18-4.57L72.48 9.4l-.89 111 17.25.15z"/><path fill="#110133" d="M220.08 123.96c3.33 0 6.57.34 9.76.84V33.88c0-14.25-11.55-25.81-25.81-25.81h-46.64c2.55 3.48 4.89 7.13 6.98 10.99 3.73 6.87 6.59 14.26 8.58 22.15 1.99 7.89 2.95 16.1 2.88 24.61-.07 8.52-1.16 16.71-3.27 24.56-2.11 7.86-5.09 15.19-8.93 21.99-3.84 6.81-8.39 13.01-13.67 18.59-5.28 5.59-11.15 10.38-17.62 14.36-6.47 3.99-13.39 7.04-20.77 9.17-7.38 2.13-15.06 3.16-23.02 3.09l-52.15-.47L37.6 8.06H26.44C12.19 8.06.63 19.61.63 33.87v156.08c0 14.25 11.55 25.81 25.81 25.81h138.89a61.868 61.868 0 01-7.49-29.57c0-34.31 27.92-62.23 62.24-62.23z"/><path fill="#3BB77A" d="M229.83 149.68c-3.12-.83-6.38-1.32-9.76-1.32-20.86 0-37.84 16.98-37.84 37.84 0 11.96 5.6 22.63 14.29 29.57 6.47 5.16 14.65 8.27 23.55 8.27 20.86 0 37.84-16.98 37.84-37.84 0-17.49-11.93-32.2-28.08-36.52z"/></g></svg>
 					</a>
 				</div>
@@ -473,7 +471,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				<div class="col-1">
 					<div class="pull-right nowrap">
 					    <a class="btn btn-primary newsletter-button btn-lg d-none d-lg-block" href="/newsletter">Newsletter</a>
-						<button type="button" class="button-unstyled search-button" onclick="openSearchModal(event);">
+						<button type="button" aria-label="Search" class="button-unstyled search-button" onclick="openSearchModal(event);">
 							<i class="icons8-search h3 inline-flex"></i>
 						</button>
 
@@ -508,12 +506,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 					</div>
 
 					<h1 class="article-head">Captain Sparklez hits 1 million subscribers</h1>
-					<h3 class="article-sub-head">Game commentator joins elite club and does a backflip.</h3>
+					<h2 class="article-sub-head">Game commentator joins elite club and does a backflip.</h2>
 
 					<div class="article-stamp">
 						
 <a href="https://www.dailydot.com/author/fruzsina-eordogh/" class="author-stamp">
-  <img alt='Fruzsina Eördögh' src='https://secure.gravatar.com/avatar/c4432ac6adf3ee00694df4bbb3821128?s=96&#038;d=https%3A%2F%2Fwww.dailydot.com%2Fwp-content%2Fthemes%2Ffreepress-ui%2Fimages%2Ffreepress-default-gravatar.png&#038;r=g' class='avatar avatar-96 photo article-author-img inline-flex' height='96' width='96' />&nbsp;<p class="author-name inline-flex">Fruzsina Eördögh</p>
+  <img alt='Photo of Fruzsina Eördögh' src='https://secure.gravatar.com/avatar/c4432ac6adf3ee00694df4bbb3821128?s=96&#038;d=https%3A%2F%2Fwww.dailydot.com%2Fwp-content%2Fthemes%2Ffreepress-ui%2Fimages%2Ffreepress-default-gravatar.png&#038;r=g' class='avatar avatar-96 photo article-author-img inline-flex' height='96' width='96' />&nbsp;<p class="author-name inline-flex">Fruzsina Eördögh</p>
 </a>
 
 	
@@ -548,7 +546,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 								<span>Share this article</span>
 								<ul class="share-social-list inline-flex">
 
-									<li><a href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.dailydot.com%2Fupstream%2Fcaptain-sparklez-1-million-subscribers%2F" class="social-sharing-link-open"><i class="icons8-facebook"></i></a></li><li><a href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.dailydot.com%2Fupstream%2Fcaptain-sparklez-1-million-subscribers%2F&text=Captain Sparklez hits 1 million subscribers&via=&hashtags=" class="social-sharing-link-open"><i class="icons8-twitter-circled"></i></a></li><li><a href="mailto:?subject=Captain Sparklez hits 1 million subscribers&body=" class="social-sharing-link-open"><i class="icons8-email-open"></i></a></li>
+									<li><a aria-label="facebook Link" href="http://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.dailydot.com%2Fupstream%2Fcaptain-sparklez-1-million-subscribers%2F" class="social-sharing-link-open"><i class="icons8-facebook"></i></a></li><li><a aria-label="twitter-circled Link" href="https://twitter.com/intent/tweet?url=https%3A%2F%2Fwww.dailydot.com%2Fupstream%2Fcaptain-sparklez-1-million-subscribers%2F&text=Captain Sparklez hits 1 million subscribers&via=&hashtags=" class="social-sharing-link-open"><i class="icons8-twitter-circled"></i></a></li><li><a aria-label="email-open Link" href="mailto:?subject=Captain Sparklez hits 1 million subscribers&body=" class="social-sharing-link-open"><i class="icons8-email-open"></i></a></li>
 								</ul>
 							</div>
 
@@ -563,9 +561,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 					
 <div class="article-author-wrapper">
   <div class="art-auth-details">
-    <h4 class="margin-v-none inline-flex">
+    <h3 class="margin-v-none inline-flex">
       <a href="https://www.dailydot.com/author/fruzsina-eordogh/">Fruzsina Eördögh</a>
-    </h4>
+    </h3>
     <!-- <button class="btn ghost-btn-primary follow-btn inline-flex">Follow</button> -->
     <p class="margin-top-none">Fruzsina Eördögh was the Daily Dot's first YouTube reporter. In addition to working as a producer for the now-defunct digital channel TouchVision TV, Eördögh has been published by Vice, the Christian Science Monitor, the Guardian, Variety, and Slate.</p>
 
@@ -677,7 +675,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 </form>
     </div>
   </div>
-  <button class="button-unstyled search-wrapper--close" onclick="closeSearchModal();">
+  <button  class="button-unstyled search-wrapper--close" onclick="closeSearchModal();" aria-label="Close Search">
     <i class="icons8-cancel" style="color: #666;"></i>
   </button>
 </div>
@@ -697,10 +695,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		var slignTagID = "670618";
 	</script>
 
-<!-- Custom Facebook Feed JS -->
-<script type="text/javascript">var cffajaxurl = "https://www.dailydot.com/wp-admin/admin-ajax.php";
-var cfflinkhashtags = "true";
-</script>
 
 <!-- GTM Container placement set to footer -->
 <!-- Google Tag Manager (noscript) -->
@@ -896,12 +890,12 @@ var sbiajaxurl = "https://www.dailydot.com/wp-admin/admin-ajax.php";
 	</div>
 </div><div id="ccpa-link"></div><script type="text/javascript" id="ppress-frontend-script-js-extra">
 /* <![CDATA[ */
-var pp_ajax_form = {"ajaxurl":"https:\/\/www.dailydot.com\/wp-admin\/admin-ajax.php","confirm_delete":"Are you sure?","deleting_text":"Deleting...","deleting_error":"An error occurred. Please try again.","nonce":"2969218120","disable_ajax_form":"false","is_checkout":"0","is_checkout_tax_enabled":"0"};
+var pp_ajax_form = {"ajaxurl":"https:\/\/www.dailydot.com\/wp-admin\/admin-ajax.php","confirm_delete":"Are you sure?","deleting_text":"Deleting...","deleting_error":"An error occurred. Please try again.","nonce":"fcfc2827f4","disable_ajax_form":"false","is_checkout":"0","is_checkout_tax_enabled":"0"};
 /* ]]> */
 </script>
-<script type="text/javascript" src="https://www.dailydot.com/wp-content/plugins/wp-user-avatar/assets/js/frontend.min.js?ver=4.14.2" id="ppress-frontend-script-js"></script>
-<script type="text/javascript" src="https://www.dailydot.com/wp-content/themes/freepress-ui/js/main.js?ver=1708118994" id="freepress-main-js"></script>
-<script type="text/javascript" src="https://www.dailydot.com/wp-content/plugins/custom-facebook-feed/assets/js/cff-scripts.min.js?ver=4.2.1" id="cffscripts-js"></script>
+<script type="text/javascript" src="https://www.dailydot.com/wp-content/plugins/wp-user-avatar/assets/js/frontend.min.js?ver=4.15.2" id="ppress-frontend-script-js"></script>
+<script type="text/javascript" src="https://www.dailydot.com/wp-content/themes/freepress-ui/js/main.js?ver=1709327910" id="freepress-main-js"></script>
+<script type="text/javascript" src="https://www.dailydot.com/wp-content/themes/freepress-ui/js/lazy-load-tiktok.js?ver=1.0" id="lazy-load-script-js"></script>
 <script type="text/javascript" src="https://www.dailydot.com/wp-includes/js/underscore.min.js?ver=1.13.4" id="underscore-js"></script>
 <script type="text/javascript" id="wp-util-js-extra">
 /* <![CDATA[ */
@@ -913,5 +907,5 @@ var _wpUtilSettings = {"ajax":{"url":"\/wp-admin\/admin-ajax.php"}};
 <script type="text/javascript" src="https://www.dailydot.com/wp-content/plugins/wp-search-with-algolia/js/autocomplete.js/dist/autocomplete.min.js?ver=2.7.0" id="algolia-autocomplete-js"></script>
 <script type="text/javascript" src="https://www.dailydot.com/wp-content/plugins/wp-search-with-algolia/js/autocomplete-noconflict.js?ver=2.7.0" id="algolia-autocomplete-noconflict-js"></script>
 
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"NRJS-d5e5f65d9f84972adda","applicationID":"1033717861","transactionName":"ZAMEYREHX0cFWxBQWF1JM0cKSVhaAF0cF0dbFg==","queueTime":0,"applicationTime":297,"atts":"SEQHF1kdTEk=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"NRJS-d5e5f65d9f84972adda","applicationID":"1033717861","transactionName":"ZAMEYREHX0cFWxBQWF1JM0cKSVhaAF0cF0dbFg==","queueTime":0,"applicationTime":275,"atts":"SEQHF1kdTEk=","errorBeacon":"bam.nr-data.net","agent":""}</script></body>
 </html>
