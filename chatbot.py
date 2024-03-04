@@ -86,7 +86,7 @@ def chatbot(k_base):
 
         elif re.match(".*song.*", query):
             print(k_base['songs'][0])
-            query = input(k_base['more']).lower()
+            query = input(k_base['more'][0]).lower()
             if re.match(".*tnt.*", query):
                 print(k_base['tnt'][random.randint(0,len(k_base['tnt']))-1])
             else:
@@ -143,6 +143,10 @@ def chatbot(k_base):
                         print(k_base['infringement'][random.randint(0,len(k_base['infringement']))-1])
                     if re.match(".*bethesda.*", query):
                         print(k_base['bethesda'][random.randint(0,len(k_base['bethesda']))-1])
+                    else:
+                        print(k_base['default'][0])
+                elif not re.match(".*no.*", query):
+                    print(k_base['default'][0])
             else:
                 print(k_base['default'][0])
         else:
