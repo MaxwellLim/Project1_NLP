@@ -1,4 +1,4 @@
-###NLP Project 1: Web Scraper and Rules Based Chatbot<br/>
+# NLP Project 1: Web Scraper and Rules Based Chatbot<br/>
 This is a Chatbot made using NLP Techniques.<br/>
 scraper.py:  <br/>
         This is a program which crawls through websites and extracts important terms to create a knowledge base  <br/>
