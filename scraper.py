@@ -1,4 +1,4 @@
-import math, pickle, os, nltk
+import math, pickle, os, nltk, pprint
 from bs4 import BeautifulSoup
 from urllib import request
 from urllib.parse import urljoin
@@ -206,31 +206,51 @@ def extract(number):
         print(f"{sorted_terms[x][0]}:{sorted_terms[x][1]}")
 
 def make_knowledge_base():
-    knowledge_base = {
+    text = ""
+    important_terms = ['minecraft', 'creeper', 'fortress_fury', 'polaris', 'bethesda', 'notch', 'telltale', 'infringement', 'tnt']
+    knowledge_base = knowledge_base = {
         'greeting': ["Hello, I am a chatbot designed to tell you about CaptainSparklez AKA Jordan Maron.\nPlease type in your name. ", 
                      "Hi, I can tell you facts about Captainsparklez. What is your name? "],                    
-        'base' : "What would you like to know about Captainsparklez? ",
-        'default' : "Excuse me. I didn't quite catch that. ",
-        'more' : "What would you like to know more about? ",
-        'overview' : "CaptainSparkles is a partnered youtuber who started off with Minecraft lets plays. He has played and made many games. He has also made songs which are parodies of existing songs. ",
-        'creeper' : "A creeper is a hostile mob in the video game Minecraft. ",
-        'residence' : "He lives in Los Angeles, California. ",
-        'games_played' : 'He has played many games such as Minecraft and Minecraft: Story Mode. ',
-        'games_made' : "He has made a mobile game called Fortress Fury. ",
-        'partner' : "CaptainSparkles was formerly partnered with Polaris from 2013, but is now partnered with PocketWatch ",
-        'polaris' : "Polaris is a Multi-channel Network which was started in 2009 and is now defunct. ",
-        'pocketwatch' : "PocketWatch is a digital media studio which was founded in 2012 by Chris M. Williams. " ,
-        'bethesda' : "Bethesda is a large video game publisher which has published many popular games such as the Fallout and Elder Scroll series along with many others. ",
-        'telltale' : "Telltale Games is a company founded by previous LucasArts developers. They have made many games for popular series like Minecraft, Jurassic Park, The walking dead and Game of Thrones. ",
-        'minecraft: story mode' : "Minecraft: Story Mode is a point and click adventure game created by Telltale games based on Minecraft and features many popular Minecraft Youtubers. ",
-        'tnt' : "TNT is a minecraft parody of the popular song by Taio Cruz: \"Dynamite\". ",
-        'minecraft' : "Minecraft is a popular survival game created by Notch where you can mine blocks and craft items in order to survive against mobs such as creepers. ",
-        'fortress_fury' : "Fortress Fury is a mobile game which was created by CaptainSparklez in collaboration with Howard Marks under XREAL. It was originally titled \"Fortress Fallout\" but was renamed due to intervention by Bethesda for infringement. ",
-        'notch' : "Notch AKA Markus Persson is a Swedish video game programmer who is best known for creating the popular video game Minecraft. ",
-        'infringement' : "Bethesda sent a cease and desist letter to XREAL to get them to change the name of their game from \"Fortress Fallout\" to something else as they feared people might mistake it with their upcoming game \"Fallout Shelter\". ",
-        'songs' : "CaptainSparklez has made many songs such has TNT. ",
-
+        'base' : ["What would you like to know about Captainsparklez? "],
+        'default' : ["Excuse me. I didn't quite catch that. "],
+        'more' : ["What would you like to know more about? "],
+        'overview' : ["CaptainSparkles is a partnered youtuber who started off with Minecraft lets plays. He has played and made many games. He has also made songs which are parodies of existing songs. "],
+        'creeper' : ["A creeper is a hostile mob in the video game Minecraft. "],
+        'residence' : ["He lives in Los Angeles, California. "],
+        'games_played' : ['He has played many games such as Minecraft and Minecraft: Story Mode. '],
+        'games_made' : ["He has made a mobile game called Fortress Fury. "],
+        'partner' : ["CaptainSparkles was formerly partnered with Polaris from 2013, but is now partnered with PocketWatch "],
+        'polaris' : ["Polaris is a Multi-channel Network which was started in 2009 and is now defunct. "],
+        'pocketwatch' : ["PocketWatch is a digital media studio which was founded in 2012 by Chris M. Williams. " ],
+        'bethesda' : ["Bethesda is a large video game publisher which has published many popular games such as the Fallout and Elder Scroll series along with many others. "],
+        'telltale' : ["Telltale Games is a company founded by previous LucasArts developers. They have made many games for popular series like Minecraft, Jurassic Park, The walking dead and Game of Thrones. "],
+        'minecraft: story mode' : ["Minecraft: Story Mode is a point and click adventure game created by Telltale games based on Minecraft and features many popular Minecraft Youtubers. "],
+        'tnt' : ["TNT is a minecraft parody of the popular song by Taio Cruz: \"Dynamite\". "],
+        'minecraft' : ["Minecraft is a popular survival game created by Notch where you can mine blocks and craft items in order to survive against mobs such as creepers. "],
+        'fortress_fury' : ["Fortress Fury is a mobile game which was created by CaptainSparklez in collaboration with Howard Marks under XREAL. It was originally titled \"Fortress Fallout\" but was renamed due to intervention by Bethesda for infringement. "],
+        'notch' : ["Notch AKA Markus Persson is a Swedish video game programmer who is best known for creating the popular video game Minecraft. "],
+        'infringement' : ["Bethesda sent a cease and desist letter to XREAL to get them to change the name of their game from \"Fortress Fallout\" to something else as they feared people might mistake it with their upcoming game \"Fallout Shelter\". "],
+        'songs' : ["CaptainSparklez has made many songs such has TNT. "],
     }
+    
+    for x in range(1,20):
+        #opening a file and reading it in
+        try:
+            f_in = open(f"./cleaned/{x}cleaned.txt",'r')
+        except FileNotFoundError:
+            continue
+        text += f_in.read().lower()
+
+    tokenized_text = nltk.sent_tokenize(text)
+
+    for x in important_terms:
+        for y in tokenized_text:
+            if len(knowledge_base[x])>5:
+                continue
+            if x in y:
+                y = re.sub('\[.*\]', '', y)
+                knowledge_base[x] += [" ".join(y.split())]
+
     pickle.dump(knowledge_base, open('knowledge_base.p', 'wb'))
 
 def main():
@@ -240,6 +260,8 @@ def main():
     #clean(number)
     #extract(number)
     make_knowledge_base()
+    
+
 
 if __name__ == '__main__':
     main()

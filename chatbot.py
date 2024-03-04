@@ -71,7 +71,7 @@ def chatbot(k_base):
     
     #welcome user
     print(f"Welcome {name}, this is your {num_visits} visit. ")
-    query = input(f"{k_base['base']}(I can give you a summary if you are unsure of what to ask about.)\n").lower()
+    query = input(f"{k_base['base'][0]}(I can give you a summary if you are unsure of what to ask about.)\n").lower()
     
     #Dialog loop
     while True:
@@ -79,76 +79,76 @@ def chatbot(k_base):
             break
         
         if re.match(".*summary.*", query):
-            print(k_base['overview'])
+            print(k_base['overview'][0])
 
         elif re.match(".*live.*", query):
-            print(k_base['residence'])
+            print(k_base['residence'][0])
 
         elif re.match(".*song.*", query):
-            print(k_base['songs'])
+            print(k_base['songs'][0])
             query = input(k_base['more']).lower()
             if re.match(".*tnt.*", query):
-                print(k_base['tnt'])
+                print(k_base['tnt'][random.randint(0,len(k_base['tnt']))-1])
             else:
-                print(k_base['default'])
+                print(k_base['default'][0])
         
         elif re.match(".*partner.*", query):
-            print(k_base['partner'])
-            query = input(k_base['more']).lower()
+            print(k_base['partner'][0])
+            query = input(k_base['more'][0]).lower()
 
             if re.match(".*polaris.*", query):
-                print(k_base['polaris'])
+                print(k_base['polaris'][random.randint(0,len(k_base['polaris']))-1])
             elif re.match(".*pocketwatch.*", query):
-                print(k_base['pocketwatch'])
+                print(k_base['pocketwatch'][0])
             else:
-                print(k_base['default'])
+                print(k_base['default'][0])
 
         elif re.match(".*game.*", query):
 
             if re.match(".*play.*", query):
-                print(k_base['games_played'])
-                query = input(k_base['more']).lower()
+                print(k_base['games_played'][0])
+                query = input(k_base['more'][0]).lower()
 
                 if re.match(".*minecraft.*", query):
                     minecraft = True
                     if re.match(".*story.*", query):
                         minecraft=False
-                        print(k_base['minecraft: story mode'])
-                        query = input(k_base['more']).lower()
+                        print(k_base['minecraft: story mode'][random.randint(0,len(k_base['minecraft: story mode']))-1])
+                        query = input(k_base['more'][0]).lower()
                         if re.match(".*telltale.*", query):
-                            print(k_base['telltale'])
+                            print(k_base['telltale'][random.randint(0,len(k_base['telltale']))-1])
                         elif re.match(".*minecraft.*", query):
                             minecraft = True
                         else:
-                            print(k_base['default'])
+                            print(k_base['default'][0])
                     if minecraft:
-                        print(k_base['minecraft'])
-                        query = input(k_base['more']).lower()
+                        print(k_base['minecraft'][random.randint(0,len(k_base['minecraft']))-1])
+                        query = input(k_base['more'][0]).lower()
                         if re.match(".*creeper.*", query):
-                            print(k_base['creeper'])
-                        if re.match(".*notch.*", query):
-                            print(k_base['notch'])
+                            print(k_base['creeper'][random.randint(0,len(k_base['creeper']))-1])
+                        elif re.match(".*notch.*", query):
+                            print(k_base['notch'][random.randint(0,len(k_base['notch']))-1])
                         else:
-                            print(k_base['default'])
+                            print(k_base['default'][0])
                 else:
-                    print(k_base['default'])
+                    print(k_base['default'][0])
 
             elif re.match(".*made.*", query):
-                print(k_base['games_made'])
+                print(k_base['games_made'][0])
                 query = input('Would you like to know more?').lower()
                 if re.match(".*yes.*", query):
-                    print(k_base['fortress_fury'])
-                    query = input(k_base['more']).lower()
+                    print(k_base['fortress_fury'][random.randint(0,len(k_base['fortress_fury']))-1])
+                    query = input(k_base['more'][0]).lower()
                     if re.match(".*infringement.*", query):
-                        print(k_base['infingement'])
+                        print(k_base['infringement'][random.randint(0,len(k_base['infringement']))-1])
                     if re.match(".*bethesda.*", query):
-                        print(k_base['bethesda'])
+                        print(k_base['bethesda'][random.randint(0,len(k_base['bethesda']))-1])
             else:
-                print(k_base['default'])
+                print(k_base['default'][0])
         else:
-            print(k_base['default'])
+            print(k_base['default'][0])
         print("(To end session type \"finished\")")
-        query = input(k_base['base']).lower()
+        query = input(k_base['base'][0]).lower()
 
     #get ratings on the chat bot
     overall = rating(root)
