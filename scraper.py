@@ -207,8 +207,8 @@ def extract(number):
 
 def make_knowledge_base():
     text = ""
-    important_terms = ['minecraft', 'creeper', 'fortress_fury', 'polaris', 'bethesda', 'notch', 'telltale', 'infringement', 'tnt']
-    knowledge_base = knowledge_base = {
+    important_terms = ['minecraft', 'creeper', 'fortress fury', 'polaris', 'bethesda', 'notch', 'telltale', 'infringement', 'tnt']
+    knowledge_base ={
         'greeting': ["Hello, I am a chatbot designed to tell you about CaptainSparklez AKA Jordan Maron.\nPlease type in your name. ", 
                      "Hi, I can tell you facts about Captainsparklez. What is your name? "],                    
         'base' : ["What would you like to know about Captainsparklez? "],
@@ -227,7 +227,7 @@ def make_knowledge_base():
         'minecraft: story mode' : ["Minecraft: Story Mode is a point and click adventure game created by Telltale games based on Minecraft and features many popular Minecraft Youtubers. "],
         'tnt' : ["TNT is a minecraft parody of the popular song by Taio Cruz: \"Dynamite\". "],
         'minecraft' : ["Minecraft is a popular survival game created by Notch where you can mine blocks and craft items in order to survive against mobs such as creepers. "],
-        'fortress_fury' : ["Fortress Fury is a mobile game which was created by CaptainSparklez in collaboration with Howard Marks under XREAL. It was originally titled \"Fortress Fallout\" but was renamed due to intervention by Bethesda for infringement. "],
+        'fortress fury' : ["Fortress Fury is a mobile game which was created by CaptainSparklez in collaboration with Howard Marks under XREAL. It was originally titled \"Fortress Fallout\" but was renamed due to intervention by Bethesda for infringement. "],
         'notch' : ["Notch AKA Markus Persson is a Swedish video game programmer who is best known for creating the popular video game Minecraft. "],
         'infringement' : ["Bethesda sent a cease and desist letter to XREAL to get them to change the name of their game from \"Fortress Fallout\" to something else as they feared people might mistake it with their upcoming game \"Fallout Shelter\". "],
         'songs' : ["CaptainSparklez has made many songs such has TNT. "],
@@ -244,6 +244,7 @@ def make_knowledge_base():
     tokenized_text = nltk.sent_tokenize(text)
 
     for x in important_terms:
+        knowledge_base[x]=[]
         for y in tokenized_text:
             if len(knowledge_base[x])>5:
                 continue
@@ -251,6 +252,12 @@ def make_knowledge_base():
                 y = re.sub('\[.*\]', '', y)
                 knowledge_base[x] += [" ".join(y.split())]
 
+    for x in knowledge_base:
+        print(x)
+        num = 1
+        for y in knowledge_base[x]:
+            print(f"\t{num}){y}")
+            num+=1
     pickle.dump(knowledge_base, open('knowledge_base.p', 'wb'))
 
 def main():

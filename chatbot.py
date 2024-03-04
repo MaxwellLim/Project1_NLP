@@ -137,7 +137,7 @@ def chatbot(k_base):
                 print(k_base['games_made'][0])
                 query = input('Would you like to know more?').lower()
                 if re.match(".*yes.*", query):
-                    print(k_base['fortress_fury'][random.randint(0,len(k_base['fortress_fury']))-1])
+                    print(k_base['fortress fury'][random.randint(0,len(k_base['fortress fury']))-1])
                     query = input(k_base['more'][0]).lower()
                     if re.match(".*infringement.*", query):
                         print(k_base['infringement'][random.randint(0,len(k_base['infringement']))-1])
