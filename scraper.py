@@ -1,11 +1,9 @@
-import math, pickle ,os
+import math, pickle, os, nltk
 from bs4 import BeautifulSoup
 from urllib import request
 from urllib.parse import urljoin
-import nltk
-from nltk import word_tokenize
 from nltk.stem import WordNetLemmatizer
-from nltk.corpus import stopwords, words
+from nltk.corpus import stopwords
 import re
 
 

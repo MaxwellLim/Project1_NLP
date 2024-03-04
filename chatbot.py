@@ -1,5 +1,4 @@
-import pickle, re, spacy ,xml.etree.ElementTree as ET, random, os
-from nltk.corpus import wordnet as wn
+import pickle, re, xml.etree.ElementTree as ET, random, os
 random.seed(42)
 
 #create or open an xml file with the users name
@@ -23,6 +22,7 @@ def get_profile(name):
         tree = ET.ElementTree(root)
     return tree, root
 
+#return a rating making sure the input is a number between 1 and 10
 def get_rating(output):
     while True:
         response = input(output)
@@ -45,6 +45,7 @@ def num_to_ordinal(num):
         num += 'th'
     return num
 
+#create ratings for the chatbot and store them under the xml file
 def rating(root):
     rating = ET.SubElement(root, "Ratings")
     accuracy = ET.SubElement(rating, "Accuracy")
@@ -71,6 +72,7 @@ def chatbot(k_base):
     #welcome user
     print(f"Welcome {name}, this is your {num_visits} visit. ")
     query = input(f"{k_base['base']}(I can give you a summary if you are unsure of what to ask about.)\n").lower()
+    
     #Dialog loop
     while True:
         if re.match(".*finished.*", query):
@@ -148,12 +150,14 @@ def chatbot(k_base):
         print("(To end session type \"finished\")")
         query = input(k_base['base']).lower()
 
+    #get ratings on the chat bot
     overall = rating(root)
     if overall>5:
         print("Thank you for chatting with me. I enjoyed our conversation.")
     else:
         print("Thank you for chatting with me. I hope your next time is more enjoyable.")
     
+    #save the user profile to a file
     if not os.path.exists('./profiles'):
             os.makedirs('./profiles')
     tree.write(f"./profiles/{name}.xml")
